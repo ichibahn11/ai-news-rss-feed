@@ -88,6 +88,11 @@ def build_feed(items, output_path="feed.xml"):
     fg.link(href="https://ichibahn11.github.io/ai-news-rss-feed/", rel="alternate")
     fg.language("en")
     fg.lastBuildDate(datetime.now(timezone.utc))
+    fg.image(
+        url="https://ichibahn11.github.io/ai-news-rss-feed/favicon.png",
+        title="GTM Intelligence Feed",
+        link="https://ichibahn11.github.io/ai-news-rss-feed/",
+    )
 
     for item in items:
         fe = fg.add_entry()
