@@ -37,6 +37,25 @@ In any Slack channel, run:
 
 New articles will post to that channel each morning automatically.
 
+## Testing the Feed
+
+Three ways to browse the feed without Slack:
+
+**Option 1 — Feedly (recommended, no install)**
+1. Go to [feedly.com](https://feedly.com) and create a free account
+2. Click **Add Content** → paste the feed URL
+3. Articles appear in a readable list, organized by category tag
+
+**Option 2 — Browser extension**
+Install [Feeder](https://feeder.co/reader) (Chrome/Firefox) or [NetNewsWire](https://netnewswire.com) (Mac/iOS), then add the feed URL. Articles are readable directly in your browser toolbar.
+
+**Option 3 — Raw XML in browser**
+Open the feed URL directly in any browser:
+```
+https://ichibahn11.github.io/ai-news-rss-feed/feed.xml
+```
+You’ll see the raw XML. It’s not pretty, but it’s the fastest way to confirm the feed is updating and check what articles are in it.
+
 ## What's Covered
 
 The feed tracks 5 categories across 27 search queries:
@@ -66,6 +85,8 @@ categories:
 Commit and push — the next morning's run picks up the changes automatically. Keep the total query count under 30 to stay within the Exa.ai free tier (~1,000 searches/month).
 
 ## Running Locally
+
+Only needed if you want to test a `queries.yaml` change before it goes live.
 
 ```bash
 # Install dependencies
