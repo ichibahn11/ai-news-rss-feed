@@ -52,6 +52,21 @@ def deduplicate(items):
     return unique
 
 
+def filter_recent(items, days=7):
+    cutoff = datetime.now(timezone.utc) - timedelta(days=days)
+    result = []
+    for item in items:
+        try:
+            pub = item.get("published")
+            if not pub:
+                continue
+            if datetime.fromisoformat(pub.replace("Z", "+00:00")) >= cutoff:
+                result.append(item)
+        except (ValueError, AttributeError):
+            continue
+    return result
+
+
 def sort_by_date(items):
     def parse(item):
         try:
@@ -103,6 +118,7 @@ def main():
         all_items.extend(items)
 
     all_items = deduplicate(all_items)
+    all_items = filter_recent(all_items)
     all_items = sort_by_date(all_items)
     all_items = all_items[:50]
 

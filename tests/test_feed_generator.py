@@ -1,6 +1,6 @@
 import pytest
 from datetime import datetime, timezone
-from feed_generator import deduplicate, sort_by_date, build_feed
+from feed_generator import deduplicate, sort_by_date, build_feed, filter_recent
 import os
 
 
@@ -54,6 +54,19 @@ def test_sort_by_date_handles_missing_date():
     ]
     result = sort_by_date(items)
     assert result[0]["url"] == "https://example.com/b"
+
+
+def test_filter_recent_drops_old_items():
+    from datetime import timedelta
+    now = datetime.now(timezone.utc)
+    items = [
+        make_item("https://example.com/new", (now - timedelta(days=1)).strftime("%Y-%m-%dT%H:%M:%SZ")),
+        make_item("https://example.com/old", (now - timedelta(days=10)).strftime("%Y-%m-%dT%H:%M:%SZ")),
+        make_item("https://example.com/no-date", None),
+    ]
+    result = filter_recent(items, days=7)
+    assert len(result) == 1
+    assert result[0]["url"] == "https://example.com/new"
 
 
 def test_build_feed_creates_valid_rss_file(tmp_path):
