@@ -1,0 +1,47 @@
+# GTM Intelligence Feed - Search Queries
+# Edit this file to add, remove, or change what the feed tracks.
+# Each query runs daily against Exa.ai with a 3-day rolling window.
+# Aim to keep the total query count under 30 to stay within the free tier.
+
+categories:
+  - name: "General AI"
+    queries:
+      - "OpenAI Anthropic Gemini agent protocol update"
+      - "AI search optimization AEO GEO LLM brand visibility"
+      - "retrieval bot optimization markdown JSON website architecture"
+      - "vibe coding natural language software development"
+      - "AI agent-to-agent protocol communication"
+
+  - name: "GTM Engineering"
+    queries:
+      - "GTM Engineering context engineering revenue architecture"
+      - "waterfall enrichment agentic GTM workflow"
+      - "AI snippets PQL nurturing outbound sales"
+      - "context is the moat ICP institutional knowledge AI"
+      - "computational thinking go-to-market AI"
+
+  - name: "Tool Stack"
+    queries:
+      - "Clay data enrichment workflow"
+      - "N8N Make.com automation workflow AI"
+      - "Octave context engine messaging"
+      - "Lemlist Instantly Smartlead email deliverability"
+      - "Exa.ai niche lead sourcing research"
+      - "Lovable Cursor Claude Code vibe coding tools"
+      - "Cargo data enrichment GTM"
+
+  - name: "Key Practitioners"
+    queries:
+      - "Yash Tekriwal Clay GTM"
+      - "Brendan Short The Signal GTM newsletter"
+      - "Kellen Casebeer The Deal Lab"
+      - "Patrick Spychalski The Kiln GTM"
+      - "Nico Druelle Revenue Architects"
+      - "Zach Vidibor Octave context engine"
+
+  - name: "Alpha Signals"
+    queries:
+      - "technographic data job description intent signal GTM"
+      - "board meeting transcript business intelligence signal"
+      - "GTM Engineer School YouTube"
+      - "The Signal Substack GTM engineering"
