@@ -1,132 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>GTM Intelligence Feed</title><link>https://ichibahn11.github.io/ai-news-rss-feed/</link><description>Daily AI and GTM engineering signals curated for the team</description><atom:link href="https://ichibahn11.github.io/ai-news-rss-feed/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://ichibahn11.github.io/ai-news-rss-feed/favicon.png</url><title>GTM Intelligence Feed</title><link>https://ichibahn11.github.io/ai-news-rss-feed/</link></image><language>en</language><lastBuildDate>Sat, 09 May 2026 11:43:15 +0000</lastBuildDate><item><title>Instantly vs Smartlead (2026): Honest Comparison from a Buyer-Side Operator</title><link>https://stackswap.ai/instantly-vs-smartlead</link><description>Instantly vs Smartlead (2026): Honest Comparison from a Buyer-Side Operator
-
-StackSwap comparison · published 2026-05-06
-
-# Instantly vs Smartlead (2026): Honest Comparison from a Buyer-Side Operator
-
-Both are cold email infrastructure platforms with similar core features (multi-mailbox sending, war</description><guid isPermaLink="false">https://stackswap.ai/instantly-vs-smartlead</guid><category>Tool Stack</category><pubDate>Wed, 06 May 2026 13:00:00 +0000</pubDate></item><item><title>The art of AI delegation - by Alex Banks - The Signal</title><link>https://thesignal.substack.com/p/the-art-of-delegation-in-the-age</link><description>The art of AI delegation - by Alex Banks - The Signal
-
-SubscribeSign in
-
-# The art of delegation in the age of AI
-
-### The psychology of handing over real work and how to actually do it.
-
-May 06, 2026
-
-∙ Paid
-
-24
-
-1
-
-Share
-
-You open Claude, type a prompt, and wait. The output arrives. You refine it,</description><guid isPermaLink="false">https://thesignal.substack.com/p/the-art-of-delegation-in-the-age</guid><category>Key Practitioners</category><pubDate>Wed, 06 May 2026 13:03:25 +0000</pubDate></item><item><title>n8n vs Zapier vs Make (2026): Operator Comparison + Decision Tree</title><link>https://stackswap.ai/n8n-vs-zapier-vs-make</link><description>n8n vs Zapier vs Make (2026): Operator Comparison + Decision Tree
-
-StackSwap comparison · published 2026-05-06
-
-# n8n vs Zapier vs Make (2026): Operator Comparison + Decision Tree
-
-The honest three-way comparison most automation buyers actually need. Zapier wins on UX and integration catalog. Make i</description><guid isPermaLink="false">https://stackswap.ai/n8n-vs-zapier-vs-make</guid><category>Tool Stack</category><pubDate>Wed, 06 May 2026 13:30:00 +0000</pubDate></item><item><title>The Knowledge Base Is Not the Moat. The Loop Is. - DEV Community</title><link>https://dev.to/michaeltuszynski/the-knowledge-base-is-not-the-moat-the-loop-is-4ffm</link><description>The Knowledge Base Is Not the Moat. The Loop Is. - DEV Community
-
-A recent piece called " The Bottleneck Was Never the Code" makes the right argument at the right time. Coding agents shift the constraint from typing to coordination. Organizational context — the shared understanding of what we're bui</description><guid isPermaLink="false">https://dev.to/michaeltuszynski/the-knowledge-base-is-not-the-moat-the-loop-is-4ffm</guid><category>GTM Engineering</category><pubDate>Wed, 06 May 2026 14:07:47 +0000</pubDate></item><item><title>The Lab Notebook: No. 5 - The AI of Law</title><link>https://vaill.substack.com/p/the-lab-notebook-no-5</link><description>The Lab Notebook: No. 5 - The AI of Law
-
-# The AI of Law
-
-SubscribeSign in
-
-# The Lab Notebook: No. 5
-
-May 06, 2026
-
-Share
-
-Welcome to The Lab Notebook, VAILL’s field log for tracking how AI is reshaping legal work.Our goal: fewer hot takes, more meaningful signals. We’re designing each Notebook ent</description><guid isPermaLink="false">https://vaill.substack.com/p/the-lab-notebook-no-5</guid><category>Key Practitioners</category><pubDate>Wed, 06 May 2026 15:23:13 +0000</pubDate></item><item><title>Choosing our CRM, is OB SDR dead(?) and more learnings from my first two months at Netic</title><link>https://thegtmengineer.substack.com/p/choosing-our-crm-is-ob-sdr-dead-and</link><description>Choosing our CRM, is OB SDR dead(?) and more learnings from my first two months at Netic
-
-SubscribeSign in
-
-# Choosing our CRM, is OB SDR dead(?) and more learnings from my first two months at Netic
-
-### What I've learned in my first two months building out growth and the GTM systems at a high-growt</description><guid isPermaLink="false">https://thegtmengineer.substack.com/p/choosing-our-crm-is-ob-sdr-dead-and</guid><category>Alpha Signals</category><pubDate>Wed, 06 May 2026 16:25:01 +0000</pubDate></item><item><title>Profit Beyond Rooms: What the Future of Revenue Management Looks Like</title><link>https://www.duettocloud.com/en-us/library/profit-beyond-rooms-what-the-future-of-revenue-management-looks-like</link><description>Profit Beyond Rooms: What the Future of Revenue Management Looks Like
-
-#### Blog
-
-# Profit beyond rooms: What the future of revenue management actually looks like.
-
-May 6, 2026
-
-1. LIBRARY
-2. PROFIT BEYOND ROOMS WHAT THE FUTURE OF REVENUE MANAGEMENT LOOKS LIKE
-
-Profit Beyond Rooms: What the Future o</description><guid isPermaLink="false">https://www.duettocloud.com/en-us/library/profit-beyond-rooms-what-the-future-of-revenue-management-looks-like</guid><category>Key Practitioners</category><pubDate>Wed, 06 May 2026 18:25:33 +0000</pubDate></item><item><title>Context management - OpenSearch Documentation</title><link>https://docs.opensearch.org/latest/ml-commons-plugin/context-management/</link><description>Context management - OpenSearch Documentation Context management | OpenSearch Documentation
-
-# Context management
-
-Introduced 3.5
-
-Context management enables OpenSearch agents to dynamically optimize their context before sending requests to large language models (LLMs). This flexible feature helps p</description><guid isPermaLink="false">https://docs.opensearch.org/latest/ml-commons-plugin/context-management/</guid><category>Tool Stack</category><pubDate>Wed, 06 May 2026 18:57:08 +0000</pubDate></item><item><title>AI Revenue Orchestration: Transform Your GTM | Copy.ai</title><link>https://www.copy.ai/blog/ai-revenue-orchestration</link><description>AI Revenue Orchestration: Transform Your GTM | Copy.ai
-
-GTM Strategy
-
-May 6, 2026
-
-May 6, 2026
-
-# AI Revenue Orchestration: Transform Your GTM
-
-CONTENTS
-
-H2 Heading link
-
-H3 Heading link
-
-Picture a world-class orchestra. Dozens of musicians, each brilliant in their own right, playing different instr</description><guid isPermaLink="false">https://www.copy.ai/blog/ai-revenue-orchestration</guid><category>GTM Engineering</category><pubDate>Wed, 06 May 2026 22:38:42 +0000</pubDate></item><item><title>Claude Code vs. Cursor: Which is best? [2026]</title><link>https://zapier.com/blog/claude-code-vs-cursor/</link><description>Claude Code vs. Cursor: Which is best? [2026]
-
-App comparisons 14 min read
-
-# Claude Code vs. Cursor: Which AI coding tool is best? [2026]
-
-By Miguel Rebelo · May 7, 2026
-
-Every day a developer sits down to work, they face a choice: do you want to stay close to the code or hand it off entirely? Stay</description><guid isPermaLink="false">https://zapier.com/blog/claude-code-vs-cursor/</guid><category>Tool Stack</category><pubDate>Thu, 07 May 2026 01:30:03 +0000</pubDate></item><item><title>#571 - How to Use AI to Identify the Perfect Time to Prospect | Brendan Short - 30 Minutes to President's Club | No-Nonsense Sales | Podme</title><link>https://podme.com/se/avsnitt/11680410/</link><description>#571 - How to Use AI to Identify the Perfect Time to Prospect | Brendan Short - 30 Minutes to President's Club | No-Nonsense Sales | Podme
-
-30 Minutes to President's Club | No-Nonsense Sales 7 Maj
-
-# #571 - How to Use AI to Identify the Perfect Time to Prospect | Brendan Short
-
-Lyssna i appen
-
-Lyssn</description><guid isPermaLink="false">https://podme.com/se/avsnitt/11680410/</guid><category>Key Practitioners</category><pubDate>Thu, 07 May 2026 07:00:00 +0000</pubDate></item><item><title>What is Model Context Protocol? 2026 MCP Spec | AgentDrop</title><link>https://agent-drop.com/what-is-model-context-protocol</link><description>What is Model Context Protocol? 2026 MCP Spec | AgentDrop
-
-# What is Model Context Protocol (MCP)?
-
-Model Context Protocol (MCP) is the open standard that lets AI assistants call external tools, read structured data, and use prompt templates over a common wire format. Anthropic introduced it in late</description><guid isPermaLink="false">https://agent-drop.com/what-is-model-context-protocol</guid><category>Tool Stack</category><pubDate>Thu, 07 May 2026 07:52:30 +0000</pubDate></item><item><title>Waterfall Enrichment vs. Single-Source Providers: Which Finds More Valid B2B Emails?</title><link>https://phantombuster.com/blog/lead-enrichment/waterfall-enrichment-vs-single-source-providers/</link><description>Waterfall Enrichment vs. Single-Source Providers: Which Finds More Valid B2B Emails?
-
-# Waterfall Enrichment vs. Single-Source Providers: Which Finds More Valid B2B Emails?
-
-- Julia Estrella
-- May 7, 2026
-
-##### Share this post
-
-URL
-
-LinkedIn
-
-X
-
-CONTENT TABLE
-
-### Ready to boost your growth?
-
-14-da</description><guid isPermaLink="false">https://phantombuster.com/blog/lead-enrichment/waterfall-enrichment-vs-single-source-providers/</guid><category>GTM Engineering</category><pubDate>Thu, 07 May 2026 08:09:20 +0000</pubDate></item><item><title>Markdown Alternates Guide — serving .md alongside .html for AI engines | Eastbound</title><link>https://www.eastbound.ai/markdown-alternates-guide/</link><description># Markdown Alternates Guide — serving .md alongside .html for AI engines
-
-Canonical: https://www.eastbound.ai/markdown-alternates-guide/
-Updated: 2026-05-07
-
-Per-page Markdown alternates let AI engines fetch your content as clean Markdown instead of HTML. The signal is small in absolute terms but co</description><guid isPermaLink="false">https://www.eastbound.ai/markdown-alternates-guide/</guid><category>General AI</category><pubDate>Thu, 07 May 2026 08:55:40 +0000</pubDate></item><item><title>How to Use Exa AI MCP Server with Claude Code - Vinkius</title><link>https://vinkius.com/apps/exa-ai-mcp/with/claude-code</link><description>How to Use Exa AI MCP Server with Claude Code
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>GTM Intelligence Feed</title><link>https://ichibahn11.github.io/ai-news-rss-feed/</link><description>Daily AI and GTM engineering signals curated for the team</description><atom:link href="https://ichibahn11.github.io/ai-news-rss-feed/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://ichibahn11.github.io/ai-news-rss-feed/favicon.png</url><title>GTM Intelligence Feed</title><link>https://ichibahn11.github.io/ai-news-rss-feed/</link></image><language>en</language><lastBuildDate>Sun, 10 May 2026 11:43:40 +0000</lastBuildDate><item><title>How to Use Exa AI MCP Server with Claude Code - Vinkius</title><link>https://vinkius.com/apps/exa-ai-mcp/with/claude-code</link><description>How to Use Exa AI MCP Server with Claude Code
 
 3,400+ MCP servers ready to use·Zero-Trust Architecture·Titanium-grade infrastructure
 
@@ -144,7 +17,11 @@ EU AI ActCompliant
 
 DLPData protection
 
-V8 Is</description><guid isPermaLink="false">https://vinkius.com/apps/exa-ai-mcp/with/claude-code</guid><category>Tool Stack</category><pubDate>Thu, 07 May 2026 11:43:06 +0000</pubDate></item><item><title>VibeCoding State-of-the-Art-Driven Development - DEV Community</title><link>https://dev.to/fullagenticstack/vibecoding-state-of-the-art-driven-development-31ne</link><description>VibeCoding State-of-the-Art-Driven Development - DEV Community
+V8 Is</description><guid isPermaLink="false">https://vinkius.com/apps/exa-ai-mcp/with/claude-code</guid><category>Tool Stack</category><pubDate>Thu, 07 May 2026 11:43:31 +0000</pubDate></item><item><title>Best AI Coding Agents in 2026: Claude Code, Cursor, Devin, Cline, Codex — Ranked | Blink Blog</title><link>https://blink.new/blog/best-ai-coding-agents-2026</link><description># Best AI Coding Agents in 2026: Claude Code, Cursor, Devin, Cline, Codex — Ranked
+
+&gt; An honest ranking of the 8 best AI coding agents in 2026: Claude Code, Cursor, Cline, Codex CLI, Aider, Devin, Windsurf, and GitHub Copilot — with real pricing and the deployment layer they all share.
+
+Author: team</description><guid isPermaLink="false">https://blink.new/blog/best-ai-coding-agents-2026</guid><category>Tool Stack</category><pubDate>Thu, 07 May 2026 12:22:12 +0000</pubDate></item><item><title>VibeCoding State-of-the-Art-Driven Development - DEV Community</title><link>https://dev.to/fullagenticstack/vibecoding-state-of-the-art-driven-development-31ne</link><description>VibeCoding State-of-the-Art-Driven Development - DEV Community
 
 For years, software engineering has optimized for:
 
@@ -164,39 +41,19 @@ by
 
 | May 7, 2026 | Software Development Insights
 
-Software development is changing fast. Developers no longer spend hours writing every line of code manually. AI tools can now generate code,</description><guid isPermaLink="false">https://gainhq.com/blog/vibe-coding/</guid><category>General AI</category><pubDate>Thu, 07 May 2026 13:15:23 +0000</pubDate></item><item><title>Best of GTM Vault - by Rick Koleta - GTM Vault</title><link>https://www.gtmvault.co/p/best-of-gtm-vault</link><description>Best of GTM Vault - by Rick Koleta - GTM Vault
+Software development is changing fast. Developers no longer spend hours writing every line of code manually. AI tools can now generate code,</description><guid isPermaLink="false">https://gainhq.com/blog/vibe-coding/</guid><category>General AI</category><pubDate>Thu, 07 May 2026 13:15:23 +0000</pubDate></item><item><title>If Intelligence Is Abundant, What Is the Moat?</title><link>https://atlan.com/context-and-chaos/issue/if-intelligence-is-abundant-what-is-the-moat/</link><description>If Intelligence Is Abundant, What Is the Moat?
 
-SubscribeSign in
+# If Intelligence Is Abundant, What Is the Moat?
 
-# Best of GTM Vault
+Performance is intelligence times context. The labs solved one side. Your enterprise has to solve the other.
 
-### The pieces operators come back to, cite in their own work, and send to their teams, organized by the problem you are trying to solve
+Prukalpa Sankar
 
-May 07, 2026
+Co-founder &amp; Co-CEO
 
-5
+May 7, 2026·11 min read
 
-Share
-
-👋 Hi, it’s Rick Koleta. Welcome to GTM Vault- a br</description><guid isPermaLink="false">https://www.gtmvault.co/p/best-of-gtm-vault</guid><category>Key Practitioners</category><pubDate>Thu, 07 May 2026 14:01:56 +0000</pubDate></item><item><title>If Intelligence Is Abundant, What is the Moat?</title><link>https://metadataweekly.substack.com/p/if-intelligence-is-abundant-what</link><description>If Intelligence Is Abundant, What is the Moat?
-
-# Context &amp; Chaos
-
-SubscribeSign in
-
-# If Intelligence Is Abundant, What is the Moat?
-
-### Performance is intelligence times context. The labs solved one side. Your enterprise has to solve the other.
-
-May 07, 2026
-
-6
-
-1
-
-Share
-
-Every few months, the te</description><guid isPermaLink="false">https://metadataweekly.substack.com/p/if-intelligence-is-abundant-what</guid><category>GTM Engineering</category><pubDate>Thu, 07 May 2026 14:22:22 +0000</pubDate></item><item><title>From SEO to GEO: The 2026 Roadmap for AI Search Visibility</title><link>https://www.techmagnate.com/blog/seo-to-geo-roadmap-ai-search-visibility/</link><description>From SEO to GEO: The 2026 Roadmap for AI Search Visibility
+Every few months, the tech he</description><guid isPermaLink="false">https://atlan.com/context-and-chaos/issue/if-intelligence-is-abundant-what-is-the-moat/</guid><category>GTM Engineering</category><pubDate>Thu, 07 May 2026 14:00:00 +0000</pubDate></item><item><title>From SEO to GEO: The 2026 Roadmap for AI Search Visibility</title><link>https://www.techmagnate.com/blog/seo-to-geo-roadmap-ai-search-visibility/</link><description>From SEO to GEO: The 2026 Roadmap for AI Search Visibility
 
 # From SEO to GEO: The 2026 Roadmap for Brands That Want AI to Recommend Them
 
@@ -208,27 +65,51 @@ Updated on: May 07, 2026
 
 - Share
 
-When a potential customer asks an AI assistant which enterprise solution to choose, does your bran</description><guid isPermaLink="false">https://www.techmagnate.com/blog/seo-to-geo-roadmap-ai-search-visibility/</guid><category>General AI</category><pubDate>Thu, 07 May 2026 14:38:30 +0000</pubDate></item><item><title>How to Boost AI Search Visibility in 2026 | Topify</title><link>https://topify.ai/blog/boost-ai-search-visibility-optimization-playbook</link><description>How to Boost AI Search Visibility in 2026 | Topify
+When a potential customer asks an AI assistant which enterprise solution to choose, does your bran</description><guid isPermaLink="false">https://www.techmagnate.com/blog/seo-to-geo-roadmap-ai-search-visibility/</guid><category>General AI</category><pubDate>Thu, 07 May 2026 14:38:30 +0000</pubDate></item><item><title>The slop cannons in your engineering org - by Jake Handy</title><link>https://handyai.substack.com/p/the-slop-cannons-in-your-engineering</link><description>The slop cannons in your engineering org - by Jake Handy
 
-A 5-step optimization playbook to get your brand recommended by ChatGPT, Gemini, and Perplexity.
+SubscribeSign in
 
-Your domain authority is solid. Your keyword rankings haven’t moved in months. But when a potential buyer asks ChatGPT for a recommendation in your ca</description><guid isPermaLink="false">https://topify.ai/blog/boost-ai-search-visibility-optimization-playbook</guid><category>General AI</category><pubDate>Thu, 07 May 2026 14:41:04 +0000</pubDate></item><item><title>Transcript : Investor AB - Shareholder/Analyst Call | MarketScreener</title><link>https://www.marketscreener.com/news/transcript-investor-ab-shareholder-analyst-call-ce7f5bdad98ff224</link><description>Transcript : Investor AB - Shareholder/Analyst Call | MarketScreener
+# The slop cannons in your engineering org
 
-Add to a list PDF Report
+### A field guide to the engineers and designers firing AI agents at every problem in sight
 
-# Investor AB
+May 07, 2026
 
-## Equities
+5
 
-## INVE A
+2
 
-## SE0015811955
+Share
 
-Market Closed - Nasdaq Stockholm
+Getting this out of the way first: I’m writing this as someo</description><guid isPermaLink="false">https://handyai.substack.com/p/the-slop-cannons-in-your-engineering</guid><category>Alpha Signals</category><pubDate>Thu, 07 May 2026 14:40:51 +0000</pubDate></item><item><title>Give Your AI Unlimited Updated Context | Towards Data Science</title><link>https://towardsdatascience.com/give-your-ai-unlimited-updated-context/</link><description>Give Your AI Unlimited Updated Context | Towards Data Science
 
-| 12:00:00 2026-05-07 pm EDT | 5-day change | 1st Jan Change |
-| --- | --- | --- |
-| 369.10 SEK | -0.99% | +0.52%</description><guid isPermaLink="false">https://www.marketscreener.com/news/transcript-investor-ab-shareholder-analyst-call-ce7f5bdad98ff224</guid><category>Alpha Signals</category><pubDate>Thu, 07 May 2026 16:05:18 +0000</pubDate></item><item><title>A2A vs MCP: The Two Protocols Reshaping How AI Systems Talk to Each Other</title><link>https://aishwaryasrinivasan.substack.com/p/a2a-vs-mcp-the-two-protocols-reshaping</link><description>A2A vs MCP: The Two Protocols Reshaping How AI Systems Talk to Each Other
+# Give Your AI Unlimited Updated Context
+
+The architecture behind a portable knowledge layer and the automation that keeps it alive.
+
+May 7, 2026
+
+10 min read
+
+Image generated with DALL-E.
+
+Andrej Karpathy (founding member of OpenAI) pos</description><guid isPermaLink="false">https://towardsdatascience.com/give-your-ai-unlimited-updated-context/</guid><category>GTM Engineering</category><pubDate>Thu, 07 May 2026 15:00:00 +0000</pubDate></item><item><title>Beyond the Franken-stack: Engineering RevTech Integrity in the Agentic Era &lt; Revenue Architects Blog</title><link>https://revenuearchitects.com/blog/engineering-revtech-integrity-in-the-agentic-era/</link><description>Beyond the Franken-stack: Engineering RevTech Integrity in the Agentic Era &lt; Revenue Architects Blog
+
+#### The Illusion of Easy Implementation
+
+In the early days of SaaS, the danger was the “snap decision”—instantly provisioning a tool that caused massive operational disruption later. In 2026, the s</description><guid isPermaLink="false">https://revenuearchitects.com/blog/engineering-revtech-integrity-in-the-agentic-era/</guid><category>Key Practitioners</category><pubDate>Thu, 07 May 2026 15:20:18 +0000</pubDate></item><item><title>Behind the Scenes with Go-To-Market Engineers: Clay’s $5 Billion Success Story – Frank's World of Data Science &amp; AI</title><link>https://www.franksworld.com/2026/05/07/behind-the-scenes-with-go-to-market-engineers-clays-5-billion-success-story/</link><description>Behind the Scenes with Go-To-Market Engineers: Clay’s $5 Billion Success Story – Frank's World of Data Science &amp; AI
+
+May 7, 2026
+
+#### Behind the Scenes with Go-To-Market Engineers: Clay’s $5 Billion Success Story
+
+May 7, 2026
+
+#### How to Build a 9.6 GHz Supercomputer at Home
+
+May 7, 2026
+
+#### Cor</description><guid isPermaLink="false">https://www.franksworld.com/2026/05/07/behind-the-scenes-with-go-to-market-engineers-clays-5-billion-success-story/</guid><category>Key Practitioners</category><pubDate>Thu, 07 May 2026 15:59:12 +0000</pubDate></item><item><title>A2A vs MCP: The Two Protocols Reshaping How AI Systems Talk to Each Other</title><link>https://aishwaryasrinivasan.substack.com/p/a2a-vs-mcp-the-two-protocols-reshaping</link><description>A2A vs MCP: The Two Protocols Reshaping How AI Systems Talk to Each Other
 
 # AI with Aish
 
@@ -260,7 +141,23 @@ May 07, 2026
 
 Share
 
-The average company runs 106 SaaS applications.</description><guid isPermaLink="false">https://www.gtmaipodcast.com/p/the-system-your-revenue-runs-on-and</guid><category>GTM Engineering</category><pubDate>Thu, 07 May 2026 19:00:28 +0000</pubDate></item><item><title>MCP vs A2A vs Function Calling: 2026 Comparison | AgentDrop</title><link>https://agent-drop.com/agent-protocol-comparison</link><description>MCP vs A2A vs Function Calling: 2026 Comparison | AgentDrop
+The average company runs 106 SaaS applications.</description><guid isPermaLink="false">https://www.gtmaipodcast.com/p/the-system-your-revenue-runs-on-and</guid><category>GTM Engineering</category><pubDate>Thu, 07 May 2026 19:00:28 +0000</pubDate></item><item><title>Who Owns the GTM System? - by J Moss</title><link>https://www.gtmaipodcast.com/p/who-owns-the-gtm-system</link><description>Who Owns the GTM System? - by J Moss
+
+# GTM AI Podcast &amp; Newsletter
+
+SubscribeSign in
+
+# Who Owns the GTM System?
+
+### Everyone owns a piece of AI. No one owns the system AI runs on. Part 4 of 5: The Org
+
+May 07, 2026
+
+∙ Paid
+
+Share
+
+Parts 1 through 3 of this series established the frame: we’re in a</description><guid isPermaLink="false">https://www.gtmaipodcast.com/p/who-owns-the-gtm-system</guid><category>Key Practitioners</category><pubDate>Thu, 07 May 2026 19:01:26 +0000</pubDate></item><item><title>MCP vs A2A vs Function Calling: 2026 Comparison | AgentDrop</title><link>https://agent-drop.com/agent-protocol-comparison</link><description>MCP vs A2A vs Function Calling: 2026 Comparison | AgentDrop
 
 # MCP vs A2A vs Function Calling: AI Agent Protocol Comparison
 
@@ -286,7 +183,18 @@ DEF 14A
 - Italian
 - Spanish
 - German
-- Ko</description><guid isPermaLink="false">https://www.stocktitan.net/sec-filings/OKTA/def-14a-okta-inc-definitive-proxy-statement-9902a55c1803.html</guid><category>Alpha Signals</category><pubDate>Thu, 07 May 2026 20:38:46 +0000</pubDate></item><item><title>Building a Social Proof Engine with Adrian Alfieri, Founder &amp; CEO of Verbatim</title><link>https://thegtmengineer.substack.com/p/building-a-social-proof-engine-with</link><description>Building a Social Proof Engine with Adrian Alfieri, Founder &amp; CEO of Verbatim
+- Ko</description><guid isPermaLink="false">https://www.stocktitan.net/sec-filings/OKTA/def-14a-okta-inc-definitive-proxy-statement-9902a55c1803.html</guid><category>Alpha Signals</category><pubDate>Thu, 07 May 2026 20:38:46 +0000</pubDate></item><item><title>FIS Transcript - FY2026Q1 AI Summary - Intellectia AI™</title><link>https://intellectia.ai/stock/FIS/earnings/transcript-FY2026Q1-2026-05-08</link><description>FIS Transcript - FY2026Q1 AI Summary - Intellectia AI™
+
+menu
+[![Intellectia Logo](https://d159e3ysga2l0q.cloudfront.net/official/prod/_next/static/media/logo.0~2jd8~me0to3.svg)![Intellectia](https://d159e3ysga2l0q.cloudfront.net/official/prod/_next/static/media/logo_text.15rgcbx_9mhzu.png)](https://</description><guid isPermaLink="false">https://intellectia.ai/stock/FIS/earnings/transcript-FY2026Q1-2026-05-08</guid><category>Alpha Signals</category><pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate></item><item><title>n8n vs Make vs Zapier 2026: Honest Developer Comparison | StackNova</title><link>https://stacknovahq.com/ai-productivity-workflows/n8n-vs-make-vs-zapier-developers-2026</link><description>n8n vs Make vs Zapier 2026: Honest Developer Comparison | StackNova
+
+Trending Topic
+
+n8n vs Make vs Zapier for Developers 2026: Which AI Automation Tool Is Actually Worth It
+
+AI Meeting Summarizer Comparison 2026: I Tested 8 Tools on 127 Real Meetings — Here's the Ranked Truth
+
+Free AI Writing Tools</description><guid isPermaLink="false">https://stacknovahq.com/ai-productivity-workflows/n8n-vs-make-vs-zapier-developers-2026</guid><category>Tool Stack</category><pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate></item><item><title>Building a Social Proof Engine with Adrian Alfieri, Founder &amp; CEO of Verbatim</title><link>https://thegtmengineer.substack.com/p/building-a-social-proof-engine-with</link><description>Building a Social Proof Engine with Adrian Alfieri, Founder &amp; CEO of Verbatim
 
 SubscribeSign in
 
@@ -310,13 +218,22 @@ Published on: May 8, 2026
 
 ## Introduction
 
-Building an AI agent is relatively easy in 2026.</description><guid isPermaLink="false">https://neosalpha.com/blogs/ai-agent-protocols-acp-vs-mcp-vs-a2a/</guid><category>General AI</category><pubDate>Fri, 08 May 2026 05:37:07 +0000</pubDate></item><item><title>Best AI Coding Tools 2026: Cursor vs Claude Code vs Copilot vs Windsurf - Fungies.io</title><link>https://fungies.io/best-ai-coding-tools-2026-comparison/</link><description># Best AI Coding Tools 2026: Cursor vs Claude Code vs Copilot vs Windsurf
+Building an AI agent is relatively easy in 2026.</description><guid isPermaLink="false">https://neosalpha.com/blogs/ai-agent-protocols-acp-vs-mcp-vs-a2a/</guid><category>General AI</category><pubDate>Fri, 08 May 2026 05:37:07 +0000</pubDate></item><item><title>The Deals: Spotify to Host Workouts on-Platform With Peloton Pact; ElevenLab Names New Series D Investors | K-Jewel 99.3 FM</title><link>https://www.kjwl.com/2026/05/07/the-deals-spotify-to-host-workouts-on-platform-with-peloton-pact-elevenlab-names-new-series-d-investors/</link><description>The Deals: Spotify to Host Workouts on-Platform With Peloton Pact; ElevenLab Names New Series D Investors | K-Jewel 99.3 FM
+
+Spotify partnered with Peloton in a deal that will see guided workouts on the streaming platform. Spotify free and premium users will now have access to dozens of curated play</description><guid isPermaLink="false">https://www.kjwl.com/2026/05/07/the-deals-spotify-to-host-workouts-on-platform-with-peloton-pact-elevenlab-names-new-series-d-investors/</guid><category>Key Practitioners</category><pubDate>Fri, 08 May 2026 07:25:55 +0000</pubDate></item><item><title>Best AI Coding Tools 2026: Cursor vs Claude Code vs Copilot vs Windsurf - Fungies.io</title><link>https://fungies.io/best-ai-coding-tools-2026-comparison/</link><description># Best AI Coding Tools 2026: Cursor vs Claude Code vs Copilot vs Windsurf
 
 Dawid Woźniak
 
 8 May 20268 May 2026
 
-Here’s a number that should get your attention: developers using AI coding assistants report an average productivity increase of 31.4% compared to traditional approaches. But here’s the ca</description><guid isPermaLink="false">https://fungies.io/best-ai-coding-tools-2026-comparison/</guid><category>Tool Stack</category><pubDate>Fri, 08 May 2026 12:08:28 +0000</pubDate></item><item><title>GTM AI Operating System — 197 Claude Skills</title><link>https://growthexe.substack.com/p/gtm-ai-operating-system-197-claude</link><description>GTM AI Operating System — 197 Claude Skills
+Here’s a number that should get your attention: developers using AI coding assistants report an average productivity increase of 31.4% compared to traditional approaches. But here’s the ca</description><guid isPermaLink="false">https://fungies.io/best-ai-coding-tools-2026-comparison/</guid><category>Tool Stack</category><pubDate>Fri, 08 May 2026 12:08:28 +0000</pubDate></item><item><title>What is Intent Data? | Phi Consulting Glossary | Phi Consulting</title><link>https://phi.consulting/glossary/intent-data</link><description>What is Intent Data? | Phi Consulting Glossary | Phi Consulting
+
+GTM/Sales
+# What is Intent Data?
+Intent data captures behavioral signals showing which accounts are actively researching your category. Learn how B2B revenue teams use it to prioritize outreach.
+Glossary
+4 min read
+![Mahad Kazmi](https</description><guid isPermaLink="false">https://phi.consulting/glossary/intent-data</guid><category>Alpha Signals</category><pubDate>Fri, 08 May 2026 13:00:00 +0000</pubDate></item><item><title>GTM AI Operating System — 197 Claude Skills</title><link>https://growthexe.substack.com/p/gtm-ai-operating-system-197-claude</link><description>GTM AI Operating System — 197 Claude Skills
 
 # Growth.exe
 
@@ -336,27 +253,115 @@ Share
 
 Identify your Ideal Customer Profile from scratch using company data, revenue signals, and buying patterns.
 
-## What</description><guid isPermaLink="false">https://growthexe.substack.com/p/gtm-ai-operating-system-197-claude</guid><category>GTM Engineering</category><pubDate>Fri, 08 May 2026 13:24:47 +0000</pubDate></item><item><title>RevOps Tech Stack: What 2,000+ Job Postings Reveal | RevOps Report</title><link>https://therevopsreport.com/resources/revops-tech-stack-job-data/</link><description>RevOps Tech Stack: What 2,000+ Job Postings Reveal | RevOps Report
+## What</description><guid isPermaLink="false">https://growthexe.substack.com/p/gtm-ai-operating-system-197-claude</guid><category>GTM Engineering</category><pubDate>Fri, 08 May 2026 13:24:47 +0000</pubDate></item><item><title>79 AI Prompts To Solve Almost All Your Sales Problems</title><link>https://aicfy.substack.com/p/79-ai-prompts-to-solve-almost-all</link><description>79 AI Prompts To Solve Almost All Your Sales Problems
 
-## CRM: Still the Foundation
+# AI Center
 
-No surprise here. CRM experience appeared in 89% of all RevOps job postings. But the breakdown between platforms tells an interesting story.
+SubscribeSign in
 
-Salesforce showed up in 72% of postings that mentioned a spe</description><guid isPermaLink="false">https://therevopsreport.com/resources/revops-tech-stack-job-data/</guid><category>Alpha Signals</category><pubDate>Fri, 08 May 2026 18:00:41 +0000</pubDate></item><item><title>Hegseth aims to cut through the bureaucracy with ‘Deal Team Six’</title><link>https://www.militarytimes.com/news/pentagon-congress/2026/05/08/hegseth-aims-to-cut-through-the-bureaucracy-with-deal-team-six/</link><description># Hegseth aims to cut through the bureaucracy with ‘Deal Team Six’
+# 79 AI Prompts To Solve Almost All Your Sales Problems
 
-Published: 2026-05-08T19:17:59.431000+00:00
-Author: Cristina Stassis
+### Prospecting To Optimization
 
-## Summary
+May 08, 2026
 
-The Department of Defense has introduced “Deal Team Six” a team of elite private sector businessmen tasked with handling defense contractor negotiatio</description><guid isPermaLink="false">https://www.militarytimes.com/news/pentagon-congress/2026/05/08/hegseth-aims-to-cut-through-the-bureaucracy-with-deal-team-six/</guid><category>Key Practitioners</category><pubDate>Fri, 08 May 2026 19:17:59 +0000</pubDate></item><item><title>Context Engineering Best Practices for Voice AI Agents – WebRTC.ventures</title><link>https://webrtc.ventures/2026/05/context-engineering-best-practices-for-voice-ai-agents/</link><description>Context Engineering Best Practices for Voice AI Agents – WebRTC.ventures
+Share
+
+Photo by Annie Spratt on Unsplash
+
+#### 1. Prospecting &amp; Lead Research
+
+#1. Ideal Customer Profile (ICP</description><guid isPermaLink="false">https://aicfy.substack.com/p/79-ai-prompts-to-solve-almost-all</guid><category>GTM Engineering</category><pubDate>Fri, 08 May 2026 14:02:08 +0000</pubDate></item><item><title>Private Equity Secondary Investment: KKR's Flow Control Co-Investment Deal</title><link>https://angelinvestorsnetwork.com/private-equity/pe-secondary-stakes-why-kkrs-flow-control-deal-matters</link><description>Private Equity Secondary Investment: KKR's Flow Control Co-Investment Deal
+
+## PE Secondary Stakes: Why KKR's Flow Control Deal Matters
+
+In April 2026, KKR-backed Flow Control Group accepted a minority investment from Neuberger Private Markets while KKR retained majority ownership—a secondary transa</description><guid isPermaLink="false">https://angelinvestorsnetwork.com/private-equity/pe-secondary-stakes-why-kkrs-flow-control-deal-matters</guid><category>Key Practitioners</category><pubDate>Fri, 08 May 2026 15:02:05 +0000</pubDate></item><item><title>How to ensure your new website is optimised for search and LLMs | SoBold</title><link>https://sobold.co.uk/news/how-to-ensure-your-new-website-is-optimised-for-search-and-llms/</link><description>How to ensure your new website is optimised for search and LLMs | SoBold
+
+AI
+
+Development
+
+Technical SEO
+
+# How to ensure your new website is optimised for search and LLMs
+
+8th May 2026
+
+Written by
+
+Written by
+
+Share
+
+Contents
+
+- Careers
+- Discovery and strategy: the decisions before any code is wri</description><guid isPermaLink="false">https://sobold.co.uk/news/how-to-ensure-your-new-website-is-optimised-for-search-and-llms/</guid><category>General AI</category><pubDate>Fri, 08 May 2026 15:15:16 +0000</pubDate></item><item><title>What Is Technographic Data? How It Works, Accuracy, and Real Use Cases</title><link>https://www.lead411.com/blog/what-is-technographic-data-full-guide-for-b2b-targeting-in-2026/</link><description>What Is Technographic Data? How It Works, Accuracy, and Real Use Cases
+
+# What Is Technographic Data? (Full Guide for B2B Targeting in 2026)
+
+May 8, 2026 | A.I., Big Data, Blog, Sales and Marketing
+
+# What Is Technographic Data? (How It Actually Works and When It Fails)
+
+## Quick Summary
+
+Technograp</description><guid isPermaLink="false">https://www.lead411.com/blog/what-is-technographic-data-full-guide-for-b2b-targeting-in-2026/</guid><category>Alpha Signals</category><pubDate>Fri, 08 May 2026 16:03:10 +0000</pubDate></item><item><title>Context Engineering Best Practices for Voice AI Agents – WebRTC.ventures</title><link>https://webrtc.ventures/2026/05/context-engineering-best-practices-for-voice-ai-agents/</link><description>Context Engineering Best Practices for Voice AI Agents – WebRTC.ventures
 
 Prompt engineering gets you a demo. Context engineering gets you a production Voice AI agent.
 
-Think of LLMs as the world’s most brilliant librarians: they’ve read almost everything ever written, but without your help, they ha</description><guid isPermaLink="false">https://webrtc.ventures/2026/05/context-engineering-best-practices-for-voice-ai-agents/</guid><category>Key Practitioners</category><pubDate>Fri, 08 May 2026 19:26:05 +0000</pubDate></item><item><title>Mise en Place for Agentic Coding: Deliberate Preparation as Context Engineering Methodology</title><link>https://scirate.com/arxiv/2605.05400</link><description>Mise en Place for Agentic Coding: Deliberate Preparation as Context Engineering Methodology
+Think of LLMs as the world’s most brilliant librarians: they’ve read almost everything ever written, but without your help, they ha</description><guid isPermaLink="false">https://webrtc.ventures/2026/05/context-engineering-best-practices-for-voice-ai-agents/</guid><category>Tool Stack</category><pubDate>Fri, 08 May 2026 19:26:05 +0000</pubDate></item><item><title>Mise en Place for Agentic Coding: Deliberate Preparation as Context Engineering Methodology</title><link>https://scirate.com/arxiv/2605.05400</link><description>Mise en Place for Agentic Coding: Deliberate Preparation as Context Engineering Methodology
 
 # Mise en Place for Agentic Coding: Deliberate Preparation as Context Engineering Methodology
 
 ScitedScite!
 
-@misc{2605.05400, author = {Andrew Zigler}, title = {{M}ise en {P}lace for {A}gentic {C}oding: {D}</description><guid isPermaLink="false">https://scirate.com/arxiv/2605.05400</guid><category>Key Practitioners</category><pubDate>Fri, 08 May 2026 19:56:33 +0000</pubDate></item></channel></rss>
+@misc{2605.05400, author = {Andrew Zigler}, title = {{M}ise en {P}lace for {A}gentic {C}oding: {D}</description><guid isPermaLink="false">https://scirate.com/arxiv/2605.05400</guid><category>Key Practitioners</category><pubDate>Fri, 08 May 2026 19:56:33 +0000</pubDate></item><item><title>10 Best Revenue Operations Services in 2026 | Revenue</title><link>https://www.revenue.io/blog/revenue-operations-services</link><description>10 Best Revenue Operations Services in 2026 | Revenue
+
+(888) 815-0802 Sign In
+
+Contact sales Book a demo
+
+# 10 Best Revenue Operations Services in 2026
+
+Revenue Blog&gt; 10 Best Revenue Operations Services in 2026
+
+7 min readMay 8, 2026
+
+Revenue operations services help B2B companies align their sales,</description><guid isPermaLink="false">https://www.revenue.io/blog/revenue-operations-services</guid><category>Key Practitioners</category><pubDate>Fri, 08 May 2026 23:09:12 +0000</pubDate></item><item><title>Passage-Aware Content Architecture for SEO</title><link>https://submit.top/passage-aware-content-architecture-structuring-pages-for-ret</link><description>Passage-Aware Content Architecture for SEO
+
+Sponsored ads
+
+Sponsored ads
+
+Learn how to structure pages for passage retrieval, answer-first visibility, and citation-ready reuse in AI search.
+
+Search systems are no longer evaluating your pages only as whole documents. Increasingly, they are indexing,</description><guid isPermaLink="false">https://submit.top/passage-aware-content-architecture-structuring-pages-for-ret</guid><category>General AI</category><pubDate>Sat, 09 May 2026 03:18:25 +0000</pubDate></item><item><title>Event Bus and Sync Architecture | sst/opencode | DeepWiki</title><link>https://deepwiki.com/sst/opencode/2.8-event-bus-and-sync-architecture</link><description>Event Bus and Sync Architecture | sst/opencode | DeepWiki
+
+Loading...
+
+Event Bus and Sync Architecture | sst/opencode | DeepWiki
+Loading...
+Index your code with Devin
+[DeepWiki](https://deepwiki.com/)
+[DeepWiki](https://deepwiki.com/)
+[sst/opencode ](https://github.com/sst/opencode)
+Index your code</description><guid isPermaLink="false">https://deepwiki.com/sst/opencode/2.8-event-bus-and-sync-architecture</guid><category>Tool Stack</category><pubDate>Sat, 09 May 2026 12:22:14 +0000</pubDate></item><item><title>GEO vs AEO vs SEO: The 2026 Comparison Guide | AI Studio</title><link>https://aistudio.com.sg/blog/geo-vs-aeo-vs-seo.html</link><description>GEO vs AEO vs SEO: The 2026 Comparison Guide | AI Studio
+
+## The short answer
+
+SEO (Search Engine Optimization) is the original discipline. It targets the ten ranked links Google returns for a query — backlinks, on-page keywords, technical health, content quality.
+
+AEO (Answer Engine Optimization) e</description><guid isPermaLink="false">https://aistudio.com.sg/blog/geo-vs-aeo-vs-seo.html</guid><category>General AI</category><pubDate>Sat, 09 May 2026 23:39:07 +0000</pubDate></item><item><title>Context Engineering Is the Compass Your Coding Agent Needs</title><link>https://dev.to/kyoma_1234/context-engineering-is-the-compass-your-coding-agent-needs-6kc</link><description># Context Engineering Is the Compass Your Coding Agent Needs - DEV Community
+
+Published: 2026-05-10T07:32:48+00:00
+
+## Summary
+
+Coding agents are sailing without a map in their codebase, where they don't know where they are in the codebase. Context engineering is the discipline of providing AI agent</description><guid isPermaLink="false">https://dev.to/kyoma_1234/context-engineering-is-the-compass-your-coding-agent-needs-6kc</guid><category>Key Practitioners</category><pubDate>Sun, 10 May 2026 07:32:48 +0000</pubDate></item><item><title>How to Choose a Lead Generation Agency: The 2026 Buyer's Guide | Cleanlist | Cleanlist</title><link>https://www.cleanlist.ai/blog/2026-05-15-lead-generation-agency-guide</link><description># Cleanlist
+
+&gt; Last updated: April 12, 2026
+
+&gt; Cleanlist is a B2B data enrichment and GTM orchestration platform. It uses waterfall enrichment — querying 15+ data providers per lookup — to deliver 98% email accuracy and 85% phone find rates. Credit-based pricing, no per-seat fees.
+
+## Core Product:</description><guid isPermaLink="false">https://www.cleanlist.ai/blog/2026-05-15-lead-generation-agency-guide</guid><category>GTM Engineering</category><pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate></item></channel></rss>
