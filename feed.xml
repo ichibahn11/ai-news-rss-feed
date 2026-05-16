@@ -1,154 +1,90 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>GTM Intelligence Feed</title><link>https://ichibahn11.github.io/ai-news-rss-feed/</link><description>Daily AI and GTM engineering signals curated for the team</description><atom:link href="https://ichibahn11.github.io/ai-news-rss-feed/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://ichibahn11.github.io/ai-news-rss-feed/favicon.png</url><title>GTM Intelligence Feed</title><link>https://ichibahn11.github.io/ai-news-rss-feed/</link></image><language>en</language><lastBuildDate>Fri, 15 May 2026 12:28:37 +0000</lastBuildDate><item><title>'Most B2B Growth Models Are Already Obsolete': Lucrum Partners CEO Delivers TEDx Talk on Signal-Led GTM™</title><link>https://www.einpresswire.com/article/907527299/most-b2b-growth-models-are-already-obsolete-lucrum-partners-ceo-delivers-tedx-talk-on-signal-led-gtm</link><description>'Most B2B Growth Models Are Already Obsolete': Lucrum Partners CEO Delivers TEDx Talk on Signal-Led GTM™
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>GTM Intelligence Feed</title><link>https://ichibahn11.github.io/ai-news-rss-feed/</link><description>Daily AI and GTM engineering signals curated for the team</description><atom:link href="https://ichibahn11.github.io/ai-news-rss-feed/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://ichibahn11.github.io/ai-news-rss-feed/favicon.png</url><title>GTM Intelligence Feed</title><link>https://ichibahn11.github.io/ai-news-rss-feed/</link></image><language>en</language><lastBuildDate>Sat, 16 May 2026 11:44:55 +0000</lastBuildDate><item><title>GitHub - elevanaltd/octave-mcp: OCTAVE protocol - GitHub</title><link>https://github.com/elevanaltd/octave-mcp</link><description># Repository: elevanaltd/octave-mcp
 
-World Media Directory· RSS· Email Newsletters
+OCTAVE protocol - structured AI communication with 3-20x token reduction. MCP server with lenient-to-canonical pipeline and schema validation.
 
-There were 1,930 press releases posted in the last 24 hours and 463,702 in the last 365 days.
+- Stars: 45
+- Forks: 3
+- Watchers: 45
+- Open issues: 12
+- Primary language: Python
+- Languages: Python (99.1%), Shell (</description><guid isPermaLink="false">https://github.com/elevanaltd/octave-mcp</guid><category>Tool Stack</category><pubDate>Wed, 13 May 2026 11:44:44 +0000</pubDate></item><item><title>LLMs.txt in 2026: The 4-Element Spec, The Robots.txt Pairing, and How to Verify Crawlers Are Reading It - Tygart Media</title><link>https://tygartmedia.com/llms-txt-2026-spec-robots-txt-pairing-verification/</link><description>LLMs.txt in 2026: The 4-Element Spec, The Robots.txt Pairing, and How to Verify Crawlers Are Reading It - Tygart Media
 
-# 'Most B2B Growth Models Are Already Obsolete': Luc</description><guid isPermaLink="false">https://www.einpresswire.com/article/907527299/most-b2b-growth-models-are-already-obsolete-lucrum-partners-ceo-delivers-tedx-talk-on-signal-led-gtm</guid><category>Key Practitioners</category><pubDate>Tue, 12 May 2026 12:30:00 +0000</pubDate></item><item><title>I built an MCP server without the @modelcontextprotocol/sdk — here's what I learned - DEV Community</title><link>https://dev.to/cammaccreator/i-built-an-mcp-server-without-the-modelcontextprotocolsdk-heres-what-i-learned-4eo0</link><description>I built an MCP server without the @modelcontextprotocol/sdk — here's what I learned - DEV Community
+# LLMs.txt in 2026: The 4-Element Spec, The Robots.txt Pairing, and How to Verify Crawlers Are Reading It
 
-I shipped a Model Context Protocol server last month. It's live on Anthropic's official registry as`io.github.cammac-creator/openswissdata`. It exposes nine tools over JSON-RPC 2.0 to any MCP-compati</description><guid isPermaLink="false">https://dev.to/cammaccreator/i-built-an-mcp-server-without-the-modelcontextprotocolsdk-heres-what-i-learned-4eo0</guid><category>Tool Stack</category><pubDate>Tue, 12 May 2026 13:00:51 +0000</pubDate></item><item><title>The Revenue Signal Methodology | Arvoan</title><link>https://arvoan.com/methodology/</link><description>The Revenue Signal Methodology | Arvoan
+Written by
 
-# The Revenue Signal Methodology
+in
 
-Revenue is a system, not a dashboard. This is the architectural standard that decouples your NRR growth from your commercial headcount.
+AI Search Authority, LLMs.txt &amp; AI Crawlability, Tygart M</description><guid isPermaLink="false">https://tygartmedia.com/llms-txt-2026-spec-robots-txt-pairing-verification/</guid><category>General AI</category><pubDate>Wed, 13 May 2026 14:03:33 +0000</pubDate></item><item><title>Clay Review 2026: Pricing, Features, Pros &amp; Cons | AIpedia</title><link>https://en.ai-pedias.com/tools/clay</link><description>Clay Review 2026: Pricing, Features, Pros &amp; Cons | AIpedia
 
-My approach to Revenue Architecture: A fixed 4-week sprint to uncover causal logic, gove</description><guid isPermaLink="false">https://arvoan.com/methodology/</guid><category>Key Practitioners</category><pubDate>Tue, 12 May 2026 15:24:53 +0000</pubDate></item><item><title>[feat]: thread currentTokenCount into ContextEngine.assemble · Pull Request #81079 · openclaw/openclaw</title><link>https://github.com/openclaw/openclaw/pull/81079</link><description># Pull Request: openclaw/openclaw #81079
+# Clay Review
 
-- Repository: openclaw/openclaw | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 | 371K stars | TypeScript
+AI Automation
 
-## [feat]: thread currentTokenCount into ContextEngine.assemble
+An AI data enrichment and automation platform for sales and GTM teams. Pull lead information in bulk from 150+ data providers.
 
-- Author: [@DatPham-6996](https://github.com/DatPham-6996)</description><guid isPermaLink="false">https://github.com/openclaw/openclaw/pull/81079</guid><category>Tool Stack</category><pubDate>Tue, 12 May 2026 15:41:12 +0000</pubDate></item><item><title>"AI SDRs Don't Work" —From the Guy Running the Company That Helped Create the Category</title><link>https://www.thesignal.club/p/11x</link><description>"AI SDRs Don't Work" —From the Guy Running the Company That Helped Create the Category
+★★★★★4.3/5.0
 
-# The Signal
+Last reviewed: May 14, 2026
 
-SubscribeSign in
+Web
 
-# "AI SDRs Don't Work" —From the Guy Running the Company That Helped Create the Category
+Try Clay Free →
 
-### 11x &lt;&gt; The Signal
+Starting Price
 
-May 12, 2026
+F</description><guid isPermaLink="false">https://en.ai-pedias.com/tools/clay</guid><category>Key Practitioners</category><pubDate>Wed, 13 May 2026 16:27:12 +0000</pubDate></item><item><title>How We're Using Data-Backed AI to Help Shippers and Carriers Make Better Pricing Decisions - Central Dispatch</title><link>https://www.centraldispatch.com/resources/cox-automotive-intelligence-price-check-plus</link><description>How We're Using Data-Backed AI to Help Shippers and Carriers Make Better Pricing Decisions - Central Dispatch
 
-7
-
-Share
-
-If you were forwarded this newsletter, join</description><guid isPermaLink="false">https://www.thesignal.club/p/11x</guid><category>Key Practitioners</category><pubDate>Tue, 12 May 2026 17:41:49 +0000</pubDate></item><item><title>Context is king: the missing layer between AI reasoning and enterprise action | by Anthony | The Slalom Blog | May, 2026 | Medium</title><link>https://medium.com/slalom-blog/context-is-king-the-missing-layer-between-ai-reasoning-and-enterprise-action-2da661b7d7ad</link><description>Context is king: the missing layer between AI reasoning and enterprise action | by Anthony | The Slalom Blog | May, 2026 | Medium
-
-Sign up
-
-Get app
-
-Sign up
-
-## The Slalom Blog
-
-Perspectives and advice for technology and business professionals, from Slalom’s experts.
-
-# Context is king: the missing</description><guid isPermaLink="false">https://medium.com/slalom-blog/context-is-king-the-missing-layer-between-ai-reasoning-and-enterprise-action-2da661b7d7ad</guid><category>GTM Engineering</category><pubDate>Tue, 12 May 2026 19:45:55 +0000</pubDate></item><item><title>Everett Berry (Head of GTM Eng @ Clay) - GTM Infrastructure</title><link>https://gtmcouncil.substack.com/p/everett-berry-head-of-gtm-eng-clay</link><description>Everett Berry (Head of GTM Eng @ Clay) - GTM Infrastructure
-
-# GTM Council
-
-SubscribeSign in
-
-# Everett Berry (Head of GTM Eng @ Clay) - GTM Infrastructure
-
-May 12, 2026
-
-Share
-
-Our StackedGTM podcast deep-dive on GTM Engineering wouldn’t be complete without chatting with Clay - the company who inve</description><guid isPermaLink="false">https://gtmcouncil.substack.com/p/everett-berry-head-of-gtm-eng-clay</guid><category>Key Practitioners</category><pubDate>Tue, 12 May 2026 19:57:55 +0000</pubDate></item><item><title>AFTER the DEAL: entrepreneur</title><link>http://dealusfans.blogspot.com/search/label/entrepreneur</link><description>AFTER the DEAL: entrepreneur
-
-Based on the synopsis, this could be one of the most 'magical' episodes in DEAL US history. But there's also a cameo appearance. Pay attention. In this episode, the models are in sleeveless, mostly red dresses. Meet Jennifer Gelband. She is a magic superfan, who is also</description><guid isPermaLink="false">http://dealusfans.blogspot.com/search/label/entrepreneur</guid><category>Key Practitioners</category><pubDate>Tue, 12 May 2026 20:01:00 +0000</pubDate></item><item><title>Agentic Development vs. Vibe Coding - Oshyn</title><link>https://www.oshyn.com/blog/agentic-development-vs-vibe-coding</link><description>---
-
-## title: Agentic Development vs. Vibe Coding
-description: AI-powered DXP development: Compare vibe coding vs. agentic development for AEM, Sitecore, Contentstack, and Optimizely projects.
-publish date: 2026-05-13
-author: Christian Burne
-image: https://media2.oshyn.com/-/media/Oshyn/Insights/Bl</description><guid isPermaLink="false">https://www.oshyn.com/blog/agentic-development-vs-vibe-coding</guid><category>General AI</category><pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate></item><item><title>How to set up llms.txt — A practical 2026 guide | GEO Tracker AI</title><link>https://geotrackerai.com/guides/llms-txt-setup</link><description>How to set up llms.txt — A practical 2026 guide | GEO Tracker AI
-
-## What llms.txt actually is (and is not)
-
-`llms.txt` is a plain-text file you host at the root of your website (e.g.`yourdomain.com/llms.txt`) that gives AI agents a Markdown map of which pages on your site matter and what each one i</description><guid isPermaLink="false">https://geotrackerai.com/guides/llms-txt-setup</guid><category>General AI</category><pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate></item><item><title>JSON-LD for AI search — the schemas that actually move the needle (2026) | GEO Tracker AI</title><link>https://geotrackerai.com/guides/json-ld-for-ai-search</link><description>JSON-LD for AI search — the schemas that actually move the needle (2026) | GEO Tracker AI
-
-## What JSON-LD is (and why it matters for AI search)
-
-JSON-LD (JavaScript Object Notation for Linked Data) is a way to embed structured, machine-readable metadata into HTML pages. You drop a` ` block into you</description><guid isPermaLink="false">https://geotrackerai.com/guides/json-ld-for-ai-search</guid><category>General AI</category><pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate></item><item><title>Legal History Blog: Casebeer on the Constitutional Economy of Liberty and Race</title><link>http://legalhistoryblog.blogspot.com/2008/11/casebeer-on-constitutional-economy-of.html</link><description>Legal History Blog: Casebeer on the Constitutional Economy of Liberty and Race
-
-Kenneth M. Casebeer, University of Miami School of Law, has posted the paper Memory Lost: Brown v. Board and the Constitutional Economy of Liberty and Race. Here is the abstract:
-
-&gt; This article shows how race impacts th</description><guid isPermaLink="false">http://legalhistoryblog.blogspot.com/2008/11/casebeer-on-constitutional-economy-of.html</guid><category>Key Practitioners</category><pubDate>Wed, 13 May 2026 01:02:00 +0000</pubDate></item><item><title>Marco Andolfi's Blog: Start crash course on Octave</title><link>http://marcoandolfi.blogspot.com/2014/03/start-crash-course-on-octave.html</link><description>Marco Andolfi's Blog: Start crash course on Octave
-
-Octave Cheat Sheet:
-
-Octave is an easy programming language used for solving machine learning problems.
-
-I am transcripting here the lesson I am following on Standford from Andrew Ng. I think that this script is a perfect crash course:
-
-```
- GNU Oc</description><guid isPermaLink="false">http://marcoandolfi.blogspot.com/2014/03/start-crash-course-on-octave.html</guid><category>Key Practitioners</category><pubDate>Wed, 13 May 2026 02:56:00 +0000</pubDate></item><item><title>Make.com + OpenAI: Build Autonomous AI Agents with GPT-4 API | Keerok</title><link>https://keerok.tech/en/blog/make-com-openai-build-autonomous-ai-agents-with-gpt-4-api/</link><description>Make.com + OpenAI: Build Autonomous AI Agents with GPT-4 API | Keerok
-
-Tutorial
-
-# Make.com + OpenAI: Build Autonomous AI Agents with GPT-4 API
-
-Auteur Keerok AI
-
-Date 13 May 2026
-
-Lecture 16 min
-
-The integration of Make.com with OpenAI's GPT-4 API represents a paradigm shift in business automation,</description><guid isPermaLink="false">https://keerok.tech/en/blog/make-com-openai-build-autonomous-ai-agents-with-gpt-4-api/</guid><category>Tool Stack</category><pubDate>Wed, 13 May 2026 06:09:42 +0000</pubDate></item><item><title>Agent-to-agent protocols - AWS Prescriptive Guidance</title><link>https://docs.aws.amazon.com/prescriptive-guidance/latest/agentic-ai-frameworks/agent-to-agent-protocols.html</link><description># Agent-to-agent protocols
-
-The following table provides an overview of agentic protocols that enable multiple agents to collaborate, delegate tasks, and share information.
-
-|
-|
-
-| Protocol | Ideal for | Considerations |
-| --- | --- | --- |
-| MCP inter-agent communication | Organizations seeking fle</description><guid isPermaLink="false">https://docs.aws.amazon.com/prescriptive-guidance/latest/agentic-ai-frameworks/agent-to-agent-protocols.html</guid><category>General AI</category><pubDate>Wed, 13 May 2026 12:28:16 +0000</pubDate></item><item><title>Best Technographic Data Providers of 2026 - ZoomInfo Blog</title><link>https://pipeline.zoominfo.com/sales/b2b-technographic-data-providers</link><description>Top 10 B2B Technographic Data Providers for 2026
-
-## What Is Technographic Data?
-
-Technographic data is information about the technology a company uses. This means you can see what CRM system they run, which marketing tools they've bought, what cloud platform hosts their infrastructure, and which se</description><guid isPermaLink="false">https://pipeline.zoominfo.com/sales/b2b-technographic-data-providers</guid><category>Alpha Signals</category><pubDate>Wed, 13 May 2026 12:28:34 +0000</pubDate></item><item><title>May 4–8 - Vibe Coding Update: What I Built Last Week</title><link>https://laurawifler.substack.com/p/may-48-vibe-coding-update-what-i</link><description>May 4–8 - Vibe Coding Update: What I Built Last Week
-
-SubscribeSign in
-
-# May 4–8 - Vibe Coding Update: What I Built Last Week
+# How We’re Using Data-Backed AI to Help Shippers and Carriers Make Better Pricing Decisions
 
 May 13, 2026
 
 Share
 
-Last week was another full week of vibe coding and I have some fun updates for you!
-
-## Lovable Desktop, ChatGPT, and better workflows
-
-I downloaded Lo</description><guid isPermaLink="false">https://laurawifler.substack.com/p/may-48-vibe-coding-update-what-i</guid><category>Tool Stack</category><pubDate>Wed, 13 May 2026 13:15:43 +0000</pubDate></item><item><title>Get Mentioned by AI: Building Brand Authority for GEO / AEO - Lumar</title><link>https://www.lumar.io/blog/best-practice/brand-authority-geo-aeo-ai-search-tips/</link><description>Get Mentioned by AI: Building Brand Authority for GEO / AEO - Lumar
-
-Break Through the AI Noise: Optimize, Be Understood, &amp; Get Cited by AI with Lumar’s GEO Toolkit. Read more.
-
-✕
-
-# Building Brand Authority for GEO / AEO
-
-Learn how to build brand trust signals that help you get mentioned and cited</description><guid isPermaLink="false">https://www.lumar.io/blog/best-practice/brand-authority-geo-aeo-ai-search-tips/</guid><category>General AI</category><pubDate>Wed, 13 May 2026 15:28:47 +0000</pubDate></item><item><title>Algorithms as strategy: inside the world’s elite marketing machines</title><link>https://www.raconteur.net/marketing-sales/algorithms-as-strategy-inside-the-worlds-elite-marketing-machines</link><description># Algorithms as strategy: inside the world’s elite marketing machines - Raconteur
-
-Published: 2026-05-13T15:29:12+00:00
-Author: Tom Dennis
-
-## Summary
-
-The marketing landscape in 2026 is becoming more complex than just about who has the most integrated intelligence, according to the author. This shi</description><guid isPermaLink="false">https://www.raconteur.net/marketing-sales/algorithms-as-strategy-inside-the-worlds-elite-marketing-machines</guid><category>GTM Engineering</category><pubDate>Wed, 13 May 2026 15:29:12 +0000</pubDate></item><item><title>MCP and A2A: The Two Protocols Defining How AI Agents Will Communicate</title><link>https://dev.to/ismail_haddou/mcp-and-a2a-the-two-protocols-defining-how-ai-agents-will-communicate-2m41</link><description># MCP and A2A: The Two Protocols Defining How AI Agents Will Communicate - DEV Community
+There’s a moment every shipper and carrier knows well: The pause before se</description><guid isPermaLink="false">https://www.centraldispatch.com/resources/cox-automotive-intelligence-price-check-plus</guid><category>Tool Stack</category><pubDate>Wed, 13 May 2026 16:44:38 +0000</pubDate></item><item><title>MCP and A2A: The Two Protocols Defining How AI Agents Will Communicate</title><link>https://dev.to/ismail_haddou/mcp-and-a2a-the-two-protocols-defining-how-ai-agents-will-communicate-2m41</link><description># MCP and A2A: The Two Protocols Defining How AI Agents Will Communicate - DEV Community
 
 Published: 2026-05-13T16:50:22+00:00
 
 ## Summary
 
-The Protocols MCP (Model Context Protocol) and A2A (Agent-to-Agent) are the two protocols defining how AI Agents will communicate, with MCP being the backbone o</description><guid isPermaLink="false">https://dev.to/ismail_haddou/mcp-and-a2a-the-two-protocols-defining-how-ai-agents-will-communicate-2m41</guid><category>General AI</category><pubDate>Wed, 13 May 2026 16:50:22 +0000</pubDate></item><item><title>AMD: Record 2025 results, strategic AI focus, and all board proposals approved except the shareholder measure — TradingView News</title><link>https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:3323190:0-amd-record-2025-results-strategic-ai-focus-and-all-board-proposals-approved-except-the-shareholder-measure/</link><description>AMD: Record 2025 results, strategic AI focus, and all board proposals approved except the shareholder measure — TradingView News
+The Protocols MCP (Model Context Protocol) and A2A (Agent-to-Agent) are the two protocols defining how AI Agents will communicate, with MCP being the backbone o</description><guid isPermaLink="false">https://dev.to/ismail_haddou/mcp-and-a2a-the-two-protocols-defining-how-ai-agents-will-communicate-2m41</guid><category>General AI</category><pubDate>Wed, 13 May 2026 16:50:22 +0000</pubDate></item><item><title>GEO Strategy Guide: Get ChatGPT and Perplexity to Cite You | 1st March 2026</title><link>https://www.maximuslabs.ai/ai-search-101/geo/strategy</link><description>GEO Strategy Guide: Get ChatGPT and Perplexity to Cite You | 1st March 2026
+
+#### Home
+
+#### /
+
+#### AI Search 101
+
+#### /
+
+#### GEO
+
+#### /
+
+#### Fundamentals
+
+GEO Strategy Guide: Get ChatGPT and Perplexity to Cite You | 1st March 2026
+
+Learn the GEO strategy framework top brands use to get cited b</description><guid isPermaLink="false">https://www.maximuslabs.ai/ai-search-101/geo/strategy</guid><category>General AI</category><pubDate>Wed, 13 May 2026 17:13:52 +0000</pubDate></item><item><title>"Software Is Basically Worth Zero Now" | Tyler Hogge</title><link>https://thegtmnewsletter.substack.com/p/saas-pricing-collapse-software-worth-zero-tyler-hogge</link><description>"Software Is Basically Worth Zero Now" | Tyler Hogge
+
+SubscribeSign in
+
+The GTMnow Podcast
+
+VC: The moat moved. It's not the product anymore
+
+1
+
+0:00
+
+-47:40
+
+Audio playback is not supported on your browser. Please upgrade.
+
+## VC: The moat moved. It's not the product anymore
+
+Tyler Hogge helped eng</description><guid isPermaLink="false">https://thegtmnewsletter.substack.com/p/saas-pricing-collapse-software-worth-zero-tyler-hogge</guid><category>Key Practitioners</category><pubDate>Wed, 13 May 2026 17:17:04 +0000</pubDate></item><item><title>AMD: Record 2025 results, strategic AI focus, and all board proposals approved except the shareholder measure — TradingView News</title><link>https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:3323190:0-amd-record-2025-results-strategic-ai-focus-and-all-board-proposals-approved-except-the-shareholder-measure/</link><description>AMD: Record 2025 results, strategic AI focus, and all board proposals approved except the shareholder measure — TradingView News
 
 Search
 
@@ -158,7 +94,13 @@ EN
 
 Less than 1 min read
 
-The meeting covered dir</description><guid isPermaLink="false">https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:3323190:0-amd-record-2025-results-strategic-ai-focus-and-all-board-proposals-approved-except-the-shareholder-measure/</guid><category>Alpha Signals</category><pubDate>Wed, 13 May 2026 17:20:23 +0000</pubDate></item><item><title>The Ghost in the Matrix: Navigating the Era of Vibe Coding - SD Times</title><link>https://sdtimes.com/ai/the-ghost-in-the-matrix-navigating-the-era-of-vibe-coding/</link><description>The Ghost in the Matrix: Navigating the Era of Vibe Coding - SD Times
+The meeting covered dir</description><guid isPermaLink="false">https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:3323190:0-amd-record-2025-results-strategic-ai-focus-and-all-board-proposals-approved-except-the-shareholder-measure/</guid><category>Alpha Signals</category><pubDate>Wed, 13 May 2026 17:20:23 +0000</pubDate></item><item><title>Securing AI agents: How AWS and Cisco AI Defense scale MCP and A2A deployments | Artificial Intelligence</title><link>https://aws.amazon.com/blogs/machine-learning/securing-ai-agents-how-aws-and-cisco-ai-defense-scale-mcp-and-a2a-deployments/</link><description>Securing AI agents: How AWS and Cisco AI Defense scale MCP and A2A deployments | Artificial Intelligence Skip to Main Content
+
+## Artificial Intelligence
+
+# Securing AI agents: How AWS and Cisco AI Defense scale MCP and A2A deployments
+
+Model Context Protocol(MCP) adoption has accelerated rapidly si</description><guid isPermaLink="false">https://aws.amazon.com/blogs/machine-learning/securing-ai-agents-how-aws-and-cisco-ai-defense-scale-mcp-and-a2a-deployments/</guid><category>General AI</category><pubDate>Wed, 13 May 2026 17:33:16 +0000</pubDate></item><item><title>The Ghost in the Matrix: Navigating the Era of Vibe Coding - SD Times</title><link>https://sdtimes.com/ai/the-ghost-in-the-matrix-navigating-the-era-of-vibe-coding/</link><description>The Ghost in the Matrix: Navigating the Era of Vibe Coding - SD Times
 
 Published: May 13th, 2026
 
@@ -198,17 +140,18 @@ The Lessie Team 5/13/2026Share
 
 # B2B Data Enrichment: The Complete 2026 Guide (Process, Tools &amp; Pricing)
 
-Everything a modern GTM team needs to know about B2B data enrichment —</description><guid isPermaLink="false">https://lessie.ai/blog/b2b-data-enrichment-guide</guid><category>Tool Stack</category><pubDate>Wed, 13 May 2026 22:19:50 +0000</pubDate></item><item><title>Model Context Protocol (MCP): Expose Your REST API to AI Agents (2026)</title><link>https://www.restguide.info/model-context-protocol</link><description>Model Context Protocol (MCP): Expose Your REST API to AI Agents (2026)
+Everything a modern GTM team needs to know about B2B data enrichment —</description><guid isPermaLink="false">https://lessie.ai/blog/b2b-data-enrichment-guide</guid><category>Alpha Signals</category><pubDate>Wed, 13 May 2026 22:19:50 +0000</pubDate></item><item><title>Anthropic's Claude subscriptions no longer include Agent SDK and claude -p usage</title><link>https://www.xda-developers.com/anthropics-claude-subscriptions-no-longer-include-agent-sdk-and-claude-p-usage/</link><description>Anthropic's Claude subscriptions no longer include Agent SDK and claude -p usage
 
-# Model Context Protocol (MCP)
+Close
 
-"USB-C for AI" — expose your REST API as typed tools for Claude, GPT-4, Gemini, and any MCP-compatible AI agent
+Close
 
-Last Updated: May 13, 2026
+### Summary
 
-## What is Model Context Protocol?
+- Paid Claude plans get a dedicated monthly programmatic credit for Agent SDK, claude -p, Claude Code GitHub Actions.
+- Subscription interactive credits no longer cover programmatic use; prog</description><guid isPermaLink="false">https://www.xda-developers.com/anthropics-claude-subscriptions-no-longer-include-agent-sdk-and-claude-p-usage/</guid><category>General AI</category><pubDate>Wed, 13 May 2026 22:46:36 +0000</pubDate></item><item><title>GNU Octave: Octave ternary operator</title><link>http://gnu-octave.blogspot.com/2007/11/octave-ternary-operator.html</link><description>GNU Octave: Octave ternary operator
 
-Model Context Proto</description><guid isPermaLink="false">https://www.restguide.info/model-context-protocol</guid><category>General AI</category><pubDate>Wed, 13 May 2026 23:46:58 +0000</pubDate></item><item><title>AI Revenue Orchestration: Building an Intelligent Revenue Engine - Fullcast</title><link>https://www.fullcast.com/content/ai-revenue-orchestration/</link><description>AI Revenue Orchestration: Building an Intelligent Revenue Engine - Fullcast
+Ternary operatorLike in the earlier blog post, I tried building a ternary operator into Octave.The well known C-language '?' operator, is what I wanted to build into Octave. The '?' operator, has a grammar that evaluates to an expression; '?' ':' This was quite e</description><guid isPermaLink="false">http://gnu-octave.blogspot.com/2007/11/octave-ternary-operator.html</guid><category>Tool Stack</category><pubDate>Wed, 13 May 2026 22:50:00 +0000</pubDate></item><item><title>AI Revenue Orchestration: Building an Intelligent Revenue Engine - Fullcast</title><link>https://www.fullcast.com/content/ai-revenue-orchestration/</link><description>AI Revenue Orchestration: Building an Intelligent Revenue Engine - Fullcast
 
 Read the 2026 Benchmarks Report Now!
 
@@ -218,7 +161,9 @@ Read the 2026 Benchmarks Report Now!
 
 #### FULLCAST
 
-Fullcast was built for RevOps leaders by RevOps leaders with</description><guid isPermaLink="false">https://www.fullcast.com/content/ai-revenue-orchestration/</guid><category>Key Practitioners</category><pubDate>Thu, 14 May 2026 03:46:44 +0000</pubDate></item><item><title>8 GEO indicators that will determine brand effectiveness in AI search — UAMASTER agency blog</title><link>https://uamaster.net/8-geo-indicators-that-will-determine-brand-effectiveness-in-ai-search/</link><description>8 GEO indicators that will determine brand effectiveness in AI search — UAMASTER agency blog
+Fullcast was built for RevOps leaders by RevOps leaders with</description><guid isPermaLink="false">https://www.fullcast.com/content/ai-revenue-orchestration/</guid><category>Key Practitioners</category><pubDate>Thu, 14 May 2026 03:46:44 +0000</pubDate></item><item><title>AI Won’t Save Your GTM if You Still Can’t Prove What Works | The AI Journal</title><link>https://aijourn.com/ai-wont-save-your-gtm-if-you-still-cant-prove-what-works/</link><description>AI Won’t Save Your GTM if You Still Can’t Prove What Works | The AI Journal
+
+Artificial intelligence has quickly become the default answer to many go-to-market challenges. It is now being applied to content creation, targeting, workflow automation, forecasting, personalization, and sales enablement.</description><guid isPermaLink="false">https://aijourn.com/ai-wont-save-your-gtm-if-you-still-cant-prove-what-works/</guid><category>Key Practitioners</category><pubDate>Thu, 14 May 2026 04:15:22 +0000</pubDate></item><item><title>8 GEO indicators that will determine brand effectiveness in AI search — UAMASTER agency blog</title><link>https://uamaster.net/8-geo-indicators-that-will-determine-brand-effectiveness-in-ai-search/</link><description>8 GEO indicators that will determine brand effectiveness in AI search — UAMASTER agency blog
 
 14.05.2026
 
@@ -231,7 +176,61 @@ Fullcast was built for RevOps leaders by RevOps leaders with</description><guid 
 2 8 Key GEO metrics brands should track in 2026
 
 - 2.1 AI citation frequency
-- 2.2 Sha</description><guid isPermaLink="false">https://uamaster.net/8-geo-indicators-that-will-determine-brand-effectiveness-in-ai-search/</guid><category>General AI</category><pubDate>Thu, 14 May 2026 10:33:47 +0000</pubDate></item><item><title>‘Gemini Spark’ is Google’s upcoming AI agent in the Gemini app</title><link>https://9to5google.com/2026/05/14/gemini-spark-insight/</link><description>‘Gemini Spark’ is Google’s upcoming AI agent in the Gemini app
+- 2.2 Sha</description><guid isPermaLink="false">https://uamaster.net/8-geo-indicators-that-will-determine-brand-effectiveness-in-ai-search/</guid><category>General AI</category><pubDate>Thu, 14 May 2026 10:33:47 +0000</pubDate></item><item><title>Hot Take: ChatGPT Beats Claude for Vibe Coding Right Now</title><link>https://uk.pcmag.com/ai/164934/hot-take-chatgpt-beats-claude-for-vibe-coding-right-now</link><description>Hot Take: ChatGPT Beats Claude for Vibe Coding Right Now
+
+PCMag editors select and review products independently. If you buy through affiliate links, we may earn commissions, which help support our testing.
+
+# Hot Take: ChatGPT Beats Claude for Vibe Coding Right Now
+
+Updated May 14, 2026
+
+## I teste</description><guid isPermaLink="false">https://uk.pcmag.com/ai/164934/hot-take-chatgpt-beats-claude-for-vibe-coding-right-now</guid><category>General AI</category><pubDate>Thu, 14 May 2026 12:00:00 +0000</pubDate></item><item><title>Reaching 100 on isitagentready.com: What Your Site Needs in the Era of Agents</title><link>https://xergioalex.com/blog/aeo-reaching-100-isitagentready/</link><description># Reaching 100 on isitagentready.com: What Your Site Needs in the Era of Agents
+
+&gt; Five categories, eight artifacts, one concrete guide: what your site needs to be agent-ready — including the commerce layer I deliberately don't fake.
+
+Published: 2026-05-14
+Language: en
+Canonical: https://xergioalex.</description><guid isPermaLink="false">https://xergioalex.com/blog/aeo-reaching-100-isitagentready/</guid><category>General AI</category><pubDate>Thu, 14 May 2026 15:00:00 +0000</pubDate></item><item><title>Bridging the Context Gap: Providing Structural Awareness to AI Coding Agents in Go with GoGraph - Coder Legion</title><link>https://coderlegion.com/17835/bridging-the-context-gap-providing-structural-awareness-to-ai-coding-agents-with-gograph</link><description>Bridging the Context Gap: Providing Structural Awareness to AI Coding Agents in Go with GoGraph - Coder Legion
+
+menu
+
+search
+
+Log In
+
+account_circle
+
+## Welcome to Coder Legion
+
+#### Connect with 4,210 amazing developers
+
+Email or Username
+
+Password Forgot your password?
+
+Remember
+
+Log In
+
+#### Don'</description><guid isPermaLink="false">https://coderlegion.com/17835/bridging-the-context-gap-providing-structural-awareness-to-ai-coding-agents-with-gograph</guid><category>Key Practitioners</category><pubDate>Thu, 14 May 2026 15:44:55 +0000</pubDate></item><item><title>Why Doesn’t Anyone Teach Developers About Context Management?</title><link>https://oreillyradar.substack.com/p/why-doesnt-anyone-teach-developers</link><description>Why Doesn’t Anyone Teach Developers About Context Management?
+
+SubscribeSign in
+
+# Why Doesn’t Anyone Teach Developers About Context Management?
+
+### We overestimate what AI can remember and underestimate what it can orchestrate.
+
+O'Reilly and Andrew Stellman
+
+May 14, 2026
+
+1
+
+1
+
+Share
+
+#### By Andr</description><guid isPermaLink="false">https://oreillyradar.substack.com/p/why-doesnt-anyone-teach-developers</guid><category>GTM Engineering</category><pubDate>Thu, 14 May 2026 16:02:20 +0000</pubDate></item><item><title>‘Gemini Spark’ is Google’s upcoming AI agent in the Gemini app</title><link>https://9to5google.com/2026/05/14/gemini-spark-insight/</link><description>‘Gemini Spark’ is Google’s upcoming AI agent in the Gemini app
 
 # ‘Gemini Spark’ is Google’s upcoming AI agent in the Gemini app
 
@@ -257,7 +256,15 @@ Sign up
 
 Perspectives and advice for technology and business professionals, from Slalom’s experts.
 
-# Notes from the fie</description><guid isPermaLink="false">https://medium.com/slalom-blog/notes-from-the-field-context-engineering-and-the-real-bottleneck-in-enterprise-ai-f4fabf18a652</guid><category>GTM Engineering</category><pubDate>Thu, 14 May 2026 17:31:31 +0000</pubDate></item><item><title>Cursor vs Claude Code -- When to Use Which | Developer Toolkit</title><link>https://developertoolkit.ai/en/comparison/cursor-vs-claude-code/</link><description>Skip to content
+# Notes from the fie</description><guid isPermaLink="false">https://medium.com/slalom-blog/notes-from-the-field-context-engineering-and-the-real-bottleneck-in-enterprise-ai-f4fabf18a652</guid><category>GTM Engineering</category><pubDate>Thu, 14 May 2026 17:31:31 +0000</pubDate></item><item><title>Autonomous Revenue Operations: AI-Driven RevOps Evolution - Fullcast</title><link>https://www.fullcast.com/content/autonomous-revenue-operations/</link><description>Autonomous Revenue Operations: AI-Driven RevOps Evolution - Fullcast
+
+Read the 2026 Benchmarks Report Now!
+
+# Autonomous Revenue Operations: The AI-Driven Evolution of RevOps
+
+#### FULLCAST
+
+Fullcast was built for RevOps leaders by RevOps leaders with a goal of bringing together all of the moving pi</description><guid isPermaLink="false">https://www.fullcast.com/content/autonomous-revenue-operations/</guid><category>Key Practitioners</category><pubDate>Thu, 14 May 2026 18:30:15 +0000</pubDate></item><item><title>Detailed Three-Tool Capability Comparison | Developer Toolkit</title><link>https://developertoolkit.ai/en/comparison/feature-matrix/</link><description>Skip to content
 
 Unlock full access
 
@@ -268,6 +275,32 @@ Try Free
 
 Improve this page
 
-# Cursor vs Claude Code -- When to Use Which
+# Detailed Three-Tool Capability Comparison
 
-You are three hours into a refactoring sprint. The type system migration is half done, tests are red, and you just realized the change</description><guid isPermaLink="false">https://developertoolkit.ai/en/comparison/cursor-vs-claude-code/</guid><category>Tool Stack</category><pubDate>Thu, 14 May 2026 21:07:26 +0000</pubDate></item></channel></rss>
+You are evaluating AI coding tools for your team. The marketing pages all claim “autonomous coding,” “multi-file editing,” and “best-in-</description><guid isPermaLink="false">https://developertoolkit.ai/en/comparison/feature-matrix/</guid><category>Tool Stack</category><pubDate>Thu, 14 May 2026 21:07:26 +0000</pubDate></item><item><title>Tool Comparison Overview | Developer Toolkit</title><link>https://developertoolkit.ai/en/comparison/</link><description>Skip to content
+
+Unlock full access
+
+- 350+ tutorials
+- Updated weekly
+- 7-day free trial
+Try Free
+
+Improve this page
+
+# Tool Comparison Overview
+
+## The Three Tools That Define AI-Assisted Development
+
+Section titled “The Three Tools That Define AI-Assisted Development”
+
+The AI coding landscape has</description><guid isPermaLink="false">https://developertoolkit.ai/en/comparison/</guid><category>Tool Stack</category><pubDate>Thu, 14 May 2026 21:07:26 +0000</pubDate></item><item><title>Karen Casebeer Photography: May 2026</title><link>http://karencasebeerphotography.blogspot.com/2026/05/</link><description>Karen Casebeer Photography: May 2026
+
+I love visiting this scenic spot in the spring, where many birds visit during migration. But on this sunny morning, I only saw geese, a trumpeter swan, and a noisy grackle. Then, I spotted two sandhill cranes herky-jerking through the long grasses at the edge of</description><guid isPermaLink="false">http://karencasebeerphotography.blogspot.com/2026/05/</guid><category>Key Practitioners</category><pubDate>Fri, 15 May 2026 07:50:00 +0000</pubDate></item><item><title>Karen Casebeer Photography</title><link>http://karencasebeerphotography.blogspot.com/</link><description>Karen Casebeer Photography
+
+I love visiting this scenic spot in the spring, where many birds visit during migration. But on this sunny morning, I only saw geese, a trumpeter swan, and a noisy grackle. Then, I spotted two sandhill cranes herky-jerking through the long grasses at the edge of the pond.</description><guid isPermaLink="false">http://karencasebeerphotography.blogspot.com/</guid><category>Key Practitioners</category><pubDate>Fri, 15 May 2026 07:50:00 +0000</pubDate></item><item><title>B2B Sales Technologies Trends: 2026 GTM Guide | SyncGTM | SyncGTM</title><link>https://www.syncgtm.com/blog/b2b-sales-technologies-trends</link><description>B2B Sales Technologies Trends: 2026 GTM Guide | SyncGTM | SyncGTM
+
+Enrichments MCP is now live for all plans. Try it out today
+
+B2B Sales Technologies Trends: 2026 GTM Guide | SyncGTM | SyncGTM
+[Enrichments MCP is now live for all plans. Try it out today](https://www.syncgtm.com/product/enrichment-m</description><guid isPermaLink="false">https://www.syncgtm.com/blog/b2b-sales-technologies-trends</guid><category>Alpha Signals</category><pubDate>Fri, 15 May 2026 22:02:42 +0000</pubDate></item></channel></rss>
