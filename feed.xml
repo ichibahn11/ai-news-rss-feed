@@ -1,182 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>GTM Intelligence Feed</title><link>https://ichibahn11.github.io/ai-news-rss-feed/</link><description>Daily AI and GTM engineering signals curated for the team</description><atom:link href="https://ichibahn11.github.io/ai-news-rss-feed/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://ichibahn11.github.io/ai-news-rss-feed/favicon.png</url><title>GTM Intelligence Feed</title><link>https://ichibahn11.github.io/ai-news-rss-feed/</link></image><language>en</language><lastBuildDate>Sat, 16 May 2026 11:44:55 +0000</lastBuildDate><item><title>GitHub - elevanaltd/octave-mcp: OCTAVE protocol - GitHub</title><link>https://github.com/elevanaltd/octave-mcp</link><description># Repository: elevanaltd/octave-mcp
-
-OCTAVE protocol - structured AI communication with 3-20x token reduction. MCP server with lenient-to-canonical pipeline and schema validation.
-
-- Stars: 45
-- Forks: 3
-- Watchers: 45
-- Open issues: 12
-- Primary language: Python
-- Languages: Python (99.1%), Shell (</description><guid isPermaLink="false">https://github.com/elevanaltd/octave-mcp</guid><category>Tool Stack</category><pubDate>Wed, 13 May 2026 11:44:44 +0000</pubDate></item><item><title>LLMs.txt in 2026: The 4-Element Spec, The Robots.txt Pairing, and How to Verify Crawlers Are Reading It - Tygart Media</title><link>https://tygartmedia.com/llms-txt-2026-spec-robots-txt-pairing-verification/</link><description>LLMs.txt in 2026: The 4-Element Spec, The Robots.txt Pairing, and How to Verify Crawlers Are Reading It - Tygart Media
-
-# LLMs.txt in 2026: The 4-Element Spec, The Robots.txt Pairing, and How to Verify Crawlers Are Reading It
-
-Written by
-
-in
-
-AI Search Authority, LLMs.txt &amp; AI Crawlability, Tygart M</description><guid isPermaLink="false">https://tygartmedia.com/llms-txt-2026-spec-robots-txt-pairing-verification/</guid><category>General AI</category><pubDate>Wed, 13 May 2026 14:03:33 +0000</pubDate></item><item><title>Clay Review 2026: Pricing, Features, Pros &amp; Cons | AIpedia</title><link>https://en.ai-pedias.com/tools/clay</link><description>Clay Review 2026: Pricing, Features, Pros &amp; Cons | AIpedia
-
-# Clay Review
-
-AI Automation
-
-An AI data enrichment and automation platform for sales and GTM teams. Pull lead information in bulk from 150+ data providers.
-
-★★★★★4.3/5.0
-
-Last reviewed: May 14, 2026
-
-Web
-
-Try Clay Free →
-
-Starting Price
-
-F</description><guid isPermaLink="false">https://en.ai-pedias.com/tools/clay</guid><category>Key Practitioners</category><pubDate>Wed, 13 May 2026 16:27:12 +0000</pubDate></item><item><title>How We're Using Data-Backed AI to Help Shippers and Carriers Make Better Pricing Decisions - Central Dispatch</title><link>https://www.centraldispatch.com/resources/cox-automotive-intelligence-price-check-plus</link><description>How We're Using Data-Backed AI to Help Shippers and Carriers Make Better Pricing Decisions - Central Dispatch
-
-# How We’re Using Data-Backed AI to Help Shippers and Carriers Make Better Pricing Decisions
-
-May 13, 2026
-
-Share
-
-There’s a moment every shipper and carrier knows well: The pause before se</description><guid isPermaLink="false">https://www.centraldispatch.com/resources/cox-automotive-intelligence-price-check-plus</guid><category>Tool Stack</category><pubDate>Wed, 13 May 2026 16:44:38 +0000</pubDate></item><item><title>MCP and A2A: The Two Protocols Defining How AI Agents Will Communicate</title><link>https://dev.to/ismail_haddou/mcp-and-a2a-the-two-protocols-defining-how-ai-agents-will-communicate-2m41</link><description># MCP and A2A: The Two Protocols Defining How AI Agents Will Communicate - DEV Community
-
-Published: 2026-05-13T16:50:22+00:00
-
-## Summary
-
-The Protocols MCP (Model Context Protocol) and A2A (Agent-to-Agent) are the two protocols defining how AI Agents will communicate, with MCP being the backbone o</description><guid isPermaLink="false">https://dev.to/ismail_haddou/mcp-and-a2a-the-two-protocols-defining-how-ai-agents-will-communicate-2m41</guid><category>General AI</category><pubDate>Wed, 13 May 2026 16:50:22 +0000</pubDate></item><item><title>GEO Strategy Guide: Get ChatGPT and Perplexity to Cite You | 1st March 2026</title><link>https://www.maximuslabs.ai/ai-search-101/geo/strategy</link><description>GEO Strategy Guide: Get ChatGPT and Perplexity to Cite You | 1st March 2026
-
-#### Home
-
-#### /
-
-#### AI Search 101
-
-#### /
-
-#### GEO
-
-#### /
-
-#### Fundamentals
-
-GEO Strategy Guide: Get ChatGPT and Perplexity to Cite You | 1st March 2026
-
-Learn the GEO strategy framework top brands use to get cited b</description><guid isPermaLink="false">https://www.maximuslabs.ai/ai-search-101/geo/strategy</guid><category>General AI</category><pubDate>Wed, 13 May 2026 17:13:52 +0000</pubDate></item><item><title>"Software Is Basically Worth Zero Now" | Tyler Hogge</title><link>https://thegtmnewsletter.substack.com/p/saas-pricing-collapse-software-worth-zero-tyler-hogge</link><description>"Software Is Basically Worth Zero Now" | Tyler Hogge
-
-SubscribeSign in
-
-The GTMnow Podcast
-
-VC: The moat moved. It's not the product anymore
-
-1
-
-0:00
-
--47:40
-
-Audio playback is not supported on your browser. Please upgrade.
-
-## VC: The moat moved. It's not the product anymore
-
-Tyler Hogge helped eng</description><guid isPermaLink="false">https://thegtmnewsletter.substack.com/p/saas-pricing-collapse-software-worth-zero-tyler-hogge</guid><category>Key Practitioners</category><pubDate>Wed, 13 May 2026 17:17:04 +0000</pubDate></item><item><title>AMD: Record 2025 results, strategic AI focus, and all board proposals approved except the shareholder measure — TradingView News</title><link>https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:3323190:0-amd-record-2025-results-strategic-ai-focus-and-all-board-proposals-approved-except-the-shareholder-measure/</link><description>AMD: Record 2025 results, strategic AI focus, and all board proposals approved except the shareholder measure — TradingView News
-
-Search
-
-EN
-
-# AMD: Record 2025 results, strategic AI focus, and all board proposals approved except the shareholder measure
-
-Less than 1 min read
-
-The meeting covered dir</description><guid isPermaLink="false">https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:3323190:0-amd-record-2025-results-strategic-ai-focus-and-all-board-proposals-approved-except-the-shareholder-measure/</guid><category>Alpha Signals</category><pubDate>Wed, 13 May 2026 17:20:23 +0000</pubDate></item><item><title>Securing AI agents: How AWS and Cisco AI Defense scale MCP and A2A deployments | Artificial Intelligence</title><link>https://aws.amazon.com/blogs/machine-learning/securing-ai-agents-how-aws-and-cisco-ai-defense-scale-mcp-and-a2a-deployments/</link><description>Securing AI agents: How AWS and Cisco AI Defense scale MCP and A2A deployments | Artificial Intelligence Skip to Main Content
-
-## Artificial Intelligence
-
-# Securing AI agents: How AWS and Cisco AI Defense scale MCP and A2A deployments
-
-Model Context Protocol(MCP) adoption has accelerated rapidly si</description><guid isPermaLink="false">https://aws.amazon.com/blogs/machine-learning/securing-ai-agents-how-aws-and-cisco-ai-defense-scale-mcp-and-a2a-deployments/</guid><category>General AI</category><pubDate>Wed, 13 May 2026 17:33:16 +0000</pubDate></item><item><title>The Ghost in the Matrix: Navigating the Era of Vibe Coding - SD Times</title><link>https://sdtimes.com/ai/the-ghost-in-the-matrix-navigating-the-era-of-vibe-coding/</link><description>The Ghost in the Matrix: Navigating the Era of Vibe Coding - SD Times
-
-Published: May 13th, 2026
-
--
-
-In modern software development shops, the sound of mechanical keyboards has been replaced with the silent exchange of tokens.
-
-This is the world of vibe coding, a term that Cameron Etezadi, CTO of La</description><guid isPermaLink="false">https://sdtimes.com/ai/the-ghost-in-the-matrix-navigating-the-era-of-vibe-coding/</guid><category>General AI</category><pubDate>Wed, 13 May 2026 18:44:55 +0000</pubDate></item><item><title>Agentic Revenue Operations: Transform GTM Today | Copy.ai</title><link>https://www.copy.ai/blog/agentic-revenue-operations</link><description>Agentic Revenue Operations: Transform GTM Today | Copy.ai
-
-GTM Strategy
-
-May 13, 2026
-
-May 13, 2026
-
-# Agentic Revenue Operations: Transform GTM Today
-
-CONTENTS
-
-H2 Heading link
-
-H3 Heading link
-
-For years, GTM teams have tried to stitch together disconnected tools, misaligned data, and siloed workf</description><guid isPermaLink="false">https://www.copy.ai/blog/agentic-revenue-operations</guid><category>GTM Engineering</category><pubDate>Wed, 13 May 2026 22:02:03 +0000</pubDate></item><item><title>B2B Data Enrichment: The Complete 2026 Guide (Process, Tools &amp; Pricing)</title><link>https://lessie.ai/blog/b2b-data-enrichment-guide</link><description>B2B Data Enrichment: The Complete 2026 Guide (Process, Tools &amp; Pricing)
-
-Solutions
-
-Tools
-
-Directory
-
-Resources
-
-English
-
-The Lessie Team 5/13/2026Share
-
-# B2B Data Enrichment: The Complete 2026 Guide (Process, Tools &amp; Pricing)
-
-Everything a modern GTM team needs to know about B2B data enrichment —</description><guid isPermaLink="false">https://lessie.ai/blog/b2b-data-enrichment-guide</guid><category>Alpha Signals</category><pubDate>Wed, 13 May 2026 22:19:50 +0000</pubDate></item><item><title>Anthropic's Claude subscriptions no longer include Agent SDK and claude -p usage</title><link>https://www.xda-developers.com/anthropics-claude-subscriptions-no-longer-include-agent-sdk-and-claude-p-usage/</link><description>Anthropic's Claude subscriptions no longer include Agent SDK and claude -p usage
-
-Close
-
-Close
-
-### Summary
-
-- Paid Claude plans get a dedicated monthly programmatic credit for Agent SDK, claude -p, Claude Code GitHub Actions.
-- Subscription interactive credits no longer cover programmatic use; prog</description><guid isPermaLink="false">https://www.xda-developers.com/anthropics-claude-subscriptions-no-longer-include-agent-sdk-and-claude-p-usage/</guid><category>General AI</category><pubDate>Wed, 13 May 2026 22:46:36 +0000</pubDate></item><item><title>GNU Octave: Octave ternary operator</title><link>http://gnu-octave.blogspot.com/2007/11/octave-ternary-operator.html</link><description>GNU Octave: Octave ternary operator
-
-Ternary operatorLike in the earlier blog post, I tried building a ternary operator into Octave.The well known C-language '?' operator, is what I wanted to build into Octave. The '?' operator, has a grammar that evaluates to an expression; '?' ':' This was quite e</description><guid isPermaLink="false">http://gnu-octave.blogspot.com/2007/11/octave-ternary-operator.html</guid><category>Tool Stack</category><pubDate>Wed, 13 May 2026 22:50:00 +0000</pubDate></item><item><title>AI Revenue Orchestration: Building an Intelligent Revenue Engine - Fullcast</title><link>https://www.fullcast.com/content/ai-revenue-orchestration/</link><description>AI Revenue Orchestration: Building an Intelligent Revenue Engine - Fullcast
-
-Read the 2026 Benchmarks Report Now!
-
-# AI Revenue Orchestration: The Complete Guide to Building an Intelligent Revenue Engine
-
-← Previous Next →
-
-#### FULLCAST
-
-Fullcast was built for RevOps leaders by RevOps leaders with</description><guid isPermaLink="false">https://www.fullcast.com/content/ai-revenue-orchestration/</guid><category>Key Practitioners</category><pubDate>Thu, 14 May 2026 03:46:44 +0000</pubDate></item><item><title>AI Won’t Save Your GTM if You Still Can’t Prove What Works | The AI Journal</title><link>https://aijourn.com/ai-wont-save-your-gtm-if-you-still-cant-prove-what-works/</link><description>AI Won’t Save Your GTM if You Still Can’t Prove What Works | The AI Journal
-
-Artificial intelligence has quickly become the default answer to many go-to-market challenges. It is now being applied to content creation, targeting, workflow automation, forecasting, personalization, and sales enablement.</description><guid isPermaLink="false">https://aijourn.com/ai-wont-save-your-gtm-if-you-still-cant-prove-what-works/</guid><category>Key Practitioners</category><pubDate>Thu, 14 May 2026 04:15:22 +0000</pubDate></item><item><title>8 GEO indicators that will determine brand effectiveness in AI search — UAMASTER agency blog</title><link>https://uamaster.net/8-geo-indicators-that-will-determine-brand-effectiveness-in-ai-search/</link><description>8 GEO indicators that will determine brand effectiveness in AI search — UAMASTER agency blog
-
-14.05.2026
-
-# 8 GEO indicators that will determine brand effectiveness in AI search
-
-16 minutes
-
-### Table of contents
-
-2 8 Key GEO metrics brands should track in 2026
-
-- 2.1 AI citation frequency
-- 2.2 Sha</description><guid isPermaLink="false">https://uamaster.net/8-geo-indicators-that-will-determine-brand-effectiveness-in-ai-search/</guid><category>General AI</category><pubDate>Thu, 14 May 2026 10:33:47 +0000</pubDate></item><item><title>Hot Take: ChatGPT Beats Claude for Vibe Coding Right Now</title><link>https://uk.pcmag.com/ai/164934/hot-take-chatgpt-beats-claude-for-vibe-coding-right-now</link><description>Hot Take: ChatGPT Beats Claude for Vibe Coding Right Now
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>GTM Intelligence Feed</title><link>https://ichibahn11.github.io/ai-news-rss-feed/</link><description>Daily AI and GTM engineering signals curated for the team</description><atom:link href="https://ichibahn11.github.io/ai-news-rss-feed/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://ichibahn11.github.io/ai-news-rss-feed/favicon.png</url><title>GTM Intelligence Feed</title><link>https://ichibahn11.github.io/ai-news-rss-feed/</link></image><language>en</language><lastBuildDate>Sun, 17 May 2026 11:59:29 +0000</lastBuildDate><item><title>Hot Take: ChatGPT Beats Claude for Vibe Coding Right Now</title><link>https://uk.pcmag.com/ai/164934/hot-take-chatgpt-beats-claude-for-vibe-coding-right-now</link><description>Hot Take: ChatGPT Beats Claude for Vibe Coding Right Now
 
 PCMag editors select and review products independently. If you buy through affiliate links, we may earn commissions, which help support our testing.
 
@@ -190,29 +13,17 @@ Updated May 14, 2026
 
 Published: 2026-05-14
 Language: en
-Canonical: https://xergioalex.</description><guid isPermaLink="false">https://xergioalex.com/blog/aeo-reaching-100-isitagentready/</guid><category>General AI</category><pubDate>Thu, 14 May 2026 15:00:00 +0000</pubDate></item><item><title>Bridging the Context Gap: Providing Structural Awareness to AI Coding Agents in Go with GoGraph - Coder Legion</title><link>https://coderlegion.com/17835/bridging-the-context-gap-providing-structural-awareness-to-ai-coding-agents-with-gograph</link><description>Bridging the Context Gap: Providing Structural Awareness to AI Coding Agents in Go with GoGraph - Coder Legion
+Canonical: https://xergioalex.</description><guid isPermaLink="false">https://xergioalex.com/blog/aeo-reaching-100-isitagentready/</guid><category>General AI</category><pubDate>Thu, 14 May 2026 15:00:00 +0000</pubDate></item><item><title>AVA: Most proposals passed as the company focuses on tech innovation and regulatory adaptation — TradingView News</title><link>https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:3329979:0-ava-most-proposals-passed-as-the-company-focuses-on-tech-innovation-and-regulatory-adaptation/</link><description>AVA: Most proposals passed as the company focuses on tech innovation and regulatory adaptation — TradingView News
 
-menu
+Search
 
-search
+EN
 
-Log In
+# AVA: Most proposals passed as the company focuses on tech innovation and regulatory adaptation
 
-account_circle
+Less than 1 min read
 
-## Welcome to Coder Legion
-
-#### Connect with 4,210 amazing developers
-
-Email or Username
-
-Password Forgot your password?
-
-Remember
-
-Log In
-
-#### Don'</description><guid isPermaLink="false">https://coderlegion.com/17835/bridging-the-context-gap-providing-structural-awareness-to-ai-coding-agents-with-gograph</guid><category>Key Practitioners</category><pubDate>Thu, 14 May 2026 15:44:55 +0000</pubDate></item><item><title>Why Doesn’t Anyone Teach Developers About Context Management?</title><link>https://oreillyradar.substack.com/p/why-doesnt-anyone-teach-developers</link><description>Why Doesn’t Anyone Teach Developers About Context Management?
+The meeting covered board introductions, financial an</description><guid isPermaLink="false">https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:3329979:0-ava-most-proposals-passed-as-the-company-focuses-on-tech-innovation-and-regulatory-adaptation/</guid><category>Alpha Signals</category><pubDate>Thu, 14 May 2026 15:59:11 +0000</pubDate></item><item><title>Why Doesn’t Anyone Teach Developers About Context Management?</title><link>https://oreillyradar.substack.com/p/why-doesnt-anyone-teach-developers</link><description>Why Doesn’t Anyone Teach Developers About Context Management?
 
 SubscribeSign in
 
@@ -264,7 +75,11 @@ Read the 2026 Benchmarks Report Now!
 
 #### FULLCAST
 
-Fullcast was built for RevOps leaders by RevOps leaders with a goal of bringing together all of the moving pi</description><guid isPermaLink="false">https://www.fullcast.com/content/autonomous-revenue-operations/</guid><category>Key Practitioners</category><pubDate>Thu, 14 May 2026 18:30:15 +0000</pubDate></item><item><title>Detailed Three-Tool Capability Comparison | Developer Toolkit</title><link>https://developertoolkit.ai/en/comparison/feature-matrix/</link><description>Skip to content
+Fullcast was built for RevOps leaders by RevOps leaders with a goal of bringing together all of the moving pi</description><guid isPermaLink="false">https://www.fullcast.com/content/autonomous-revenue-operations/</guid><category>Key Practitioners</category><pubDate>Thu, 14 May 2026 18:30:15 +0000</pubDate></item><item><title>[Bug]: v1.5.2: OpenAI→Anthropic tool-payload translation breaks all tool-using requests routed to Anthropic · Issue #3511 · maximhq/bifrost</title><link>https://github.com/maximhq/bifrost/issues/3511</link><description># Issue: maximhq/bifrost #3511
+
+- Repository: maximhq/bifrost | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support &amp; &lt;100 µs overhead at 5k RPS. | 5K stars | Go
+
+## [Bug]: v1.5.2: OpenAI→Anthropic tool-payload translati</description><guid isPermaLink="false">https://github.com/maximhq/bifrost/issues/3511</guid><category>General AI</category><pubDate>Thu, 14 May 2026 19:22:23 +0000</pubDate></item><item><title>Detailed Three-Tool Capability Comparison | Developer Toolkit</title><link>https://developertoolkit.ai/en/comparison/feature-matrix/</link><description>Skip to content
 
 Unlock full access
 
@@ -294,13 +109,102 @@ Improve this page
 
 Section titled “The Three Tools That Define AI-Assisted Development”
 
-The AI coding landscape has</description><guid isPermaLink="false">https://developertoolkit.ai/en/comparison/</guid><category>Tool Stack</category><pubDate>Thu, 14 May 2026 21:07:26 +0000</pubDate></item><item><title>Karen Casebeer Photography: May 2026</title><link>http://karencasebeerphotography.blogspot.com/2026/05/</link><description>Karen Casebeer Photography: May 2026
+The AI coding landscape has</description><guid isPermaLink="false">https://developertoolkit.ai/en/comparison/</guid><category>Tool Stack</category><pubDate>Thu, 14 May 2026 21:07:26 +0000</pubDate></item><item><title>Context Management | Developer Toolkit</title><link>https://developertoolkit.ai/en/shared-workflows/context-management/</link><description>Skip to content
+
+Unlock full access
+
+- 350+ tutorials
+- Updated weekly
+- 7-day free trial
+Try Free
+
+Improve this page
+
+# Context Management
+
+Every interaction with an AI coding assistant is a context management problem. The AI can only work with what it can “see” — and what it sees is limited by a f</description><guid isPermaLink="false">https://developertoolkit.ai/en/shared-workflows/context-management/</guid><category>Tool Stack</category><pubDate>Thu, 14 May 2026 21:07:42 +0000</pubDate></item><item><title>The Agent Protocol Stack: MCP vs. A2A vs. AG-UI</title><link>https://dzone.com/articles/mcp-vs-a2a-vs-agui</link><description># The Agent Protocol Stack: MCP vs. A2A vs. AG-UI
+
+Published: 2026-05-15T00:00:00+00:00
+
+## Summary
+
+The Agent Protocol Stack: MCP, A2A, AG-UI, and MCP are different protocols at different levels that solve different problems in the agent architecture. MCP uses a client-server architecture over JSON</description><guid isPermaLink="false">https://dzone.com/articles/mcp-vs-a2a-vs-agui</guid><category>General AI</category><pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate></item><item><title>Staff GTM Engineer (AI &amp;amp; Automation) | US | Remote | Jobflarely</title><link>https://jobflarely.liveblog365.com/job/staff-gtm-engineer-ai-automation-us-remote-7</link><description>Staff GTM Engineer (AI &amp; Automation) | US | Remote | Jobflarely
+
+Jobflarely.← All Jobs
+
+# Staff GTM Engineer (AI &amp; Automation) | US | Remote
+
+Posted May 13, 2026
+
+Grafana Labs is a remote-first, open-source powerhouse. There are more than 20M users of Grafana, the open source visualization tool, aro</description><guid isPermaLink="false">https://jobflarely.liveblog365.com/job/staff-gtm-engineer-ai-automation-us-remote-7</guid><category>Alpha Signals</category><pubDate>Fri, 15 May 2026 07:42:34 +0000</pubDate></item><item><title>Karen Casebeer Photography: May 2026</title><link>http://karencasebeerphotography.blogspot.com/2026/05/</link><description>Karen Casebeer Photography: May 2026
 
 I love visiting this scenic spot in the spring, where many birds visit during migration. But on this sunny morning, I only saw geese, a trumpeter swan, and a noisy grackle. Then, I spotted two sandhill cranes herky-jerking through the long grasses at the edge of</description><guid isPermaLink="false">http://karencasebeerphotography.blogspot.com/2026/05/</guid><category>Key Practitioners</category><pubDate>Fri, 15 May 2026 07:50:00 +0000</pubDate></item><item><title>Karen Casebeer Photography</title><link>http://karencasebeerphotography.blogspot.com/</link><description>Karen Casebeer Photography
 
-I love visiting this scenic spot in the spring, where many birds visit during migration. But on this sunny morning, I only saw geese, a trumpeter swan, and a noisy grackle. Then, I spotted two sandhill cranes herky-jerking through the long grasses at the edge of the pond.</description><guid isPermaLink="false">http://karencasebeerphotography.blogspot.com/</guid><category>Key Practitioners</category><pubDate>Fri, 15 May 2026 07:50:00 +0000</pubDate></item><item><title>B2B Sales Technologies Trends: 2026 GTM Guide | SyncGTM | SyncGTM</title><link>https://www.syncgtm.com/blog/b2b-sales-technologies-trends</link><description>B2B Sales Technologies Trends: 2026 GTM Guide | SyncGTM | SyncGTM
+I love visiting this scenic spot in the spring, where many birds visit during migration. But on this sunny morning, I only saw geese, a trumpeter swan, and a noisy grackle. Then, I spotted two sandhill cranes herky-jerking through the long grasses at the edge of the pond.</description><guid isPermaLink="false">http://karencasebeerphotography.blogspot.com/</guid><category>Key Practitioners</category><pubDate>Fri, 15 May 2026 07:50:00 +0000</pubDate></item><item><title>How to Measure LLM Visibility: A Practical Tracking Framework - SERPninja</title><link>https://serpninja.io/blog/how-to-measure-llm-visibility/</link><description>How to Measure LLM Visibility: A Practical Tracking Framework - SERPninja
+
+# How to Measure LLM Visibility: A Practical Tracking Framework
+
+Share on facebook
+
+Share on twitter
+
+Share on linkedin
+
+- Client Panel
+- Gaby A
+- May 15, 2026
+
+Table of Contents
+
+## Key Takeaways
+
+- The Shift in Search: User</description><guid isPermaLink="false">https://serpninja.io/blog/how-to-measure-llm-visibility/</guid><category>General AI</category><pubDate>Fri, 15 May 2026 11:51:59 +0000</pubDate></item><item><title>GSoC 2015: GNU Octave- Optimization Package: June 2015</title><link>http://octavegsoc15.blogspot.com/2015/06/</link><description>GSoC 2015: GNU Octave- Optimization Package: June 2015
+
+Objective:
+
+Adding functions to the Optim package for Octave using existing back-ends.
+
+Expected deliverables before midterm:
+
+- 'lsqnonlin' using 'nonlin_residmin'
+
+Done in [1]. Differences in backends, nonlin_residmin uses "lm_svd" algorithm</description><guid isPermaLink="false">http://octavegsoc15.blogspot.com/2015/06/</guid><category>Tool Stack</category><pubDate>Fri, 15 May 2026 16:46:00 +0000</pubDate></item><item><title>MCP Servers for Codebase Context: How AI Coding Agents Access Code Intelligence</title><link>https://dev.to/corestory/mcp-servers-for-codebase-context-how-ai-coding-agents-access-code-intelligence-3757</link><description># MCP Servers for Codebase Context: How AI Coding Agents Access Code Intelligence - DEV Community
+
+Published: 2026-05-15T17:30:39+00:00
+
+## Summary
+
+Model Context Protocol (MCP) is an open standard introduced by Anthropic and donated to the Linux Foundation’s Agentic AI Foundation in December 2025.</description><guid isPermaLink="false">https://dev.to/corestory/mcp-servers-for-codebase-context-how-ai-coding-agents-access-code-intelligence-3757</guid><category>Key Practitioners</category><pubDate>Fri, 15 May 2026 17:30:39 +0000</pubDate></item><item><title>B2B Sales Technologies Trends: 2026 GTM Guide | SyncGTM | SyncGTM</title><link>https://www.syncgtm.com/blog/b2b-sales-technologies-trends</link><description>B2B Sales Technologies Trends: 2026 GTM Guide | SyncGTM | SyncGTM
 
 Enrichments MCP is now live for all plans. Try it out today
 
 B2B Sales Technologies Trends: 2026 GTM Guide | SyncGTM | SyncGTM
-[Enrichments MCP is now live for all plans. Try it out today](https://www.syncgtm.com/product/enrichment-m</description><guid isPermaLink="false">https://www.syncgtm.com/blog/b2b-sales-technologies-trends</guid><category>Alpha Signals</category><pubDate>Fri, 15 May 2026 22:02:42 +0000</pubDate></item></channel></rss>
+[Enrichments MCP is now live for all plans. Try it out today](https://www.syncgtm.com/product/enrichment-m</description><guid isPermaLink="false">https://www.syncgtm.com/blog/b2b-sales-technologies-trends</guid><category>Key Practitioners</category><pubDate>Fri, 15 May 2026 22:02:42 +0000</pubDate></item><item><title>Karpathy Explains Vibe Coding to Agentic Engineering | Let's Data Science</title><link>https://letsdatascience.com/news/karpathy-explains-vibe-coding-to-agentic-engineering-2d34b5c2</link><description>Karpathy Explains Vibe Coding to Agentic Engineering | Let's Data Science
+
+Feedback
+
+Karpathy Explains Vibe Coding to Agentic Engineering | Let's Data Science
+[Skip to content](#main-content)
+[
+![LDS Logo](https://letsdatascience.com/lds_logo.svg)
+LDS
+Let's Data ScienceLEARN • BUILD • STAY AHEAD
+](h</description><guid isPermaLink="false">https://letsdatascience.com/news/karpathy-explains-vibe-coding-to-agentic-engineering-2d34b5c2</guid><category>General AI</category><pubDate>Sat, 16 May 2026 03:26:08 +0000</pubDate></item><item><title>SignalPulse</title><link>https://www.techbuzz.ai/newsletters/signalpulse-3a46-post-a5d94507-e6da-4633-b8e1-7f833ca1436f</link><description># SignalPulse | Newsletters | The Tech Buzz
+
+Published: 2026-05-16T09:16:53+00:00
+Author: The Tech Buzz Team
+
+## Summary
+
+The Tech Buzz and Alumni Ventures are partnering to provide readers with early access to high-growth startup opportunities. These include some of the most exciting AI, Deep Tech,</description><guid isPermaLink="false">https://www.techbuzz.ai/newsletters/signalpulse-3a46-post-a5d94507-e6da-4633-b8e1-7f833ca1436f</guid><category>Key Practitioners</category><pubDate>Sat, 16 May 2026 09:16:53 +0000</pubDate></item><item><title>Website Content Crawler API - Markdown for RAG - Apify</title><link>https://apify.com/tugelbay/website-content-crawler</link><description># Website Content Crawler (`tugelbay/website-content-crawler`) Actor
+
+Crawl websites and extract clean Markdown/text content for RAG pipelines and LLMs. HTTP-first, 10x faster than browser-based crawlers.
+
+- URL: https://apify.com/tugelbay/website-content-crawler.md
+- Developed by: Tugelbay Konabaye</description><guid isPermaLink="false">https://apify.com/tugelbay/website-content-crawler</guid><category>General AI</category><pubDate>Sat, 16 May 2026 11:56:11 +0000</pubDate></item><item><title>The Complete Guide to Improving Brand Visibility in AI Search ... | Vizup</title><link>https://www.tryvizup.com/blog/the-complete-guide-to-improving-brand-visibility-in-ai-search</link><description>The Complete Guide to Improving Brand Visibility in AI Search ... | Vizup
+
+# The Complete Guide to Improving Brand Visibility in AI Search Engines (2026)
+
+Satyam Vivek·May 16, 2026
+
+On traditional search engines, about 60% of searches now end without the user progressing to another destination, acco</description><guid isPermaLink="false">https://www.tryvizup.com/blog/the-complete-guide-to-improving-brand-visibility-in-ai-search</guid><category>General AI</category><pubDate>Sat, 16 May 2026 13:36:28 +0000</pubDate></item></channel></rss>
