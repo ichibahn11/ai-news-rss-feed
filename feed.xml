@@ -1,164 +1,54 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>GTM Intelligence Feed</title><link>https://ichibahn11.github.io/ai-news-rss-feed/</link><description>Daily AI and GTM engineering signals curated for the team</description><atom:link href="https://ichibahn11.github.io/ai-news-rss-feed/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://ichibahn11.github.io/ai-news-rss-feed/favicon.png</url><title>GTM Intelligence Feed</title><link>https://ichibahn11.github.io/ai-news-rss-feed/</link></image><language>en</language><lastBuildDate>Sun, 17 May 2026 11:59:29 +0000</lastBuildDate><item><title>Hot Take: ChatGPT Beats Claude for Vibe Coding Right Now</title><link>https://uk.pcmag.com/ai/164934/hot-take-chatgpt-beats-claude-for-vibe-coding-right-now</link><description>Hot Take: ChatGPT Beats Claude for Vibe Coding Right Now
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>GTM Intelligence Feed</title><link>https://ichibahn11.github.io/ai-news-rss-feed/</link><description>Daily AI and GTM engineering signals curated for the team</description><atom:link href="https://ichibahn11.github.io/ai-news-rss-feed/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://ichibahn11.github.io/ai-news-rss-feed/favicon.png</url><title>GTM Intelligence Feed</title><link>https://ichibahn11.github.io/ai-news-rss-feed/</link></image><language>en</language><lastBuildDate>Mon, 18 May 2026 14:26:50 +0000</lastBuildDate><item><title>The Agent Protocol Stack: MCP vs. A2A vs. AG-UI - DZone</title><link>https://dzone.com/articles/mcp-vs-a2a-vs-agui</link><description>The Agent Protocol Stack: MCP vs. A2A vs. AG-UI
 
-PCMag editors select and review products independently. If you buy through affiliate links, we may earn commissions, which help support our testing.
+Post
 
-# Hot Take: ChatGPT Beats Claude for Vibe Coding Right Now
+- Post an Article
+- Manage My Drafts
 
-Updated May 14, 2026
+New Trend Report "Security by Design": Learn AI-powered threat detection, SBOM adoption, and much more❗️
 
-## I teste</description><guid isPermaLink="false">https://uk.pcmag.com/ai/164934/hot-take-chatgpt-beats-claude-for-vibe-coding-right-now</guid><category>General AI</category><pubDate>Thu, 14 May 2026 12:00:00 +0000</pubDate></item><item><title>Reaching 100 on isitagentready.com: What Your Site Needs in the Era of Agents</title><link>https://xergioalex.com/blog/aeo-reaching-100-isitagentready/</link><description># Reaching 100 on isitagentready.com: What Your Site Needs in the Era of Agents
+Download New Trend Report
 
-&gt; Five categories, eight artifacts, one concrete guide: what your site needs to be agent-ready — including the commerce layer I deliberately don't fake.
+Make your AI agents production-ready, not just demo-ready in our new "Ship</description><guid isPermaLink="false">https://dzone.com/articles/mcp-vs-a2a-vs-agui</guid><category>General AI</category><pubDate>Fri, 15 May 2026 14:26:25 +0000</pubDate></item><item><title>Smartlead vs Instantly 2026 — full comparison - TechStack Reviews</title><link>https://techstackreviews.net/compare/smartlead-vs-instantly</link><description>TechStack Reviews
 
-Published: 2026-05-14
-Language: en
-Canonical: https://xergioalex.</description><guid isPermaLink="false">https://xergioalex.com/blog/aeo-reaching-100-isitagentready/</guid><category>General AI</category><pubDate>Thu, 14 May 2026 15:00:00 +0000</pubDate></item><item><title>AVA: Most proposals passed as the company focuses on tech innovation and regulatory adaptation — TradingView News</title><link>https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:3329979:0-ava-most-proposals-passed-as-the-company-focuses-on-tech-innovation-and-regulatory-adaptation/</link><description>AVA: Most proposals passed as the company focuses on tech innovation and regulatory adaptation — TradingView News
+Best of Compare Alternatives Reviews Pricing Free Tools Stack Audit Deals Quiz
 
-Search
+Home / Compare / Smartlead vs Instantly.ai
 
-EN
+Comparison
 
-# AVA: Most proposals passed as the company focuses on tech innovation and regulatory adaptation
+# Smartlead vs Instantly (2026): full comparison
 
-Less than 1 min read
+Smartlead vs Instantly is the cold email infrastructure showdown. Both are at the top of the co</description><guid isPermaLink="false">https://techstackreviews.net/compare/smartlead-vs-instantly</guid><category>Tool Stack</category><pubDate>Fri, 15 May 2026 14:26:36 +0000</pubDate></item><item><title>What Is Intent Data? How to Use It in B2B Sales (2026)</title><link>https://pipeline.zoominfo.com/sales/what-is-intent-data-and-how-to-use-it</link><description>What is Intent Data? How to Turn Signals into Action
 
-The meeting covered board introductions, financial an</description><guid isPermaLink="false">https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:3329979:0-ava-most-proposals-passed-as-the-company-focuses-on-tech-innovation-and-regulatory-adaptation/</guid><category>Alpha Signals</category><pubDate>Thu, 14 May 2026 15:59:11 +0000</pubDate></item><item><title>Why Doesn’t Anyone Teach Developers About Context Management?</title><link>https://oreillyradar.substack.com/p/why-doesnt-anyone-teach-developers</link><description>Why Doesn’t Anyone Teach Developers About Context Management?
+Modern go-to-market teams have the tools, data, and tactics their predecessors could only dream of. But if their timing isn't right, all of those advantages can quickly go out the window.
 
-SubscribeSign in
+Prospects who love your product may not be ready to buy.</description><guid isPermaLink="false">https://pipeline.zoominfo.com/sales/what-is-intent-data-and-how-to-use-it</guid><category>Alpha Signals</category><pubDate>Fri, 15 May 2026 14:26:46 +0000</pubDate></item><item><title>What Is Technographic Data? A Complete GTM Guide - ZoomInfo Blog</title><link>https://pipeline.zoominfo.com/sales/technographics</link><description>What Are Technographics?
 
-# Why Doesn’t Anyone Teach Developers About Context Management?
+## What Is Technographic Data?
 
-### We overestimate what AI can remember and underestimate what it can orchestrate.
+Technographic data is information about the technology a company uses to run its business. This means knowing which CRM they run, what marketing tools they rely on, where they host their infrastructure, and what sales platforms their reps use</description><guid isPermaLink="false">https://pipeline.zoominfo.com/sales/technographics</guid><category>Alpha Signals</category><pubDate>Fri, 15 May 2026 14:26:46 +0000</pubDate></item><item><title>AI GTM STAGE - YouTube</title><link>https://www.youtube.com/watch?v=qOfg-L6Mo_M</link><description># AI GTM STAGE
 
-O'Reilly and Andrew Stellman
+- Channel: SaaStr AI
+- Length: 51:26
+- Views: 143
 
-May 14, 2026
+## Description
 
-1
+Want to join the SaaStr community? We're the 🌎largest community for B2B software. 
 
-1
+Subscribe for weekly updates: https://www.saastr.com/subscribeform
 
-Share
+Twitter: https://twitter.com/saastr 
 
-#### By Andr</description><guid isPermaLink="false">https://oreillyradar.substack.com/p/why-doesnt-anyone-teach-developers</guid><category>GTM Engineering</category><pubDate>Thu, 14 May 2026 16:02:20 +0000</pubDate></item><item><title>‘Gemini Spark’ is Google’s upcoming AI agent in the Gemini app</title><link>https://9to5google.com/2026/05/14/gemini-spark-insight/</link><description>‘Gemini Spark’ is Google’s upcoming AI agent in the Gemini app
+LinkedIn: https://www.link</description><guid isPermaLink="false">https://www.youtube.com/watch?v=qOfg-L6Mo_M</guid><category>Alpha Signals</category><pubDate>Fri, 15 May 2026 14:26:49 +0000</pubDate></item><item><title>The Context Layer: Why Enterprise AI Agents Fail Without It — and What It Actually Takes to Fix That</title><link>https://dev.to/swapnil_chougule/the-context-layer-why-enterprise-ai-agents-fail-without-it-and-what-it-actually-takes-to-fix-that-c0m</link><description># The Context Layer: Why Enterprise AI Agents Fail Without It — and What It Actually Takes to Fix That - DEV Community
 
-# ‘Gemini Spark’ is Google’s upcoming AI agent in the Gemini app
-
-In the ramp up to I/O 2026, Google has been working on adding a more advanced agent capability to the Gemini app. It now looks like it will be branded as “Gemini Spark.”</description><guid isPermaLink="false">https://9to5google.com/2026/05/14/gemini-spark-insight/</guid><category>General AI</category><pubDate>Thu, 14 May 2026 17:21:54 +0000</pubDate></item><item><title>STN: All AGM resolutions passed by a large majority, with AI integration highlighted as a key focus — TradingView News</title><link>https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:3330419:0-stn-all-agm-resolutions-passed-by-a-large-majority-with-ai-integration-highlighted-as-a-key-focus/</link><description>STN: All AGM resolutions passed by a large majority, with AI integration highlighted as a key focus — TradingView News
-
-Search
-
-EN
-
-# STN: All AGM resolutions passed by a large majority, with AI integration highlighted as a key focus
-
-Less than 1 min read
-
-The AGM featured director elections, audito</description><guid isPermaLink="false">https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:3330419:0-stn-all-agm-resolutions-passed-by-a-large-majority-with-ai-integration-highlighted-as-a-key-focus/</guid><category>Alpha Signals</category><pubDate>Thu, 14 May 2026 17:24:33 +0000</pubDate></item><item><title>Notes from the field: Context engineering and the real bottleneck in enterprise AI | by Matthew Field | The Slalom Blog | May, 2026 | Medium</title><link>https://medium.com/slalom-blog/notes-from-the-field-context-engineering-and-the-real-bottleneck-in-enterprise-ai-f4fabf18a652</link><description>Notes from the field: Context engineering and the real bottleneck in enterprise AI | by Matthew Field | The Slalom Blog | May, 2026 | Medium
-
-Sign up
-
-Get app
-
-Sign up
-
-## The Slalom Blog
-
-Perspectives and advice for technology and business professionals, from Slalom’s experts.
-
-# Notes from the fie</description><guid isPermaLink="false">https://medium.com/slalom-blog/notes-from-the-field-context-engineering-and-the-real-bottleneck-in-enterprise-ai-f4fabf18a652</guid><category>GTM Engineering</category><pubDate>Thu, 14 May 2026 17:31:31 +0000</pubDate></item><item><title>Autonomous Revenue Operations: AI-Driven RevOps Evolution - Fullcast</title><link>https://www.fullcast.com/content/autonomous-revenue-operations/</link><description>Autonomous Revenue Operations: AI-Driven RevOps Evolution - Fullcast
-
-Read the 2026 Benchmarks Report Now!
-
-# Autonomous Revenue Operations: The AI-Driven Evolution of RevOps
-
-#### FULLCAST
-
-Fullcast was built for RevOps leaders by RevOps leaders with a goal of bringing together all of the moving pi</description><guid isPermaLink="false">https://www.fullcast.com/content/autonomous-revenue-operations/</guid><category>Key Practitioners</category><pubDate>Thu, 14 May 2026 18:30:15 +0000</pubDate></item><item><title>[Bug]: v1.5.2: OpenAI→Anthropic tool-payload translation breaks all tool-using requests routed to Anthropic · Issue #3511 · maximhq/bifrost</title><link>https://github.com/maximhq/bifrost/issues/3511</link><description># Issue: maximhq/bifrost #3511
-
-- Repository: maximhq/bifrost | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support &amp; &lt;100 µs overhead at 5k RPS. | 5K stars | Go
-
-## [Bug]: v1.5.2: OpenAI→Anthropic tool-payload translati</description><guid isPermaLink="false">https://github.com/maximhq/bifrost/issues/3511</guid><category>General AI</category><pubDate>Thu, 14 May 2026 19:22:23 +0000</pubDate></item><item><title>Detailed Three-Tool Capability Comparison | Developer Toolkit</title><link>https://developertoolkit.ai/en/comparison/feature-matrix/</link><description>Skip to content
-
-Unlock full access
-
-- 350+ tutorials
-- Updated weekly
-- 7-day free trial
-Try Free
-
-Improve this page
-
-# Detailed Three-Tool Capability Comparison
-
-You are evaluating AI coding tools for your team. The marketing pages all claim “autonomous coding,” “multi-file editing,” and “best-in-</description><guid isPermaLink="false">https://developertoolkit.ai/en/comparison/feature-matrix/</guid><category>Tool Stack</category><pubDate>Thu, 14 May 2026 21:07:26 +0000</pubDate></item><item><title>Tool Comparison Overview | Developer Toolkit</title><link>https://developertoolkit.ai/en/comparison/</link><description>Skip to content
-
-Unlock full access
-
-- 350+ tutorials
-- Updated weekly
-- 7-day free trial
-Try Free
-
-Improve this page
-
-# Tool Comparison Overview
-
-## The Three Tools That Define AI-Assisted Development
-
-Section titled “The Three Tools That Define AI-Assisted Development”
-
-The AI coding landscape has</description><guid isPermaLink="false">https://developertoolkit.ai/en/comparison/</guid><category>Tool Stack</category><pubDate>Thu, 14 May 2026 21:07:26 +0000</pubDate></item><item><title>Context Management | Developer Toolkit</title><link>https://developertoolkit.ai/en/shared-workflows/context-management/</link><description>Skip to content
-
-Unlock full access
-
-- 350+ tutorials
-- Updated weekly
-- 7-day free trial
-Try Free
-
-Improve this page
-
-# Context Management
-
-Every interaction with an AI coding assistant is a context management problem. The AI can only work with what it can “see” — and what it sees is limited by a f</description><guid isPermaLink="false">https://developertoolkit.ai/en/shared-workflows/context-management/</guid><category>Tool Stack</category><pubDate>Thu, 14 May 2026 21:07:42 +0000</pubDate></item><item><title>The Agent Protocol Stack: MCP vs. A2A vs. AG-UI</title><link>https://dzone.com/articles/mcp-vs-a2a-vs-agui</link><description># The Agent Protocol Stack: MCP vs. A2A vs. AG-UI
-
-Published: 2026-05-15T00:00:00+00:00
+Published: 2026-05-15T15:04:05+00:00
 
 ## Summary
 
-The Agent Protocol Stack: MCP, A2A, AG-UI, and MCP are different protocols at different levels that solve different problems in the agent architecture. MCP uses a client-server architecture over JSON</description><guid isPermaLink="false">https://dzone.com/articles/mcp-vs-a2a-vs-agui</guid><category>General AI</category><pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate></item><item><title>Staff GTM Engineer (AI &amp;amp; Automation) | US | Remote | Jobflarely</title><link>https://jobflarely.liveblog365.com/job/staff-gtm-engineer-ai-automation-us-remote-7</link><description>Staff GTM Engineer (AI &amp; Automation) | US | Remote | Jobflarely
-
-Jobflarely.← All Jobs
-
-# Staff GTM Engineer (AI &amp; Automation) | US | Remote
-
-Posted May 13, 2026
-
-Grafana Labs is a remote-first, open-source powerhouse. There are more than 20M users of Grafana, the open source visualization tool, aro</description><guid isPermaLink="false">https://jobflarely.liveblog365.com/job/staff-gtm-engineer-ai-automation-us-remote-7</guid><category>Alpha Signals</category><pubDate>Fri, 15 May 2026 07:42:34 +0000</pubDate></item><item><title>Karen Casebeer Photography: May 2026</title><link>http://karencasebeerphotography.blogspot.com/2026/05/</link><description>Karen Casebeer Photography: May 2026
-
-I love visiting this scenic spot in the spring, where many birds visit during migration. But on this sunny morning, I only saw geese, a trumpeter swan, and a noisy grackle. Then, I spotted two sandhill cranes herky-jerking through the long grasses at the edge of</description><guid isPermaLink="false">http://karencasebeerphotography.blogspot.com/2026/05/</guid><category>Key Practitioners</category><pubDate>Fri, 15 May 2026 07:50:00 +0000</pubDate></item><item><title>Karen Casebeer Photography</title><link>http://karencasebeerphotography.blogspot.com/</link><description>Karen Casebeer Photography
-
-I love visiting this scenic spot in the spring, where many birds visit during migration. But on this sunny morning, I only saw geese, a trumpeter swan, and a noisy grackle. Then, I spotted two sandhill cranes herky-jerking through the long grasses at the edge of the pond.</description><guid isPermaLink="false">http://karencasebeerphotography.blogspot.com/</guid><category>Key Practitioners</category><pubDate>Fri, 15 May 2026 07:50:00 +0000</pubDate></item><item><title>How to Measure LLM Visibility: A Practical Tracking Framework - SERPninja</title><link>https://serpninja.io/blog/how-to-measure-llm-visibility/</link><description>How to Measure LLM Visibility: A Practical Tracking Framework - SERPninja
-
-# How to Measure LLM Visibility: A Practical Tracking Framework
-
-Share on facebook
-
-Share on twitter
-
-Share on linkedin
-
-- Client Panel
-- Gaby A
-- May 15, 2026
-
-Table of Contents
-
-## Key Takeaways
-
-- The Shift in Search: User</description><guid isPermaLink="false">https://serpninja.io/blog/how-to-measure-llm-visibility/</guid><category>General AI</category><pubDate>Fri, 15 May 2026 11:51:59 +0000</pubDate></item><item><title>GSoC 2015: GNU Octave- Optimization Package: June 2015</title><link>http://octavegsoc15.blogspot.com/2015/06/</link><description>GSoC 2015: GNU Octave- Optimization Package: June 2015
+The article discusses the four-layer context problem in enterprise AI, which is often overlooked by teams who create a foundation</description><guid isPermaLink="false">https://dev.to/swapnil_chougule/the-context-layer-why-enterprise-ai-agents-fail-without-it-and-what-it-actually-takes-to-fix-that-c0m</guid><category>GTM Engineering</category><pubDate>Fri, 15 May 2026 15:04:05 +0000</pubDate></item><item><title>GSoC 2015: GNU Octave- Optimization Package: June 2015</title><link>http://octavegsoc15.blogspot.com/2015/06/</link><description>GSoC 2015: GNU Octave- Optimization Package: June 2015
 
 Objective:
 
@@ -168,18 +58,58 @@ Expected deliverables before midterm:
 
 - 'lsqnonlin' using 'nonlin_residmin'
 
-Done in [1]. Differences in backends, nonlin_residmin uses "lm_svd" algorithm</description><guid isPermaLink="false">http://octavegsoc15.blogspot.com/2015/06/</guid><category>Tool Stack</category><pubDate>Fri, 15 May 2026 16:46:00 +0000</pubDate></item><item><title>MCP Servers for Codebase Context: How AI Coding Agents Access Code Intelligence</title><link>https://dev.to/corestory/mcp-servers-for-codebase-context-how-ai-coding-agents-access-code-intelligence-3757</link><description># MCP Servers for Codebase Context: How AI Coding Agents Access Code Intelligence - DEV Community
+Done in [1]. Differences in backends, nonlin_residmin uses "lm_svd" algorithm</description><guid isPermaLink="false">http://octavegsoc15.blogspot.com/2015/06/</guid><category>Tool Stack</category><pubDate>Fri, 15 May 2026 16:46:00 +0000</pubDate></item><item><title>ChromaDB Best Practices · llmbestpractices</title><link>https://llmbestpractices.com/backend/chromadb</link><description>ChromaDB Best Practices · llmbestpractices
+
+## Overview
+
+ChromaDB is an embedded vector database that fits early-stage rag workloads: a few collections, a few million vectors, retrieval from a single application process. It is the right pick for prototypes, internal tools, and small production apps.</description><guid isPermaLink="false">https://llmbestpractices.com/backend/chromadb</guid><category>General AI</category><pubDate>Fri, 15 May 2026 17:11:47 +0000</pubDate></item><item><title>MCP Servers for Codebase Context: How AI Coding Agents Access Code Intelligence</title><link>https://dev.to/corestory/mcp-servers-for-codebase-context-how-ai-coding-agents-access-code-intelligence-3757</link><description># MCP Servers for Codebase Context: How AI Coding Agents Access Code Intelligence - DEV Community
 
 Published: 2026-05-15T17:30:39+00:00
 
 ## Summary
 
-Model Context Protocol (MCP) is an open standard introduced by Anthropic and donated to the Linux Foundation’s Agentic AI Foundation in December 2025.</description><guid isPermaLink="false">https://dev.to/corestory/mcp-servers-for-codebase-context-how-ai-coding-agents-access-code-intelligence-3757</guid><category>Key Practitioners</category><pubDate>Fri, 15 May 2026 17:30:39 +0000</pubDate></item><item><title>B2B Sales Technologies Trends: 2026 GTM Guide | SyncGTM | SyncGTM</title><link>https://www.syncgtm.com/blog/b2b-sales-technologies-trends</link><description>B2B Sales Technologies Trends: 2026 GTM Guide | SyncGTM | SyncGTM
+Model Context Protocol (MCP) is an open standard introduced by Anthropic and donated to the Linux Foundation’s Agentic AI Foundation in December 2025.</description><guid isPermaLink="false">https://dev.to/corestory/mcp-servers-for-codebase-context-how-ai-coding-agents-access-code-intelligence-3757</guid><category>Key Practitioners</category><pubDate>Fri, 15 May 2026 17:30:39 +0000</pubDate></item><item><title>What is generative engine optimization? A practical playbook for AI search - AOL</title><link>https://www.aol.com/news/generative-engine-optimization-practical-playbook-180007434.html</link><description>Fri, May 15, 2026 at 6:00 PM UTC
 
-Enrichments MCP is now live for all plans. Try it out today
+0
 
-B2B Sales Technologies Trends: 2026 GTM Guide | SyncGTM | SyncGTM
-[Enrichments MCP is now live for all plans. Try it out today](https://www.syncgtm.com/product/enrichment-m</description><guid isPermaLink="false">https://www.syncgtm.com/blog/b2b-sales-technologies-trends</guid><category>Key Practitioners</category><pubDate>Fri, 15 May 2026 22:02:42 +0000</pubDate></item><item><title>Karpathy Explains Vibe Coding to Agentic Engineering | Let's Data Science</title><link>https://letsdatascience.com/news/karpathy-explains-vibe-coding-to-agentic-engineering-2d34b5c2</link><description>Karpathy Explains Vibe Coding to Agentic Engineering | Let's Data Science
+A Generative Engine Optimization (GEO) concept floats in a background with icons for view results from internet network. - krungchingpixs // Shutterstock
+
+### What is generative engine optimization? A practical playbook for AI search
+
+GEO isn’t about geography or</description><guid isPermaLink="false">https://www.aol.com/news/generative-engine-optimization-practical-playbook-180007434.html</guid><category>General AI</category><pubDate>Fri, 15 May 2026 18:00:07 +0000</pubDate></item><item><title>Vibe Coding Cheat Sheet: Tools, Prompts, Security Tips, and More</title><link>https://www.techrepublic.com/article/news-vibe-coding-cheat-sheet/</link><description># Vibe Coding Cheat Sheet: Tools, Prompts, Security Tips, and More
+
+Published: 2026-05-15T19:32:07+00:00
+Author: Aminu Abdullahi
+
+## Summary
+
+The term "vibe coding" refers to a process where software developers guide autonomous AI agents rather than writing line-by-line code and writing it into func</description><guid isPermaLink="false">https://www.techrepublic.com/article/news-vibe-coding-cheat-sheet/</guid><category>General AI</category><pubDate>Fri, 15 May 2026 19:32:07 +0000</pubDate></item><item><title>loveisspeed.......: Nico van der Meulen Architects have completed the Ber house in Midrand, South Africa...</title><link>http://loveisspeed.blogspot.com/2012/08/nico-van-der-meulen-architects-have.html</link><description>loveisspeed.......: Nico van der Meulen Architects have completed the Ber house in Midrand, South Africa...
+
+loveisspeed.......: Nico van der Meulen Architects have completed the Ber house in Midrand, South Africa...
+#
+[
+loveisspeed.......
+](http://loveisspeed.blogspot.com/)
+## Pages
+* [Home](http:/</description><guid isPermaLink="false">http://loveisspeed.blogspot.com/2012/08/nico-van-der-meulen-architects-have.html</guid><category>Key Practitioners</category><pubDate>Fri, 15 May 2026 22:42:00 +0000</pubDate></item><item><title>Inside Gemini Spark: Code Reveals The Skill System And Task Scheduler Powering Google's AI Agent - Yahoo News Singapore</title><link>https://sg.news.yahoo.com/inside-gemini-spark-code-reveals-235723075.html</link><description>Inside Gemini Spark: Code Reveals The Skill System And Task Scheduler Powering Google's AI Agent - Yahoo News Singapore
+
+Advertisement
+
+Advertisement
+
+Gemini Intelligence is the umbrella for Google's new agentic AI features on Android.
+
+NurPhoto via Getty Images
+
+More
+
+## Key Takeaways
+
+Code in Goog</description><guid isPermaLink="false">https://sg.news.yahoo.com/inside-gemini-spark-code-reveals-235723075.html</guid><category>General AI</category><pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate></item><item><title>Is Cognizant (CTSH) Using Secure AI Services To Deepen Its Enterprise Transformation Moat? - Simply Wall St News</title><link>https://simplywall.st/stocks/us/software/nasdaq-ctsh/cognizant-technology-solutions/news/is-cognizant-ctsh-using-secure-ai-services-to-deepen-its-ent</link><description>Is Cognizant (CTSH) Using Secure AI Services To Deepen Its Enterprise Transformation Moat? - Simply Wall St News
+
+Advertisement
+
+- Cognizant Technology Solutions recently launched Cognizant Secure AI Services, an integrated offering to secure, govern and scale AI and agentic systems for enterprises,</description><guid isPermaLink="false">https://simplywall.st/stocks/us/software/nasdaq-ctsh/cognizant-technology-solutions/news/is-cognizant-ctsh-using-secure-ai-services-to-deepen-its-ent</guid><category>GTM Engineering</category><pubDate>Sat, 16 May 2026 01:52:08 +0000</pubDate></item><item><title>Karpathy Explains Vibe Coding to Agentic Engineering | Let's Data Science</title><link>https://letsdatascience.com/news/karpathy-explains-vibe-coding-to-agentic-engineering-2d34b5c2</link><description>Karpathy Explains Vibe Coding to Agentic Engineering | Let's Data Science
 
 Feedback
 
@@ -189,7 +119,11 @@ Karpathy Explains Vibe Coding to Agentic Engineering | Let's Data Science
 ![LDS Logo](https://letsdatascience.com/lds_logo.svg)
 LDS
 Let's Data ScienceLEARN • BUILD • STAY AHEAD
-](h</description><guid isPermaLink="false">https://letsdatascience.com/news/karpathy-explains-vibe-coding-to-agentic-engineering-2d34b5c2</guid><category>General AI</category><pubDate>Sat, 16 May 2026 03:26:08 +0000</pubDate></item><item><title>SignalPulse</title><link>https://www.techbuzz.ai/newsletters/signalpulse-3a46-post-a5d94507-e6da-4633-b8e1-7f833ca1436f</link><description># SignalPulse | Newsletters | The Tech Buzz
+](h</description><guid isPermaLink="false">https://letsdatascience.com/news/karpathy-explains-vibe-coding-to-agentic-engineering-2d34b5c2</guid><category>General AI</category><pubDate>Sat, 16 May 2026 03:26:08 +0000</pubDate></item><item><title>Claude Design vs Figma vs Lovable vs v0 (2026) — Mantlr</title><link>https://mantlr.com/blog/claude-design-vs-figma-lovable-v0</link><description>Claude Design vs Figma vs Lovable vs v0 (2026) — Mantlr
+
+AI Design Tools
+
+On April 17, 2026, Anthropic launched Claude Design — a prompt-to-prototype tool built on Claude Opus 4.7, rolling out to all paid Claude subscribers. Figma stock fell roughly 5–7% on the day, depending on which closing window</description><guid isPermaLink="false">https://mantlr.com/blog/claude-design-vs-figma-lovable-v0</guid><category>Tool Stack</category><pubDate>Sat, 16 May 2026 09:00:00 +0000</pubDate></item><item><title>SignalPulse</title><link>https://www.techbuzz.ai/newsletters/signalpulse-3a46-post-a5d94507-e6da-4633-b8e1-7f833ca1436f</link><description># SignalPulse | Newsletters | The Tech Buzz
 
 Published: 2026-05-16T09:16:53+00:00
 Author: The Tech Buzz Team
@@ -201,10 +135,30 @@ The Tech Buzz and Alumni Ventures are partnering to provide readers with early a
 Crawl websites and extract clean Markdown/text content for RAG pipelines and LLMs. HTTP-first, 10x faster than browser-based crawlers.
 
 - URL: https://apify.com/tugelbay/website-content-crawler.md
-- Developed by: Tugelbay Konabaye</description><guid isPermaLink="false">https://apify.com/tugelbay/website-content-crawler</guid><category>General AI</category><pubDate>Sat, 16 May 2026 11:56:11 +0000</pubDate></item><item><title>The Complete Guide to Improving Brand Visibility in AI Search ... | Vizup</title><link>https://www.tryvizup.com/blog/the-complete-guide-to-improving-brand-visibility-in-ai-search</link><description>The Complete Guide to Improving Brand Visibility in AI Search ... | Vizup
+- Developed by: Tugelbay Konabaye</description><guid isPermaLink="false">https://apify.com/tugelbay/website-content-crawler</guid><category>General AI</category><pubDate>Sat, 16 May 2026 14:26:23 +0000</pubDate></item><item><title>SWFBUD -- South West Florida Bicyclists United With Dealers: HOK Blog Post on SWFBUD's Bicycle Bash from Oct. 11</title><link>http://swfbud.blogspot.com/2009/10/hok-blog-post-on-swfbuds-bicycle-bash.html</link><description>SWFBUD -- South West Florida Bicyclists United With Dealers: HOK Blog Post on SWFBUD's Bicycle Bash from Oct. 11
 
-# The Complete Guide to Improving Brand Visibility in AI Search Engines (2026)
+Nico Stearley, an architect at HOK architects in Tampa, participated in the 2009 Bicycle Bash by the Bay, Presented by Cure on Wheels, and did a nice blog post for HOK. You can read Nico</description><guid isPermaLink="false">http://swfbud.blogspot.com/2009/10/hok-blog-post-on-swfbuds-bicycle-bash.html</guid><category>Key Practitioners</category><pubDate>Sun, 17 May 2026 10:49:00 +0000</pubDate></item><item><title>How to Build a Substack Audience Growth System That Works (Even With a Small List)</title><link>https://solopreneurcode.substack.com/p/solopreneur-audience-growth-system</link><description># How to Build a Substack Audience Growth System That Works (Even With a Small List)
 
-Satyam Vivek·May 16, 2026
+Published: 2026-05-17T13:55:27+00:00
+Author: Anfernee
+Type: Non-news
 
-On traditional search engines, about 60% of searches now end without the user progressing to another destination, acco</description><guid isPermaLink="false">https://www.tryvizup.com/blog/the-complete-guide-to-improving-brand-visibility-in-ai-search</guid><category>General AI</category><pubDate>Sat, 16 May 2026 13:36:28 +0000</pubDate></item></channel></rss>
+## Summary
+
+The Audience Growth System is a set of repeatable actions that bring new subscribers to your newsletter without requiring you to rei</description><guid isPermaLink="false">https://solopreneurcode.substack.com/p/solopreneur-audience-growth-system</guid><category>Alpha Signals</category><pubDate>Sun, 17 May 2026 13:55:27 +0000</pubDate></item><item><title>Anthropic's Code With Claude Announces Managed Agents, Proactive Workflows, Capability Curve</title><link>https://www.infoq.com/news/2026/05/code-with-claude/</link><description># Anthropic's Code With Claude Announces Managed Agents, Proactive Workflows, Capability Curve - InfoQ
+
+Published: 2026-05-18T13:14:00+00:00
+
+## Summary
+
+Anthropic hosted Code with Claude 2026 in San Francisco on May 6, covering shipping work across Claude Code, the Claude Developer Platform, and pa</description><guid isPermaLink="false">https://www.infoq.com/news/2026/05/code-with-claude/</guid><category>General AI</category><pubDate>Mon, 18 May 2026 13:14:00 +0000</pubDate></item><item><title>AI Search Optimization | GEO Glossary</title><link>https://aisearchglossary.com/terms/ai-search-optimization</link><description>AI Search Optimization | GEO Glossary
+
+## Citation status
+
+ChatGPT0×Perplexity0×Claude0×Copilot0×Gemini0×
+
+Last checked 2026-05-14
+
+## What is AI Search Optimization?
+
+AI Search Optimization (AIO) emerged in 2024–2025 as a more accessible alternative to GEO1/AEO/LLMO for marketing teams unwilling to</description><guid isPermaLink="false">https://aisearchglossary.com/terms/ai-search-optimization</guid><category>General AI</category><pubDate>Thu, 21 May 2026 14:55:38 +0000</pubDate></item></channel></rss>
