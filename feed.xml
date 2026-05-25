@@ -1,268 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>GTM Intelligence Feed</title><link>https://ichibahn11.github.io/ai-news-rss-feed/</link><description>Daily AI and GTM engineering signals curated for the team</description><atom:link href="https://ichibahn11.github.io/ai-news-rss-feed/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://ichibahn11.github.io/ai-news-rss-feed/favicon.png</url><title>GTM Intelligence Feed</title><link>https://ichibahn11.github.io/ai-news-rss-feed/</link></image><language>en</language><lastBuildDate>Sun, 24 May 2026 11:58:41 +0000</lastBuildDate><item><title>The Narrow Waist Architecture of the Agent Transfer Protocol</title><link>https://chrishood.com/the-narrow-waist-architecture-of-the-agent-transfer-protocol/</link><description>The Narrow Waist Architecture of the Agent Transfer Protocol
-
-The AI industry has been building an impressive vocabulary for agent communication. Model Context Protocol defines how agents invoke tools. Agent-to-Agent Protocol defines how agents delegate tasks. These specifications are effective at w</description><guid isPermaLink="false">https://chrishood.com/the-narrow-waist-architecture-of-the-agent-transfer-protocol/</guid><category>General AI</category><pubDate>Thu, 21 May 2026 13:09:07 +0000</pubDate></item><item><title>How Anthropic Rebuilt Its Sales Org From Scratch When Demand Went Vertical: 54% of New Enterprise Logos Now Come Self-Serve | SaaStr</title><link>https://www.saastr.com/how-anthropic-rebuilt-its-sales-org-from-scratch-when-demand-went-vertical-54-of-new-enterprise-logos-now-come-self-serve/</link><description># How Anthropic Rebuilt Its Sales Org From Scratch When Demand Went Vertical: 54% of New Enterprise Logos Now Come Self-Serve | SaaStr
-
-Author: Jason Lemkin
-Published: 2026-05-21T14:10:28+00:00
-Source: saastr.com (saastr.com)
-Language: en
-
-## Story
-
-How Anthropic Rebuilt Its Sales Org From Scratch W</description><guid isPermaLink="false">https://www.saastr.com/how-anthropic-rebuilt-its-sales-org-from-scratch-when-demand-went-vertical-54-of-new-enterprise-logos-now-come-self-serve/</guid><category>GTM Engineering</category><pubDate>Thu, 21 May 2026 14:10:28 +0000</pubDate></item><item><title>Replacing all of your workflows with agents is a bad idea. Here's why:
-
-Listen, I'm as Claude-pilled as the rest of you are. It will fundamentally change the way we do work. However, having agents… | Patrick Spychalski | 23 comments</title><link>https://www.linkedin.com/posts/patrickspychalski_replacing-all-of-your-workflows-with-agents-activity-7463235490612146176-NnPF</link><description>$100m, then score it as x, if industry contains software, score it as x), this does not require an agent. It could be built for essentially free in a tool like n8n, or you could even have Claude write the code that eventually embeds itself in your workflow. The reason this is so important to disting</description><guid isPermaLink="false">https://www.linkedin.com/posts/patrickspychalski_replacing-all-of-your-workflows-with-agents-activity-7463235490612146176-NnPF</guid><category>Key Practitioners</category><pubDate>Thu, 21 May 2026 14:33:21 +0000</pubDate></item><item><title>What is Answer Engine Optimization (AEO)?</title><link>https://aiseo.ai/blog/what-is-answer-engine-optimization-aeo</link><description>What is Answer Engine Optimization (AEO)?
-
-# What is Answer Engine Optimization (AEO)? The AEO Guide for 2026
-
-Dilyar Buzan•Published: May 21, 2026•Last updated: May 21, 2026•
-
-24 min read
-
-•
-
-Dilyar Buzan
-
-2026-05-21T14:50:30.574Z
-
-TL;DR
-
-- Answer engine optimization (AEO) is the practice of struct</description><guid isPermaLink="false">https://aiseo.ai/blog/what-is-answer-engine-optimization-aeo</guid><category>General AI</category><pubDate>Thu, 21 May 2026 14:50:30 +0000</pubDate></item><item><title>How to build your first end-to-end AI workflow in n8n - The New Stack</title><link>https://thenewstack.io/build-n8n-ai-workflow/</link><description>How to build your first end-to-end AI workflow in n8n - The New Stack
-
-TNS
-
-OK
-
-VOXPOP
-
-As a JavaScript developer, what non-React tools do you use most often?
-
-✓
-
-Angular
-
-0%
-
-✓
-
-Astro
-
-0%
-
-✓
-
-Svelte
-
-0%
-
-✓
-
-Vue.js
-
-0%
-
-✓
-
-Other
-
-0%
-
-✓
-
-I only use React
-
-0%
-
-✓
-
-I don't use JavaScript
-
-0%
-
-SUBMIT
-
-NE</description><guid isPermaLink="false">https://thenewstack.io/build-n8n-ai-workflow/</guid><category>Tool Stack</category><pubDate>Thu, 21 May 2026 15:00:00 +0000</pubDate></item><item><title>The AI-native GTM operating model (and how we built ours in 30 days)</title><link>https://www.linkedin.com/pulse/ai-native-gtm-operating-model-how-we-built-ours-30-days-itai-tevet-p6vff</link><description>The AI-native GTM operating model (and how we built ours in 30 days)
-
-Agree &amp; Join LinkedIn
-
-By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
-
-I'm a cybersecurity startup CEO. I just spent a whole month turning my GTM org into an AI-</description><guid isPermaLink="false">https://www.linkedin.com/pulse/ai-native-gtm-operating-model-how-we-built-ours-30-days-itai-tevet-p6vff</guid><category>GTM Engineering</category><pubDate>Thu, 21 May 2026 15:08:44 +0000</pubDate></item><item><title>AEO/GEO vs. SEO: What's Working Today? | NewReputation Help Center</title><link>https://blog.newreputation.com/aeo-vs-geo-vs-seo/</link><description>AEO/GEO vs. SEO: What's Working Today? | NewReputation Help Center
-
-# AEO/GEO vs. SEO: What’s Working Today?
-
-- May 21, 2026
-- Kevin
-
-Last Updated on 6 hours ago by Admin
-
-Search has changed more in the last two years than it did in the previous decade.
-
-Google still processes over 8.5 billion searc</description><guid isPermaLink="false">https://blog.newreputation.com/aeo-vs-geo-vs-seo/</guid><category>General AI</category><pubDate>Thu, 21 May 2026 15:38:11 +0000</pubDate></item><item><title>Exa raises $250M as its AI search engine blows past Google wrappers - TestingCatalog AI</title><link>https://testingcatalog.net/exa-raises-250m-as-its-ai-search-engine-blows-past-google-wrappers/</link><description>Exa raises $250M as its AI search engine blows past Google wrappers - TestingCatalog AI
-
-Menu
-
-#### Categories
-
-#### Tags
-
-Exa, the AI search engine built by Harvard alumni specifically for AI agents, just closed a $250 million Series C round led by a16z. The valuation jumped from $700 million last</description><guid isPermaLink="false">https://testingcatalog.net/exa-raises-250m-as-its-ai-search-engine-blows-past-google-wrappers/</guid><category>Tool Stack</category><pubDate>Thu, 21 May 2026 15:40:22 +0000</pubDate></item><item><title>Why Context Is the Only Thing That Matters in AI  | Jefferies.com</title><link>https://www.jefferies.com/insights/boardroom-intelligence/why-context-is-the-only-thing-that-matters-in-ai/</link><description>Why Context Is the Only Thing That Matters in AI | Jefferies.com
-
-Important Message – Fraud Alert / Alerta de Fraude / Alerte à la Fraude
-
-We have been made aware of bad actors holding themselves out as Jefferies representatives targeting individuals around the world.
-
-More Info
-
-Important Message –</description><guid isPermaLink="false">https://www.jefferies.com/insights/boardroom-intelligence/why-context-is-the-only-thing-that-matters-in-ai/</guid><category>GTM Engineering</category><pubDate>Thu, 21 May 2026 15:41:05 +0000</pubDate></item><item><title>Google’s Agentic Era: I/O 2026 Ends the Chatbot Paradigm With Gemini 3.5 | Endroid News Network</title><link>https://endroid.com/2026/google-io-2026-gemini-autonomous-ai-agents/</link><description>Google’s Agentic Era: I/O 2026 Ends the Chatbot Paradigm With Gemini 3.5 | Endroid News Network
-
-TL;DR: Google I/O 2026 marked the definitive end of the chatbot era, introducing a fleet of autonomous background agents powered by the new Gemini 3.5 Flash model. From 24/7 personal assistants to agent-</description><guid isPermaLink="false">https://endroid.com/2026/google-io-2026-gemini-autonomous-ai-agents/</guid><category>General AI</category><pubDate>Thu, 21 May 2026 15:53:04 +0000</pubDate></item><item><title>Cursor vs. Lovable vs. Replit: Which Vibe Coding Tool Builds the Most Production-Ready Code? - GeekyAnts</title><link>https://geekyants.com/blog/cursor-vs-lovable-vs-replit-which-vibe-coding-tool-builds-the-most-production-ready-code</link><description>Cursor vs. Lovable vs. Replit: Which Vibe Coding Tool Builds the Most Production-Ready Code? - GeekyAnts
-
-May 21, 2026
-
-# Cursor vs. Lovable vs. Replit: Which Vibe Coding Tool Builds the Most Production-Ready Code?
-
-This guide breaks down Cursor, Lovable, and Replit across the criteria that matter m</description><guid isPermaLink="false">https://geekyants.com/blog/cursor-vs-lovable-vs-replit-which-vibe-coding-tool-builds-the-most-production-ready-code</guid><category>Tool Stack</category><pubDate>Thu, 21 May 2026 16:09:12 +0000</pubDate></item><item><title>Data Enrichment: A Practitioner’s Guide for Strategy and Analytics Teams</title><link>https://infomineo.com/services/data-analytics/data-enrichment-a-practitioners-guide-for-strategy-and-analytics-teams/</link><description>Data Enrichment: A Practitioner’s Guide for Strategy and Analytics Teams
-
-Data Analytics
-
-# Data Enrichment: A Practitioner’s Guide for Strategy and Analytics Teams
-
-#### Table of Contents
-
-Most data enrichment failures are not tool failures. They are sourcing failures, validation failures, and refr</description><guid isPermaLink="false">https://infomineo.com/services/data-analytics/data-enrichment-a-practitioners-guide-for-strategy-and-analytics-teams/</guid><category>Tool Stack</category><pubDate>Thu, 21 May 2026 16:35:35 +0000</pubDate></item><item><title>Revenue Engine Strategy: Unified System for Predictable Growth - Fullcast</title><link>https://www.fullcast.com/content/revenue-engine-strategy/</link><description>Revenue Engine Strategy: Unified System for Predictable Growth - Fullcast
-
-Read the 2026 Benchmarks Report Now!
-
-# Revenue Engine Strategy: How to Build a Unified System That Drives Predictable Growth
-
-← Previous Next →
-
-#### Amy Cook
-
-Amy Osmond Cook, Ph.D., is a seasoned marketing executive and co</description><guid isPermaLink="false">https://www.fullcast.com/content/revenue-engine-strategy/</guid><category>Key Practitioners</category><pubDate>Thu, 21 May 2026 17:00:34 +0000</pubDate></item><item><title>What is Agentic RevOps? The Future of SaaS Revenue Operations</title><link>https://mountainise.com/blog/agentic-revops-future-of-saas-revenue-operations/</link><description>What is Agentic RevOps? The Future of SaaS Revenue Operations
-
-# What is Agentic RevOps? The Future of SaaS Revenue Operations
-
-May 21, 2026
-
-Ask any RevOps leader what their team actually does all day, and the honest answer rarely shows up on a job description.
-
-They’re reconciling pipelines agains</description><guid isPermaLink="false">https://mountainise.com/blog/agentic-revops-future-of-saas-revenue-operations/</guid><category>Key Practitioners</category><pubDate>Thu, 21 May 2026 19:08:06 +0000</pubDate></item><item><title>Welltower Inc Annual Shareholders Meeting Transcript</title><link>https://www.gurufocus.com/news/8875618/welltower-inc-annual-shareholders-meeting-transcript</link><description># Welltower Inc Annual Shareholders Meeting Transcript
-
-Published: 2026-05-21T20:00:40+00:00
-Source: gurufocus.com (gurufocus.com)
-Language: en
-
-## Story
-
-Welltower Inc Annual Shareholders Meeting Transcript
-
-# Welltower Inc Annual Shareholders Meeting Transcript
-
-GuruFocus News
-
-1 hours ago
-
-Click</description><guid isPermaLink="false">https://www.gurufocus.com/news/8875618/welltower-inc-annual-shareholders-meeting-transcript</guid><category>Alpha Signals</category><pubDate>Thu, 21 May 2026 20:00:40 +0000</pubDate></item><item><title>AI Agents for B2B Sales Outreach: 2026 Guide</title><link>https://salestarget.ai/blogs/ai-agents-b2b-sales-outreach-2026-guide</link><description>AI Agents for B2B Sales Outreach: 2026 Guide
-
-AI agents for sales
-
-# AI Agents for B2B Sales: What They Are and How to Use Them
-
-AI agents for sales are not chatbots or automation tools. Here is what they actually are, what tasks they handle, and how to build your first AI agent workflow for B2B out</description><guid isPermaLink="false">https://salestarget.ai/blogs/ai-agents-b2b-sales-outreach-2026-guide</guid><category>GTM Engineering</category><pubDate>Thu, 21 May 2026 20:41:51 +0000</pubDate></item><item><title>The Signal-Driven GTM Model: Turning Engagement Into Revenue - Chief Content Marketer</title><link>https://chiefcontentmarketer.com/signal-driven-gtm-model-engagement-to-revenue/</link><description>The Signal-Driven GTM Model: Turning Engagement Into Revenue - Chief Content Marketer
-
-# The Signal-Driven GTM Model: Turning Engagement Into Revenue
-
-#### ByChief Content Marketer
-
-## TL;DR
-
-Likes and comments aren’t vanity metrics if you know what to do with them. The problem isn’t that engagement</description><guid isPermaLink="false">https://chiefcontentmarketer.com/signal-driven-gtm-model-engagement-to-revenue/</guid><category>Key Practitioners</category><pubDate>Thu, 21 May 2026 23:05:00 +0000</pubDate></item><item><title>Simpson Thacher, Latham &amp; Watkins, Morris Nichols Act On Acquisition Of Mister Car Wash By LGP - thedealmatter.com</title><link>https://thedealmatter.com/deals/simpson-thacher-latham-watkins-morris-nichols-act-on-acquisition-of-mister-car-wash-by-lgp/</link><description>Simpson Thacher, Latham &amp; Watkins, Morris Nichols Act On Acquisition Of Mister Car Wash By LGP - thedealmatter.com
-
-## Simpson Thacher, Latham &amp; Watkins, Morris Nichols Act On Acquisition Of Mister Car Wash By LGP
-
-- May 21, 2026
-
-#### Simpson Thacher, Latham &amp; Watkins, and Morris Nichols advised on</description><guid isPermaLink="false">https://thedealmatter.com/deals/simpson-thacher-latham-watkins-morris-nichols-act-on-acquisition-of-mister-car-wash-by-lgp/</guid><category>Key Practitioners</category><pubDate>Thu, 21 May 2026 23:34:52 +0000</pubDate></item><item><title>Technographic Data vs Intent Data, Which One Drives Pipeline - Growwwth</title><link>https://growwwth.net/technographic-data-vs-intent-data-which-one-drives-pipeline/</link><description>Technographic Data vs Intent Data, Which One Drives Pipeline - Growwwth
-
-# Technographic Data vs Intent Data, Which One Drives Pipeline
-
-In this article, we'll explore the differences between technographic data vs intent data and understand which one drives the pipeline
-
-Business• Guides &amp; Tutorials</description><guid isPermaLink="false">https://growwwth.net/technographic-data-vs-intent-data-which-one-drives-pipeline/</guid><category>Alpha Signals</category><pubDate>Thu, 21 May 2026 23:37:45 +0000</pubDate></item><item><title>Master Class: Vibe Coding to Drive Revenue</title><link>https://www.youtube.com/watch?v=bMCBVaQy7hg</link><description># Master Class: Vibe Coding to Drive Revenue
-
-- Channel: CONNECTpreneur
-- Length: 01:16:20
-- Views: 6
-- Language: en
-
-## Description
-
-The way GTM teams work is changing fast — and the ones moving quickest are using Claude to close the gap between strategy and execution. This session pulls back the c</description><guid isPermaLink="false">https://www.youtube.com/watch?v=bMCBVaQy7hg</guid><category>Alpha Signals</category><pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate></item><item><title>Crowell &amp; Moring Represents Kanders &amp; Company in Acquisition of Ginkgo Bioworks’ Biosecurity Business | Crowell &amp; Moring LLP</title><link>https://www.crowell.com/en/insights/firm-news/crowell-and-moring-represents-kanders-and-company-in-acquisition-of-ginkgo-bioworks-biosecurity-business</link><description>Crowell &amp; Moring Represents Kanders &amp; Company in Acquisition of Ginkgo Bioworks’ Biosecurity Business | Crowell &amp; Moring LLP
-
-1. Home
-2. | Insights
-3. |Crowell &amp; Moring Represents Kanders &amp; Company in Acquisition of Ginkgo Bioworks’ Biosecurity Business
-
-Share
-
-# Crowell &amp; Moring Represents Kanders</description><guid isPermaLink="false">https://www.crowell.com/en/insights/firm-news/crowell-and-moring-represents-kanders-and-company-in-acquisition-of-ginkgo-bioworks-biosecurity-business</guid><category>Key Practitioners</category><pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate></item><item><title>What is GTM Engineering? The Complete 2026 Guide to the Role, Skills &amp; Salary | Cleanlist | Cleanlist</title><link>https://www.cleanlist.ai/blog/2026-05-22-what-is-gtm-engineering</link><description># Cleanlist
-
-&gt; Last updated: May 17, 2026
-
-&gt; Cleanlist is a B2B data enrichment and GTM orchestration platform. It uses waterfall enrichment — querying 15+ data providers per lookup — to deliver 98% email accuracy and 85% phone find rates. Credit-based pricing, no per-seat fees, no annual contracts.</description><guid isPermaLink="false">https://www.cleanlist.ai/blog/2026-05-22-what-is-gtm-engineering</guid><category>GTM Engineering</category><pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate></item><item><title>Best Sales Engagement Platforms TESTED For Deliverability</title><link>https://emailwarmup.com/blog/email-statistics/best-sales-engagement-platforms-for-deliverability/</link><description>Best Sales Engagement Platforms TESTED For Deliverability
-
-# We Tested 10 Sales Engagement Platforms on Deliverability (Ranked!)
-
-May 22, 2026
-
-May 22, 2026
-
-(Updated)
-
-31 minutes
-
-## Daniyal Dehleh
-
-Daniyal Dehleh is an email deliverability expert with 12+ years in the email marketing industry, tru</description><guid isPermaLink="false">https://emailwarmup.com/blog/email-statistics/best-sales-engagement-platforms-for-deliverability/</guid><category>Tool Stack</category><pubDate>Fri, 22 May 2026 01:14:41 +0000</pubDate></item><item><title>Everspin Technologies Inc Annual Shareholders Meeting Transcript</title><link>https://www.gurufocus.com/news/8876398/everspin-technologies-inc-annual-shareholders-meeting-transcript</link><description># Everspin Technologies Inc Annual Shareholders Meeting Transcript
-
-Published: 2026-05-22T02:00:10+00:00
-Source: gurufocus.com (gurufocus.com)
-Language: en
-
-## Story
-
-Everspin Technologies Inc Annual Shareholders Meeting Transcript
-
-# Everspin Technologies Inc Annual Shareholders Meeting Transcript</description><guid isPermaLink="false">https://www.gurufocus.com/news/8876398/everspin-technologies-inc-annual-shareholders-meeting-transcript</guid><category>Alpha Signals</category><pubDate>Fri, 22 May 2026 02:00:10 +0000</pubDate></item><item><title>GTM orgs now 9x flatter, 2x revenue per rep: ICONIQ survey | OnTargetIsh</title><link>https://ontargetish.com/news/gtm-orgs-now-9x-flatter-2x-revenue-per-rep-iconiq-survey</link><description>GTM orgs now 9x flatter, 2x revenue per rep: ICONIQ survey | OnTargetIsh
-
-## The Structure Shift
-
-ICONIQ Growth surveyed 150+ B2B software executives in January 2026. The headline finding: modern GTM orgs are materially leaner and flatter.
-
-Top performers now run roughly 9.2-9.8 individual contribut</description><guid isPermaLink="false">https://ontargetish.com/news/gtm-orgs-now-9x-flatter-2x-revenue-per-rep-iconiq-survey</guid><category>Key Practitioners</category><pubDate>Fri, 22 May 2026 06:00:01 +0000</pubDate></item><item><title>Smartlead vs Instantly 2026: Free Cost Calculator + Agency Pricing</title><link>https://gigradar.io/blog/smartlead-vs-instantly</link><description>Smartlead vs Instantly 2026: Free Cost Calculator + Agency Pricing
-
-&gt;
-
-Marketing
-
-&gt;
-
-Smartlead vs Instantly: which cold email platform actually scales for agencies (2026 data)
-
-Marketing
-
-# Smartlead vs Instantly: which cold email platform actually scales for agencies (2026 data)
-
-Smartlead vs Insta</description><guid isPermaLink="false">https://gigradar.io/blog/smartlead-vs-instantly</guid><category>Tool Stack</category><pubDate>Fri, 22 May 2026 06:26:50 +0000</pubDate></item><item><title>What is Agent2Agent (A2A)? The Open Protocol for AI Agent Communication</title><link>https://apidog.com/blog/what-is-agent2agent-a2a/</link><description>What is Agent2Agent (A2A)? The Open Protocol for AI Agent Communication
-
-Most AI systems today are single agents. One model, one prompt loop, one set of tools. That works until the job is too big for one agent, or until you need an agent built by another team to handle a step your agent can’t. Then</description><guid isPermaLink="false">https://apidog.com/blog/what-is-agent2agent-a2a/</guid><category>General AI</category><pubDate>Fri, 22 May 2026 07:13:48 +0000</pubDate></item><item><title>How to Reduce LLM Inference Costs in AI Agents by Extracting Token-Efficient JSON and Metadata - DEV Community</title><link>https://dev.to/alterlab/how-to-reduce-llm-inference-costs-in-ai-agents-by-extracting-token-efficient-json-and-metadata-2h93</link><description>How to Reduce LLM Inference Costs in AI Agents by Extracting Token-Efficient JSON and Metadata - DEV Community
-
-## TL;DR
-
-Feeding raw HTML to LLMs wastes input tokens on structural markup, tracking scripts, and inline styling, massively inflating your inference costs. By extracting clean JSON, seman</description><guid isPermaLink="false">https://dev.to/alterlab/how-to-reduce-llm-inference-costs-in-ai-agents-by-extracting-token-efficient-json-and-metadata-2h93</guid><category>General AI</category><pubDate>Fri, 22 May 2026 10:30:01 +0000</pubDate></item><item><title>The Search Engine for Developers &amp; Custom AI Search Solution - Exa</title><link>https://exa.ai/about</link><description>Exa: The Search Engine for Developers &amp; Custom AI Search Solution
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>GTM Intelligence Feed</title><link>https://ichibahn11.github.io/ai-news-rss-feed/</link><description>Daily AI and GTM engineering signals curated for the team</description><atom:link href="https://ichibahn11.github.io/ai-news-rss-feed/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://ichibahn11.github.io/ai-news-rss-feed/favicon.png</url><title>GTM Intelligence Feed</title><link>https://ichibahn11.github.io/ai-news-rss-feed/</link></image><language>en</language><lastBuildDate>Mon, 25 May 2026 13:56:38 +0000</lastBuildDate><item><title>The Search Engine for Developers &amp; Custom AI Search Solution - Exa</title><link>https://exa.ai/about</link><description>Exa: The Search Engine for Developers &amp; Custom AI Search Solution
 
 Exa raises $250M Series C Exa raises $250M Series C to build the search engine for AIs. Read more
 
@@ -278,17 +15,97 @@ Our vision
 
 Dear curious internet wanderer,
 
-Welcome to</description><guid isPermaLink="false">https://exa.ai/about</guid><category>Tool Stack</category><pubDate>Fri, 22 May 2026 11:58:29 +0000</pubDate></item><item><title>Google just commoditized the agent stack with a single API call - DEV Community</title><link>https://dev.to/albertomontagnese/google-just-commoditized-the-agent-stack-with-a-single-api-call-3092</link><description>Google just commoditized the agent stack with a single API call - DEV Community
+Welcome to</description><guid isPermaLink="false">https://exa.ai/about</guid><category>Tool Stack</category><pubDate>Fri, 22 May 2026 13:56:28 +0000</pubDate></item><item><title>Google just commoditized the agent stack with a single API call - DEV Community</title><link>https://dev.to/albertomontagnese/google-just-commoditized-the-agent-stack-with-a-single-api-call-3092</link><description>Google just commoditized the agent stack with a single API call - DEV Community
 
-Google's release of Managed Agents in the Gemini API is the signal to pay attention to this week. It packages the messy, stateful, and insecure parts of building agents into a single API endpoint, backed by a new, cost-</description><guid isPermaLink="false">https://dev.to/albertomontagnese/google-just-commoditized-the-agent-stack-with-a-single-api-call-3092</guid><category>General AI</category><pubDate>Fri, 22 May 2026 15:03:03 +0000</pubDate></item><item><title>Scrape-to-RAG with LlamaIndex and CRW (2026): A Production Ingestion Pipeline | fastCRW</title><link>https://fastcrw.com/blog/scrape-to-rag-pipeline-llamaindex</link><description>Scrape-to-RAG with LlamaIndex and CRW (2026): A Production Ingestion Pipeline | fastCRW
+Google's release of Managed Agents in the Gemini API is the signal to pay attention to this week. It packages the messy, stateful, and insecure parts of building agents into a single API endpoint, backed by a new, cost-</description><guid isPermaLink="false">https://dev.to/albertomontagnese/google-just-commoditized-the-agent-stack-with-a-single-api-call-3092</guid><category>General AI</category><pubDate>Fri, 22 May 2026 15:03:03 +0000</pubDate></item><item><title>Master Class: Vibe Coding to Drive Revenue</title><link>https://www.youtube.com/watch?v=bMCBVaQy7hg</link><description># Master Class: Vibe Coding to Drive Revenue
 
-## What We're Building
+- Channel: CONNECTpreneur
+- Length: 01:16:20
+- Views: 10
+- Likes: 0
+- Published: 2026-05-22T08:20:03-07:00
+- Category: Science &amp; Technology
+- Language: en
 
-A retrieval-augmented generation (RAG) pipeline that ingests an entire documentation site and answers questions about it. The hard part of RAG is rarely the vector store — it's getting cl</description><guid isPermaLink="false">https://fastcrw.com/blog/scrape-to-rag-pipeline-llamaindex</guid><category>General AI</category><pubDate>Fri, 22 May 2026 15:31:23 +0000</pubDate></item><item><title>I Migrated 23 Make.com Scenarios to n8n and Cut My Bill by 60% — Complete Migration Guide (2026) - DEV Community</title><link>https://dev.to/flowkithq/i-migrated-23-makecom-scenarios-to-n8n-and-cut-my-bill-by-60-complete-migration-guide-2026-jnf</link><description>I Migrated 23 Make.com Scenarios to n8n and Cut My Bill by 60% — Complete Migration Guide (2026) - DEV Community
+## Description
+
+The way GTM teams work is changing fast — and the ones moving quickest are using C</description><guid isPermaLink="false">https://www.youtube.com/watch?v=bMCBVaQy7hg</guid><category>Alpha Signals</category><pubDate>Fri, 22 May 2026 15:20:03 +0000</pubDate></item><item><title>Atos SE (AEXAY) Shareholder/Analyst Call Transcript | Seeking Alpha</title><link>https://seekingalpha.com/article/4907943-atos-se-aexay-shareholder-analyst-call-transcript</link><description>Atos SE (AEXAY) Shareholder/Analyst Call Transcript | Seeking Alpha
+
+160.29K Followers
+
+5
+
+Share
+
+Play Earnings Call
+
+Atos SE (AEXAY) Shareholder/Analyst Call May 22, 2026 4:00 AM EDT
+
+Company Participants
+
+Philippe Salle - Chairman of the Board &amp; CEOJacques-François de Prest - Group CFO &amp; Member of</description><guid isPermaLink="false">https://seekingalpha.com/article/4907943-atos-se-aexay-shareholder-analyst-call-transcript</guid><category>Alpha Signals</category><pubDate>Fri, 22 May 2026 15:30:48 +0000</pubDate></item><item><title>I Migrated 23 Make.com Scenarios to n8n and Cut My Bill by 60% — Complete Migration Guide (2026) - DEV Community</title><link>https://dev.to/flowkithq/i-migrated-23-makecom-scenarios-to-n8n-and-cut-my-bill-by-60-complete-migration-guide-2026-jnf</link><description>I Migrated 23 Make.com Scenarios to n8n and Cut My Bill by 60% — Complete Migration Guide (2026) - DEV Community
 
 I was paying $49/month on Make.com and hitting operation limits every few weeks.
 
-My 23 scenarios handled lead captures, Slack notifications, email sequences, and weekly reports. But Mak</description><guid isPermaLink="false">https://dev.to/flowkithq/i-migrated-23-makecom-scenarios-to-n8n-and-cut-my-bill-by-60-complete-migration-guide-2026-jnf</guid><category>Tool Stack</category><pubDate>Fri, 22 May 2026 15:37:04 +0000</pubDate></item><item><title>Clay, ZoomInfo, and the Question No One Wants to Answer | LeadGenius</title><link>https://www.leadgenius.com/resources/clay-zoominfo-and-the-question-no-one-wants-to-answer</link><description>Clay, ZoomInfo, and the Question No One Wants to Answer | LeadGenius
+My 23 scenarios handled lead captures, Slack notifications, email sequences, and weekly reports. But Mak</description><guid isPermaLink="false">https://dev.to/flowkithq/i-migrated-23-makecom-scenarios-to-n8n-and-cut-my-bill-by-60-complete-migration-guide-2026-jnf</guid><category>Tool Stack</category><pubDate>Fri, 22 May 2026 15:37:04 +0000</pubDate></item><item><title>The natural path today for vibe coders is Lovable, then Cursor, then panic.
+
+You start with a prompt-to-app tool because it gives you the first version and it feels amazing. Then you try to make the… | Sam Hatoum</title><link>https://www.linkedin.com/posts/samhatoum_the-natural-path-today-for-vibe-coders-is-activity-7463620857739825152-2_Sk</link><description>The natural path today for vibe coders is Lovable, then Cursor, then panic. You start with a prompt-to-app tool because it gives you the first version and it feels amazing. Then you try to make the… | Sam Hatoum
+
+Agree &amp; Join LinkedIn
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s</description><guid isPermaLink="false">https://www.linkedin.com/posts/samhatoum_the-natural-path-today-for-vibe-coders-is-activity-7463620857739825152-2_Sk</guid><category>Tool Stack</category><pubDate>Fri, 22 May 2026 16:04:39 +0000</pubDate></item><item><title>Sales AI: 7 Reliable CRM Enrichment Patterns</title><link>https://beykeworkflows.com/sales-ai-notes-follow-ups-crm-enrichment-workflow/</link><description>Sales AI: 7 Reliable CRM Enrichment Patterns
+
+A practical workflow for using sales AI to summarize meetings, draft follow-ups, suggest CRM updates, preserve rep review, and improve revenue data quality.
+
+Table of contents
+
+## Lesson
+
+AI for Sales Notes, Follow-Ups, and CRM Enrichment
+
+## Learning Ob</description><guid isPermaLink="false">https://beykeworkflows.com/sales-ai-notes-follow-ups-crm-enrichment-workflow/</guid><category>GTM Engineering</category><pubDate>Fri, 22 May 2026 16:15:00 +0000</pubDate></item><item><title>Where to Start with AI: A Practical Guide for GTM Teams | MarketScreener</title><link>https://www.marketscreener.com/news/where-to-start-with-ai-a-practical-guide-for-gtm-teams-ce7f5adcd98df52c</link><description>Where to Start with AI: A Practical Guide for GTM Teams | MarketScreener
+
+Add to a list PDF Report
+
+## HubSpot, Inc.
+
+## Equities
+
+## HUBS
+
+## US4435731009
+
+## Software
+
+Market Closed - Nyse
+
+| 04:00:03 2026-05-22 pm EDT | 5-day change | 1st Jan Change |
+| --- | --- | --- |
+| 201.97 USD | +1.81% | +</description><guid isPermaLink="false">https://www.marketscreener.com/news/where-to-start-with-ai-a-practical-guide-for-gtm-teams-ce7f5adcd98df52c</guid><category>GTM Engineering</category><pubDate>Fri, 22 May 2026 17:08:11 +0000</pubDate></item><item><title>Founder Friday: Real Assets. Real Products. Real Demand.</title><link>https://startupdealdesk.substack.com/p/founder-friday-real-assets-real-products</link><description>Founder Friday: Real Assets. Real Products. Real Demand.
+
+SubscribeSign in
+
+# Founder Friday: Real Assets. Real Products. Real Demand.
+
+### Authenticity Is Becoming an Asset Class
+
+Funding IS Hard 🎣
+
+May 22, 2026
+
+76
+
+Share
+
+Long weekends tend to slow markets down just enough to notice what actuall</description><guid isPermaLink="false">https://startupdealdesk.substack.com/p/founder-friday-real-assets-real-products</guid><category>Key Practitioners</category><pubDate>Fri, 22 May 2026 17:54:53 +0000</pubDate></item><item><title>FullEnrich Review: Pros and Cons</title><link>https://pipeline.zoominfo.com/sales/fullenrich-review</link><description>FullEnrich Review: Pros and Cons
+
+FullEnrich does one thing in B2B data enrichment: it queries 20+ data vendors in sequence until it finds a verified email or phone number for your prospect. The logic is simple. No single data provider covers everyone. By waterfalling across multiple sources, FullEn</description><guid isPermaLink="false">https://pipeline.zoominfo.com/sales/fullenrich-review</guid><category>Tool Stack</category><pubDate>Fri, 22 May 2026 18:51:54 +0000</pubDate></item><item><title>Instantly.ai vs lemlist: Key Differences</title><link>https://pipeline.zoominfo.com/sales/instantly-ai-vs-lemlist</link><description>Instantly.ai vs lemlist: Key Differences
+
+Choosing between Instantly.ai and Lemlist for outbound sales comes down to five questions:
+
+Are you optimizing for email volume and cost, or for multichannel personalization across email, LinkedIn, WhatsApp, and phone?
+
+Do you need unlimited email accounts u</description><guid isPermaLink="false">https://pipeline.zoominfo.com/sales/instantly-ai-vs-lemlist</guid><category>Tool Stack</category><pubDate>Fri, 22 May 2026 18:51:54 +0000</pubDate></item><item><title>Clay, ZoomInfo, and the Question No One Wants to Answer | LeadGenius</title><link>https://www.leadgenius.com/resources/clay-zoominfo-and-the-question-no-one-wants-to-answer</link><description>Clay, ZoomInfo, and the Question No One Wants to Answer | LeadGenius
 
 # Clay, ZoomInfo, and the Question No One Wants to Answer
 
@@ -296,7 +113,86 @@ The future of GTM data will not be won by databases or workflow tools. It will b
 
 Article
 
-May 22, 2026</description><guid isPermaLink="false">https://www.leadgenius.com/resources/clay-zoominfo-and-the-question-no-one-wants-to-answer</guid><category>Tool Stack</category><pubDate>Fri, 22 May 2026 18:57:09 +0000</pubDate></item><item><title>Octave | Your Agentic GTM Brain</title><link>https://www.octavehq.com/ai-features/event-driven-sequences</link><description>Octave | Your Agentic GTM Brain
+May 22, 2026</description><guid isPermaLink="false">https://www.leadgenius.com/resources/clay-zoominfo-and-the-question-no-one-wants-to-answer</guid><category>Tool Stack</category><pubDate>Fri, 22 May 2026 18:57:09 +0000</pubDate></item><item><title>Lessons From Okta's CRO on GTM Transformation</title><link>https://thegtmnewsletter.substack.com/p/lessons-from-oktas-cro</link><description>Lessons From Okta's CRO on GTM Transformation
+
+SubscribeSign in
+
+# Lessons From Okta's CRO
+
+### Part V in the series on lessons from the top 1% of GTM leaders in B2B software &amp; AI.
+
+May 22, 2026
+
+49
+
+Share
+
+This is Part V in our series on lessons from some of the top 1% leaders in B2B software &amp; AI.</description><guid isPermaLink="false">https://thegtmnewsletter.substack.com/p/lessons-from-oktas-cro</guid><category>Alpha Signals</category><pubDate>Fri, 22 May 2026 18:58:04 +0000</pubDate></item><item><title>Lessons From Okta's CRO - GTMnow</title><link>https://gtmnow.com/lessons-from-oktas-cro/</link><description>Lessons From Okta's CRO - GTMnow
+
+Overview
+
+Share:
+
+##### Interested in sponsoring? Get in touch with gtmnow@gtmfund.com
+
+Email
+
+Subscribe
+
+- May 22, 2026
+- Newsletter
+
+# Lessons From Okta’s CRO
+
+This is Part V in our series on lessons from some of the top 1% leaders in B2B software &amp; AI. In case yo</description><guid isPermaLink="false">https://gtmnow.com/lessons-from-oktas-cro/</guid><category>Key Practitioners</category><pubDate>Fri, 22 May 2026 18:58:04 +0000</pubDate></item><item><title>Exa  Rebuilding Search for the AI Era</title><link>https://www.youtube.com/watch?v=cjZEV8NSHzw</link><description># Exa Rebuilding Search for the AI Era
+
+- Channel: AI Application (paper summaries or stories)
+- Length: 03:33
+- Views: 3
+- Likes: 0
+- Published: 2026-05-22T12:28:12-07:00
+- Category: People &amp; Blogs
+- Language: en
+
+## Description
+
+Exa Raises $250M Series C – Building the Google for AI Agents
+Exa, an</description><guid isPermaLink="false">https://www.youtube.com/watch?v=cjZEV8NSHzw</guid><category>Tool Stack</category><pubDate>Fri, 22 May 2026 19:28:12 +0000</pubDate></item><item><title>Is context the new compute? How the AI race is moving to the data layer | by Barr Moses | Data Science Collective | May, 2026 | Medium</title><link>https://medium.com/data-science-collective/is-context-the-new-compute-how-the-ai-race-is-moving-to-the-data-layer-ffc5e07f4003</link><description>Is context the new compute? How the AI race is moving to the data layer | by Barr Moses | Data Science Collective | May, 2026 | Medium
+
+Sign up
+
+Get app
+
+Sign up
+
+## Data Science Collective
+
+Advice, insights, and ideas from the Medium data science community
+
+# Is context the new compute? How the AI</description><guid isPermaLink="false">https://medium.com/data-science-collective/is-context-the-new-compute-how-the-ai-race-is-moving-to-the-data-layer-ffc5e07f4003</guid><category>GTM Engineering</category><pubDate>Fri, 22 May 2026 19:39:22 +0000</pubDate></item><item><title>RevOps Leadership: Your Role as a Strategic Growth Driver - Fullcast</title><link>https://www.fullcast.com/content/revops-leadership/</link><description>RevOps Leadership: Your Role as a Strategic Growth Driver - Fullcast
+
+Read the 2026 Benchmarks Report Now!
+
+# RevOps Leadership: How to Position Your Role as a Strategic Growth Driver
+
+← Previous Next →
+
+#### Amy Cook
+
+Amy Osmond Cook, Ph.D., is a seasoned marketing executive and communications expe</description><guid isPermaLink="false">https://www.fullcast.com/content/revops-leadership/</guid><category>Key Practitioners</category><pubDate>Fri, 22 May 2026 19:54:23 +0000</pubDate></item><item><title>Octave | Your Agentic GTM Brain</title><link>https://www.octavehq.com/ai-features/competitive-intelligence-outreach</link><description>Octave | Your Agentic GTM Brain
+
+Octave is now at home in Claude and Claude Code! Read about our MCP and how to bring your ICP context everywhere you work🚀
+
+## Hyper-Personalize at Scale
+
+- Move beyond generic “I saw you use {competitor}” messages.
+- Octave’s AI agents analyze technographic signals</description><guid isPermaLink="false">https://www.octavehq.com/ai-features/competitive-intelligence-outreach</guid><category>Alpha Signals</category><pubDate>Fri, 22 May 2026 20:08:34 +0000</pubDate></item><item><title>Octave | Your Agentic GTM Brain</title><link>https://www.octavehq.com/ai-features/technographic-targeting</link><description>Octave | Your Agentic GTM Brain
+
+Octave is now at home in Claude and Claude Code! Read about our MCP and how to bring your ICP context everywhere you work🚀
+
+## Hyper-Personalize at Scale
+
+Leverage Clay's real-time tech stack and tool usage data to trigger Octave's agentic messaging playbooks. Our A</description><guid isPermaLink="false">https://www.octavehq.com/ai-features/technographic-targeting</guid><category>Alpha Signals</category><pubDate>Fri, 22 May 2026 20:08:34 +0000</pubDate></item><item><title>Octave | Your Agentic GTM Brain</title><link>https://www.octavehq.com/ai-features/event-driven-sequences</link><description>Octave | Your Agentic GTM Brain
 
 Octave is now at home in Claude and Claude Code! Read about our MCP and how to bring your ICP context everywhere you work🚀
 
@@ -327,9 +223,78 @@ Octave is now at home in Claude and Claude Code! Read about our MCP and how to b
 
 ## Automate real-time research and qualification
 
-Pipe real-time, multi-source data from Clay directly into Octave’s qualification agents. Tur</description><guid isPermaLink="false">https://www.octavehq.com/ai-features/gtm-intelligence-platform</guid><category>GTM Engineering</category><pubDate>Fri, 22 May 2026 20:08:34 +0000</pubDate></item><item><title>OpenVibe: An Open-Source AI Coding IDE That Works With Any Model - DEV Community</title><link>https://dev.to/nicecame/openvibe-an-open-source-ai-coding-ide-that-works-with-any-model-2hkf</link><description>OpenVibe: An Open-Source AI Coding IDE That Works With Any Model - DEV Community
+Pipe real-time, multi-source data from Clay directly into Octave’s qualification agents. Tur</description><guid isPermaLink="false">https://www.octavehq.com/ai-features/gtm-intelligence-platform</guid><category>GTM Engineering</category><pubDate>Fri, 22 May 2026 20:08:34 +0000</pubDate></item><item><title>The Market Engineering Playbook CMOs Can't Afford to Ignore</title><link>https://www.cmswire.com/digital-marketing/before-you-generate-demand-engineer-your-market/</link><description>The Market Engineering Playbook CMOs Can't Afford to Ignore
 
-openvibe is an open-source desktop IDE with a built-in AI coding agent. The agent has direct access to your file system, terminal, and web search, so you can describe a task and it executes the full workflow — reading</description><guid isPermaLink="false">https://dev.to/nicecame/openvibe-an-open-source-ai-coding-ide-that-works-with-any-model-2hkf</guid><category>General AI</category><pubDate>Fri, 22 May 2026 20:33:16 +0000</pubDate></item><item><title>The Clay Blueprint for Post-Sale Revenue and NRR Optimization</title><link>https://blog.revpartners.io/en/revops-articles/clay-blueprint-post-sale-revenue-nrr?hs_amp=true</link><description>The Clay Blueprint for Post-Sale Revenue and NRR Optimization
+Customer Experience
+
+CMSWire's customer experience (CX) channel gathers the latest customer experience editorial, opinion, research and analysis informing today's CX leadership, strategy, measurement frameworks and CX software decisions.</description><guid isPermaLink="false">https://www.cmswire.com/digital-marketing/before-you-generate-demand-engineer-your-market/</guid><category>GTM Engineering</category><pubDate>Fri, 22 May 2026 20:23:49 +0000</pubDate></item><item><title>Revenue Process Optimization: Guide to Building Efficient Systems - Fullcast</title><link>https://www.fullcast.com/content/revenue-process-optimization/</link><description>Revenue Process Optimization: Guide to Building Efficient Systems - Fullcast
+
+Read the 2026 Benchmarks Report Now!
+
+# Revenue Process Optimization: A Complete Guide to Building Efficient Revenue Systems
+
+#### Amy Cook
+
+Amy Osmond Cook, Ph.D., is a seasoned marketing executive and communications expe</description><guid isPermaLink="false">https://www.fullcast.com/content/revenue-process-optimization/</guid><category>Key Practitioners</category><pubDate>Fri, 22 May 2026 20:24:00 +0000</pubDate></item><item><title>OpenVibe: An Open-Source AI Coding IDE That Works With Any Model - DEV Community</title><link>https://dev.to/nicecame/openvibe-an-open-source-ai-coding-ide-that-works-with-any-model-2hkf</link><description>OpenVibe: An Open-Source AI Coding IDE That Works With Any Model - DEV Community
+
+openvibe is an open-source desktop IDE with a built-in AI coding agent. The agent has direct access to your file system, terminal, and web search, so you can describe a task and it executes the full workflow — reading</description><guid isPermaLink="false">https://dev.to/nicecame/openvibe-an-open-source-ai-coding-ide-that-works-with-any-model-2hkf</guid><category>General AI</category><pubDate>Fri, 22 May 2026 20:33:16 +0000</pubDate></item><item><title>As Global Supply Chains Fracture and Tariffs Drive Kiln Prices Up, Demand for American-Made Equipment Keeps Climbing</title><link>https://pinionnewswire.com/press-release/as-global-supply-chains-fracture-and-tariffs-drive-kiln-prices-up-demand-for-american-made-equipment-keeps-climbing/</link><description>As Global Supply Chains Fracture and Tariffs Drive Kiln Prices Up, Demand for American-Made Equipment Keeps Climbing
+
+##### Now Reading
+
+As Global Supply Chains Fracture and Tariffs Drive Kiln Prices Up, Demand for American-Made Equipment Keeps Climbing
+
+## As Global Supply Chains Fracture and Tarif</description><guid isPermaLink="false">https://pinionnewswire.com/press-release/as-global-supply-chains-fracture-and-tariffs-drive-kiln-prices-up-demand-for-american-made-equipment-keeps-climbing/</guid><category>Key Practitioners</category><pubDate>Fri, 22 May 2026 21:03:00 +0000</pubDate></item><item><title>Personalized Sales Outreach at Scale with AI | Copy.ai</title><link>https://www.copy.ai/blog/personalized-sales-outreach-at-scale</link><description>Personalized Sales Outreach at Scale with AI | Copy.ai
+
+Sales
+
+May 22, 2026
+
+May 22, 2026
+
+# Personalized Sales Outreach at Scale with AI
+
+CONTENTS
+
+H2 Heading link
+
+H3 Heading link
+
+Every sales leader faces the same impossible choice. Send highly personalized messages to a handful of prospects and</description><guid isPermaLink="false">https://www.copy.ai/blog/personalized-sales-outreach-at-scale</guid><category>GTM Engineering</category><pubDate>Fri, 22 May 2026 22:23:43 +0000</pubDate></item><item><title>GEO &amp; AEO 101: Become the Answer — AI Search Optimization Guide (2026) | AI Prompt Library</title><link>https://www.aipromptlibrary.app/blog/geo-aeo-optimization-guide</link><description>GEO &amp; AEO 101: Become the Answer — AI Search Optimization Guide (2026) | AI Prompt Library
+
+GEO &amp;amp; AEO 101: Become the Answer — AI Search Optimization Guide (2026) | AI Prompt Library
+[
+AI Prompt Library](https://www.aipromptlibrary.app/)
+Search⌘K
+AI SearchGEO/AEOSEO
+May 2026
+14 min read
+# GEO &amp;</description><guid isPermaLink="false">https://www.aipromptlibrary.app/blog/geo-aeo-optimization-guide</guid><category>General AI</category><pubDate>Fri, 22 May 2026 22:40:26 +0000</pubDate></item><item><title>Tenable Holdings, Inc. (TENB) Analyst/Investor Day Transcript | Seeking Alpha</title><link>https://seekingalpha.com/article/4907842-tenable-holdings-inc-tenb-analyst-investor-day-transcript</link><description>Tenable Holdings, Inc. (TENB) Analyst/Investor Day Transcript | Seeking Alpha
+
+160.3K Followers
+
+5
+
+Share
+
+Play Earnings Call
+
+Tenable Holdings, Inc. (TENB) Analyst/Investor Day May 21, 2026 1:30 PM EDT
+
+Company Participants
+
+Mark Thurmond - Co-CEO &amp; DirectorStephen Vintz - Co-CEO &amp; DirectorVlad Kor</description><guid isPermaLink="false">https://seekingalpha.com/article/4907842-tenable-holdings-inc-tenb-analyst-investor-day-transcript</guid><category>Alpha Signals</category><pubDate>Fri, 22 May 2026 23:50:42 +0000</pubDate></item><item><title>n8n vs Make for Small B2B Firms: Which to Pick | Vlad Brakalo</title><link>https://vladbrakalo.com/blog/n8n-vs-make-for-small-b2b-firms/</link><description>n8n vs Make for Small B2B Firms: Which to Pick | Vlad Brakalo
+
+You've decided you want to automate a few things in your firm - new lead notifications, invoice routing, monthly reports, maybe a small AI step in the middle. Every Twitter post and YouTube tutorial says either n8n or Make. The marketing</description><guid isPermaLink="false">https://vladbrakalo.com/blog/n8n-vs-make-for-small-b2b-firms/</guid><category>Tool Stack</category><pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate></item><item><title>Content Transformation: The First Step Most RAG Tutorials Skip - DEV Community</title><link>https://dev.to/ja_su_1e698278f65839836aa/content-transformation-the-first-step-most-rag-tutorials-skip-1o8g</link><description>Content Transformation: The First Step Most RAG Tutorials Skip - DEV Community
+
+Info: This article is part of a series on building a production RAG pipeline. Start with the overview if you haven't.
+
+The most important thing to understand when working with LLMs is: If you insert trash, you get trash</description><guid isPermaLink="false">https://dev.to/ja_su_1e698278f65839836aa/content-transformation-the-first-step-most-rag-tutorials-skip-1o8g</guid><category>General AI</category><pubDate>Sat, 23 May 2026 04:27:48 +0000</pubDate></item><item><title>LLM SEO Guide: Optimize Brand Visibility in AI Search</title><link>https://ranknewly.com/llm-seo/</link><description>LLM SEO Guide: Optimize Brand Visibility in AI Search
+
+Search
+
+Home SEO LLM SEO Guide: Optimize Brand Visibility in AI Search
+
+The shift has been seismic, yet it happened so quietly that many brand managers missed the tremors entirely. For two decades, the internet operated on a simple, predictable</description><guid isPermaLink="false">https://ranknewly.com/llm-seo/</guid><category>General AI</category><pubDate>Sat, 23 May 2026 04:55:49 +0000</pubDate></item><item><title>The Clay Blueprint for Post-Sale Revenue and NRR Optimization</title><link>https://blog.revpartners.io/en/revops-articles/clay-blueprint-post-sale-revenue-nrr?hs_amp=true</link><description>The Clay Blueprint for Post-Sale Revenue and NRR Optimization
 
 Revenue Operations (RevOps) Blog | RevPartners
 
@@ -339,7 +304,31 @@ Written by Adam Statti| May 23, 2026
 
 Most teams use Clay for exactly one thing: finding new customers.
 
-But if that’s all y</description><guid isPermaLink="false">https://blog.revpartners.io/en/revops-articles/clay-blueprint-post-sale-revenue-nrr?hs_amp=true</guid><category>Key Practitioners</category><pubDate>Sat, 23 May 2026 06:24:52 +0000</pubDate></item><item><title>The buyer journey moved. Your GTM didn't.  - by Alon Even</title><link>https://aloneven.substack.com/p/the-buyer-journey-moved-your-gtm</link><description>The buyer journey moved. Your GTM didn't. - by Alon Even
+But if that’s all y</description><guid isPermaLink="false">https://blog.revpartners.io/en/revops-articles/clay-blueprint-post-sale-revenue-nrr?hs_amp=true</guid><category>Key Practitioners</category><pubDate>Sat, 23 May 2026 06:24:52 +0000</pubDate></item><item><title>Anthropic MCP Tunnels Kill the $670K Shadow AI Tax | THE D[AI]LY BRIEF</title><link>https://www.beri.net/article/2026-05-23-anthropic-mcp-tunnels-self-hosted-sandboxes-670k-shadow-ai-tax</link><description>Anthropic MCP Tunnels Kill the $670K Shadow AI Tax | THE D[AI]LY BRIEF
+
+# Anthropic MCP Tunnels Kill the $670K Shadow AI Tax
+
+Anthropic just shipped self-hosted sandboxes and MCP tunnels for Claude agents. Here is the decision matrix CIOs need before the next $4.44M AI breach.
+
+By Rajesh Beri·May 23</description><guid isPermaLink="false">https://www.beri.net/article/2026-05-23-anthropic-mcp-tunnels-self-hosted-sandboxes-670k-shadow-ai-tax</guid><category>General AI</category><pubDate>Sat, 23 May 2026 08:07:15 +0000</pubDate></item><item><title>Lemlist vs Apollo vs Instantly: Best Cold Outreach Platform for Small Teams</title><link>https://modernoutreach.beehiiv.com/p/lemlist-vs-apollo-vs-instantly</link><description>Lemlist vs Apollo vs Instantly: Best Cold Outreach Platform for Small Teams
+
+This website uses cookies
+
+Read our Privacy policy and Terms of use for more information.
+
+AcceptCustomizeDecline
+
+- Home
+- Posts
+- Lemlist vs Apollo vs Instantly: Best Cold Outreach Platform for Small Teams
+
+# Lemlist vs A</description><guid isPermaLink="false">https://modernoutreach.beehiiv.com/p/lemlist-vs-apollo-vs-instantly</guid><category>Tool Stack</category><pubDate>Sat, 23 May 2026 09:59:00 +0000</pubDate></item><item><title>Your AI GTM investment is answering the wrong question</title><link>https://www.linkedin.com/pulse/your-ai-gtm-investment-answering-wrong-question-katleen-richardson-j2wae</link><description>Your AI GTM investment is answering the wrong question
+
+Agree &amp; Join LinkedIn
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+
+A word before we begin: The Trust Premium is a monthly note on B2B GTM strategy in the age of AI-mediate</description><guid isPermaLink="false">https://www.linkedin.com/pulse/your-ai-gtm-investment-answering-wrong-question-katleen-richardson-j2wae</guid><category>GTM Engineering</category><pubDate>Sat, 23 May 2026 10:45:13 +0000</pubDate></item><item><title>The buyer journey moved. Your GTM didn't.  - by Alon Even</title><link>https://aloneven.substack.com/p/the-buyer-journey-moved-your-gtm</link><description>The buyer journey moved. Your GTM didn't. - by Alon Even
 
 SubscribeSign in
 
@@ -355,7 +344,16 @@ Share
 
 A client of mine was happy with the opportunitie</description><guid isPermaLink="false">https://aloneven.substack.com/p/the-buyer-journey-moved-your-gtm</guid><category>Key Practitioners</category><pubDate>Sat, 23 May 2026 11:02:34 +0000</pubDate></item><item><title>Architecting Your B2B Sales Engine: A Developer's Blueprint for 2024 - DEV Community</title><link>https://dev.to/michaelaiglobal/architecting-your-b2b-sales-engine-a-developers-blueprint-for-2024-fcp</link><description>Architecting Your B2B Sales Engine: A Developer's Blueprint for 2024 - DEV Community
 
-As engineers, we build systems. We design databases, architect microservices, and optimize performance. But what if we applied that same systems-thinking approach to the most critical business function: revenue gen</description><guid isPermaLink="false">https://dev.to/michaelaiglobal/architecting-your-b2b-sales-engine-a-developers-blueprint-for-2024-fcp</guid><category>GTM Engineering</category><pubDate>Sat, 23 May 2026 11:04:19 +0000</pubDate></item><item><title>Vibe Coding Roadmap: How to Build Scalable Software with AI Without Breaking Your Project - DEV Community</title><link>https://dev.to/a95yman/vibe-coding-roadmap-how-to-build-scalable-software-with-ai-without-breaking-your-project-4en6</link><description>Vibe Coding Roadmap: How to Build Scalable Software with AI Without Breaking Your Project - DEV Community
+As engineers, we build systems. We design databases, architect microservices, and optimize performance. But what if we applied that same systems-thinking approach to the most critical business function: revenue gen</description><guid isPermaLink="false">https://dev.to/michaelaiglobal/architecting-your-b2b-sales-engine-a-developers-blueprint-for-2024-fcp</guid><category>GTM Engineering</category><pubDate>Sat, 23 May 2026 11:04:19 +0000</pubDate></item><item><title>MCP vs A2A - llm router - LLM Gateway Daily</title><link>https://tkmxai.it.com/mcp-vs-a2a</link><description>MCP vs A2A - llm router - LLM Gateway Daily
+
+MCP vs A2A: The Emerging Agent Protocol Showdown in 2026 The agent ecosystem has reached an inflection point where two competing standards are vying for dominance: Anthropic’s Model Context Protocol (MCP) and Google’s Agent-to-Agent (A2A) protocol. For de</description><guid isPermaLink="false">https://tkmxai.it.com/mcp-vs-a2a</guid><category>General AI</category><pubDate>Sat, 23 May 2026 13:35:02 +0000</pubDate></item><item><title>How to be a Top 1% AI Engineer in 2026</title><link>https://www.youtube.com/watch?v=A9Krsn-6FME</link><description># How to be a Top 1% AI Engineer in 2026
+
+- Channel: Devin Kearns | CustomAI Studio
+- Length: 32:27
+- Views: 697
+- Published: 2026-05-23T07:15:56-07:00
+- Category: Science &amp; Technology
+- Keywords: AI Agents, AI, Gen AI, Open AI, Agency, Business, gemini, claude, anthropic, n8n, automation, enterpris</description><guid isPermaLink="false">https://www.youtube.com/watch?v=A9Krsn-6FME</guid><category>Alpha Signals</category><pubDate>Sat, 23 May 2026 14:15:56 +0000</pubDate></item><item><title>Vibe Coding Roadmap: How to Build Scalable Software with AI Without Breaking Your Project - DEV Community</title><link>https://dev.to/a95yman/vibe-coding-roadmap-how-to-build-scalable-software-with-ai-without-breaking-your-project-4en6</link><description>Vibe Coding Roadmap: How to Build Scalable Software with AI Without Breaking Your Project - DEV Community
 
 Most people start vibe coding with the same energy. Open editor, prompt AI, build something that works, ship fast.
 
@@ -373,14 +371,55 @@ Sign up
 
 ## Towards AI
 
-We build Enterprise AI. We teach what we learn. Join 100K+ AI practitioners on Towards AI Academy. Free: 6-day Agentic AI Engin</description><guid isPermaLink="false">https://pub.towardsai.net/beyond-foundation-models-why-enterprise-context-could-become-the-real-ai-advantage-3b17fbd14c72</guid><category>GTM Engineering</category><pubDate>Sat, 23 May 2026 23:01:01 +0000</pubDate></item><item><title>Clay: Turn Raw Leads into High-Converting Campaigns with Zero Manual Work – Guide. — Quasa</title><link>https://quasa.io/video/clay-turn-raw-leads-into-high-converting-campaigns-with-zero-manual-work-guide</link><description># Clay: Turn Raw Leads into High-Converting Campaigns with Zero Manual Work – Guide. — Quasa
+We build Enterprise AI. We teach what we learn. Join 100K+ AI practitioners on Towards AI Academy. Free: 6-day Agentic AI Engin</description><guid isPermaLink="false">https://pub.towardsai.net/beyond-foundation-models-why-enterprise-context-could-become-the-real-ai-advantage-3b17fbd14c72</guid><category>GTM Engineering</category><pubDate>Sat, 23 May 2026 23:01:01 +0000</pubDate></item><item><title>Lovable to Claude Code 101: The Migration Guide</title><link>https://sidsaladi.substack.com/p/lovable-to-claude-code-101-the-migration</link><description>Lovable to Claude Code 101: The Migration Guide
 
-Published: 2026-05-24T09:41:44+00:00
-Source: quasa.io (quasa.io)
+# The Product Channel By Sid Saladi
+
+SubscribeSign in
+
+# Lovable to Claude Code 101: The Migration Guide
+
+### Lovable still wins for 0 to 1. But Lovable Cloud bills add up the moment your project starts to matter. Here is the exact migration to Claude</description><guid isPermaLink="false">https://sidsaladi.substack.com/p/lovable-to-claude-code-101-the-migration</guid><category>Tool Stack</category><pubDate>Sat, 23 May 2026 23:26:50 +0000</pubDate></item><item><title>BrightData Web Unlocker ate 40% of our B2B enrichment budget for 12% lift - DEV Community</title><link>https://dev.to/elenarevicheva/brightdata-web-unlocker-ate-40-of-our-b2b-enrichment-budget-for-12-lift-58bl</link><description>BrightData Web Unlocker ate 40% of our B2B enrichment budget for 12% lift - DEV Community
+
+Originally published on AIdeazz— cross-posted here with canonical link.
+
+$1.50 per 1000 requests sounds cheap until you realize 73% of those requests return data you already had. We burned through $3,200 enric</description><guid isPermaLink="false">https://dev.to/elenarevicheva/brightdata-web-unlocker-ate-40-of-our-b2b-enrichment-budget-for-12-lift-58bl</guid><category>Tool Stack</category><pubDate>Sun, 24 May 2026 00:30:19 +0000</pubDate></item><item><title>The Agent Stack For Building Human Relationships - Sales, Job Hunting, Networking, Partnerships and Fundraising</title><link>https://startupgtm.substack.com/p/the-relationship-agentic-system</link><description>The Agent Stack For Building Human Relationships - Sales, Job Hunting, Networking, Partnerships and Fundraising
+
+SubscribeSign in
+
+# The Agent Stack For Building Human Relationships - Sales, Job Hunting, Networking, Partnerships and Fundraising
+
+### Trust state gates, context debt scoring, and verti</description><guid isPermaLink="false">https://startupgtm.substack.com/p/the-relationship-agentic-system</guid><category>Alpha Signals</category><pubDate>Sun, 24 May 2026 05:32:00 +0000</pubDate></item><item><title>Why I Can't Stop Thinking About Google's New A2A Protocol - DEV Community</title><link>https://dev.to/devadhithiya/why-i-cant-stop-thinking-about-googles-new-a2a-protocol-5dml</link><description>Why I Can't Stop Thinking About Google's New A2A Protocol - DEV Community
+
+Google I/O Writing Challenge Submission
+
+When Sundar Pichai dropped the words "agentic Gemini era" at Google I/O 2026, everyone naturally fixated on the shiny consumer updates. We all stared at Gemini Spark booking dinner res</description><guid isPermaLink="false">https://dev.to/devadhithiya/why-i-cant-stop-thinking-about-googles-new-a2a-protocol-5dml</guid><category>General AI</category><pubDate>Sun, 24 May 2026 05:37:06 +0000</pubDate></item><item><title>Building an agent-ready website: how to make your site readable for ChatGPT, Perplexity and autonomous agents - DEV Community</title><link>https://dev.to/nexbridge/building-an-agent-ready-website-how-to-make-your-site-readable-for-chatgpt-perplexity-and-49f7</link><description># Building an agent-ready website: how to make your site readable for ChatGPT, Perplexity and autonomous agents - DEV Community
+
+Published: 2026-05-25T04:18:46+00:00
+Source: dev.to (dev.to)
 Language: en
 
 ## Story
 
-Clay: Turn Raw Leads into High-Converting Campaigns with Zero Manual Work – Guide. — Quasa
+Building an agent-ready website: how to make your site readable for ChatGPT, Perplexit</description><guid isPermaLink="false">https://dev.to/nexbridge/building-an-agent-ready-website-how-to-make-your-site-readable-for-chatgpt-perplexity-and-49f7</guid><category>General AI</category><pubDate>Mon, 25 May 2026 04:18:46 +0000</pubDate></item><item><title>2026 Spring Dealmakers Connection | Insights | Mayer Brown</title><link>https://www.mayerbrown.com/en/insights/events/2026/05/2026-spring-dealmakers-connection</link><description>2026 Spring Dealmakers Connection | Insights | Mayer Brown
 
-# Clay: Turn Raw Leads in</description><guid isPermaLink="false">https://quasa.io/video/clay-turn-raw-leads-into-high-converting-campaigns-with-zero-manual-work-guide</guid><category>Tool Stack</category><pubDate>Sun, 24 May 2026 09:41:44 +0000</pubDate></item></channel></rss>
+May 28, 2026
+
+# 2026 Spring Dealmakers Connection
+
+Speakers:
+
+- Ameer I. Ahmad,
+- Jonathan A. Dhanawade,
+- Ryan H. Ferris,
+- Thomas C. Santora,
+- Marc E. M. Harrison,
+- William R. Kucera
+
+Host/s:
+
+ACG Chicago
+
+Share
+
+Mayer Brown is proud to</description><guid isPermaLink="false">https://www.mayerbrown.com/en/insights/events/2026/05/2026-spring-dealmakers-connection</guid><category>Key Practitioners</category><pubDate>Thu, 28 May 2026 13:32:31 +0000</pubDate></item></channel></rss>
