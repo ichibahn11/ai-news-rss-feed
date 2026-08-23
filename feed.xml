@@ -1,158 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>GTM Intelligence Feed</title><link>https://ichibahn11.github.io/ai-news-rss-feed/</link><description>Daily AI and GTM engineering signals curated for the team</description><atom:link href="https://ichibahn11.github.io/ai-news-rss-feed/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://ichibahn11.github.io/ai-news-rss-feed/favicon.png</url><title>GTM Intelligence Feed</title><link>https://ichibahn11.github.io/ai-news-rss-feed/</link></image><language>en</language><lastBuildDate>Sat, 22 Aug 2026 11:13:50 +0000</lastBuildDate><item><title>Hampton Roads Alliance Rebrands the IDEA Lab as the DEAL Room - Hampton Roads Alliance</title><link>https://hamptonroadsalliance.com/news/hampton-roads-alliance-rebrands-the-idea-lab-as-the-deal-room/</link><description>Hampton Roads Alliance Rebrands the IDEA Lab as the DEAL Room - Hampton Roads Alliance
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>GTM Intelligence Feed</title><link>https://ichibahn11.github.io/ai-news-rss-feed/</link><description>Daily AI and GTM engineering signals curated for the team</description><atom:link href="https://ichibahn11.github.io/ai-news-rss-feed/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://ichibahn11.github.io/ai-news-rss-feed/favicon.png</url><title>GTM Intelligence Feed</title><link>https://ichibahn11.github.io/ai-news-rss-feed/</link></image><language>en</language><lastBuildDate>Sun, 23 Aug 2026 11:13:59 +0000</lastBuildDate><item><title>8x Your Code Output Using Context Engineering</title><link>https://www.the-ai-corner.com/p/context-engineering-claude-code-playbook</link><description>8x Your Code Output Using Context Engineering
 
-## Hampton Roads Alliance Rebrands the IDEA Lab as the DEAL Room
+# The AI Corner
 
-Written on August 19, 2026
+SubscribeSign in
 
-The Hampton Roads Alliance today announced that its IDEA Lab has officially become the DEAL Room— a space to co-work,</description><guid isPermaLink="false">https://hamptonroadsalliance.com/news/hampton-roads-alliance-rebrands-the-idea-lab-as-the-deal-room/</guid><category>Key Practitioners</category><pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate></item><item><title>The PE Operating Partner's GTM Scorecard: What Sponsors Want to See Every Month</title><link>https://www.demandrevenue.com/newsletter/the-pe-operating-partners-gtm-scorecard-what-sponsors-want-to-see-every-month/</link><description>The PE Operating Partner's GTM Scorecard: What Sponsors Want to See Every Month
+# How to 8x Your Code Output Using Context Engineering
 
-# The PE Operating Partner’s GTM Scorecard: What Sponsors Want to See Every Month
+### Anthropic’s engineers merge 8 times more code per day than in 2024. The context engineering playbook everyone is copying explains almost none of it.
 
-- Alan Gonsenhauser 
-- August 19, 2026 
-
- 
-
-I usually write this newsletter to CMOs. This one’s written for PE operating partners. If yo</description><guid isPermaLink="false">https://www.demandrevenue.com/newsletter/the-pe-operating-partners-gtm-scorecard-what-sponsors-want-to-see-every-month/</guid><category>Key Practitioners</category><pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate></item><item><title>10 Best Vibe Coding Tools in 2026: Free &amp; Paid</title><link>https://wired.africa/best-vibe-coding-tools-2026/</link><description>10 Best Vibe Coding Tools in 2026: Free &amp; Paid
-
-# 10 Best Vibe Coding Tools in 2026: Free and Paid Options
-
- The best vibe coding tools in 2026 include Cursor, Claude Code, Lovable, Bolt, Replit, v0, GitHub Copilot, Devin Desktop, Base44 and Cline. Compare their features, pricing, strengths and best</description><guid isPermaLink="false">https://wired.africa/best-vibe-coding-tools-2026/</guid><category>Tool Stack</category><pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate></item><item><title>Pin vs Juicebox vs Nova: AI Sourcing 2026</title><link>https://www.herohunt.ai/blog/pin-vs-juicebox-vs-nova-ai-sourcing-2026/</link><description>Pin vs Juicebox vs Nova: AI Sourcing 2026
-
-# Pin vs Juicebox vs Nova: AI Sourcing 2026
-
-Pin vs Juicebox vs Nova compared for 2026: verified pricing, profile data, autonomy, and where each AI sourcing tool wins and breaks.
-
-Yuma Heymans
-
-Aug 19, 2026
-
-A hands-on comparison of three AI sourcing tools</description><guid isPermaLink="false">https://www.herohunt.ai/blog/pin-vs-juicebox-vs-nova-ai-sourcing-2026/</guid><category>Tool Stack</category><pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate></item><item><title>Automatisierung von Wettbewerbsforschung mit Exa.ai, Notion und KI-Agenten - MEKSOFT Webdesign-Agentur in Wuppertal</title><link>https://meksoft.de/n8n-workflow-automation/automatisierung-von-wettbewerbsforschung-mit-exa-ai-notion-und-ki-agenten/</link><description>Automatisierung von Wettbewerbsforschung mit Exa.ai, Notion und KI-Agenten - MEKSOFT Webdesign-Agentur in Wuppertal
-
-## Automatisierung von Wettbewerbsforschung mit Exa.ai, Notion und KI-Agenten
-
- Dieser Workflow automatisiert die Wettbewerbsforschung, indem Informationen über Konkurrenzunternehmen</description><guid isPermaLink="false">https://meksoft.de/n8n-workflow-automation/automatisierung-von-wettbewerbsforschung-mit-exa-ai-notion-und-ki-agenten/</guid><category>Tool Stack</category><pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate></item><item><title>Best Inbox Warming Tools 2025: Instantly vs Smartlead vs Mailreach | BuzzLead</title><link>https://buzzlead.io/blogs/best-inbox-warming-tools-2025-instantly-vs-smartlead-vs-mailreach-honest-verdict</link><description>Best Inbox Warming Tools 2025: Instantly vs Smartlead vs Mailreach | BuzzLead
-
-# Best Inbox Warming Tools 2025: Instantly vs Smartlead vs Mailreach (Honest Verdict)
-
-An honest, practitioner-led comparison of the best inbox warming tools for cold email in 2025, covering Instantly, Smartlead, Mailreac</description><guid isPermaLink="false">https://buzzlead.io/blogs/best-inbox-warming-tools-2025-instantly-vs-smartlead-vs-mailreach-honest-verdict</guid><category>Tool Stack</category><pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate></item><item><title>When Your Buyer Is an AI Agent – O’Reilly</title><link>https://www.oreilly.com/radar/when-your-buyer-is-an-ai-agent/</link><description>When Your Buyer Is an AI Agent – O’Reilly
-
-# When Your Buyer Is an AI Agent
-
-Enterprise sellers that redesign their pricing, sales motion, and customer success for agent buyers will now hold a structural advantage that slower competitors will never overcome.
-
- By Rudrendu Paul and Sourav Nandy Augus</description><guid isPermaLink="false">https://www.oreilly.com/radar/when-your-buyer-is-an-ai-agent/</guid><category>GTM Engineering</category><pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate></item><item><title>The enterprise AI bottleneck is about context, not capability | Insight Partners</title><link>https://www.insightpartners.com/ideas/context-layer-enterprise-ai/</link><description>The enterprise AI bottleneck is about context, not capability | Insight Partners
-
-# The enterprise AI bottleneck is about context, not capability
-
-Lonne Jaffe, Insight Partners | August 19, 2026| 6 min. read
-
-Summary
-
-Nearly four years after the generative AI wave began, enterprise deployments have</description><guid isPermaLink="false">https://www.insightpartners.com/ideas/context-layer-enterprise-ai/</guid><category>GTM Engineering</category><pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate></item><item><title>AI Outreach Agents: How HeyReach Transforms Outbound Automation</title><link>https://www.heyreach.io/blog/ai-outreach-agent</link><description>AI Outreach Agents: How HeyReach Transforms Outbound Automation
-
-Skip to Content
-
-Enter
-
-Skip to Menu
-
-Enter
-
-Skip to Footer
-
-Enter
-
-Back to all articles
-
-## AI outreach agent: From sequences to systems that think
-
-Table of contents
-
-Text Link
-
-# AI outreach agent: From sequences to systems that thi</description><guid isPermaLink="false">https://www.heyreach.io/blog/ai-outreach-agent</guid><category>GTM Engineering</category><pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate></item><item><title>How I Built a GTM Workflow to Process 2000 Contacts in 26 Minutes and Prioritize 900 Prospects | Clay</title><link>https://community.clay.com/x/welcome/msg_CU7bymCQ6WNq/how-i-built-a-gtm-workflow-to-process-2000-contact</link><description>How I Built a GTM Workflow to Process 2000 Contacts in 26 Minutes and Prioritize 900 Prospects | Clay
-
-# How I Built a GTM Workflow to Process 2000 Contacts in 26 Minutes and Prioritize 900 Prospects
-
-· Aug 19, 2026 12:57 PM·
-
-Hey everyone 👋 Ussama here from London. I work across GTM, outbound, and</description><guid isPermaLink="false">https://community.clay.com/x/welcome/msg_CU7bymCQ6WNq/how-i-built-a-gtm-workflow-to-process-2000-contact</guid><category>GTM Engineering</category><pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate></item><item><title>Technical SEO for AI search: 4 fundamentals that matter</title><link>https://searchengineland.com/technical-seo-for-ai-search-fundamentals-485262</link><description>Technical SEO for AI search: 4 fundamentals that matter
-
-### Google releases August 2026 spam update
-
-Aug 18, 2026
-
-### What 9 months of AI Overview data and 51,000+ tracked events reveal
-
-Aug 18, 2026
-
-### Reddit’s ChatGPT Search citations fell 86% in four days: Report
-
-Aug 19, 2026
-
-### ChatGPT dr</description><guid isPermaLink="false">https://searchengineland.com/technical-seo-for-ai-search-fundamentals-485262</guid><category>General AI</category><pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate></item><item><title>AEO Insights: How Brands Can Measure, Understand, and Improve Visibility in AI Generated Answers | VerseOdin</title><link>https://verseodin.com/blog/aeo-insights-measure-understand-improve-ai-visibility</link><description>AEO Insights: How Brands Can Measure, Understand, and Improve Visibility in AI Generated Answers | VerseOdin
-
-August 19, 2026
-
-# AEO Insights: How Brands Can Measure, Understand, and Improve Visibility in AI Generated Answers
-
-How brands can measure, understand, and improve their visibility in AI ge</description><guid isPermaLink="false">https://verseodin.com/blog/aeo-insights-measure-understand-improve-ai-visibility</guid><category>General AI</category><pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate></item><item><title>A2A Agent State and Data Consistency</title><link>https://www.cockroachlabs.com/blog/a2a-agent-state-data-layer/</link><description>A2A Agent State and Data Consistency | CockroachDB
-
-# A2A Is Now an Open Standard. The Data Layer Underneath It Isn't.
-
-Published on August 19, 2026
-
-|
-
-0 minute read
-
-- FAQ
-
-Key Takeaways
-
-A2A standardizes how agents communicate, but production multi-agent systems still need a data layer for consis</description><guid isPermaLink="false">https://www.cockroachlabs.com/blog/a2a-agent-state-data-layer/</guid><category>General AI</category><pubDate>Wed, 19 Aug 2026 11:13:28 +0000</pubDate></item><item><title>GTM Engineering: The Role, the Stack, and the Data - Cargo</title><link>https://www.getcargo.ai/gtm-engineering</link><description>GTM Engineering: The Role, the Stack, and the Data | Cargo
-
-# Build the machine that makes revenue happen.
-
-GTM engineers build and operate the revenue system: the data infrastructure, enrichment, scoring, routing and automation that decide who a company sells to, when, and with what message.
-
-59% r</description><guid isPermaLink="false">https://www.getcargo.ai/gtm-engineering</guid><category>GTM Engineering</category><pubDate>Wed, 19 Aug 2026 11:13:29 +0000</pubDate></item><item><title>GTM Engineering: What It Is and How to Hire in 2026</title><link>https://www.clay.com/blog/gtm-engineering</link><description>---
-description: GTM engineering turns ops teams into revenue builders using AI and automation. Learn what GTM engineers do, how to structure the role, and how to hire one.
-title: GTM Engineering: What It Is and How to Hire in 2026 - The GTM with Clay Blog
-image: https://cdn.prod.website-files.com/6</description><guid isPermaLink="false">https://www.clay.com/blog/gtm-engineering</guid><category>GTM Engineering</category><pubDate>Wed, 19 Aug 2026 11:13:29 +0000</pubDate></item><item><title>Surfe: B2B Prospecting, Enrichment &amp; CRM Sync</title><link>https://www.surfe.com/</link><description>Surfe: B2B Prospecting, Enrichment &amp; CRM Sync
-
-# Pipeline Generation for GTM Teams
-
-Pipeline Generation
-
-for GTM Teams
-
-built on better data
-
-powered by AI
-
-Find, enrich, and activate accounts and contacts with real-time data and buying signals from multiple providers.
-
-or connect Surfe to Claude or</description><guid isPermaLink="false">https://www.surfe.com/</guid><category>GTM Engineering</category><pubDate>Wed, 19 Aug 2026 11:13:30 +0000</pubDate></item><item><title>Data Enrichment: Definition, Types &amp; Benefits 2026</title><link>https://www.clay.com/blog/data-enrichment</link><description>---
-description: Learn what data enrichment is, how it works, and why it matters. Covers types, key steps, and how to pick the right tool for cleaner, richer data.
-title: Data Enrichment: Definition, Types &amp; Benefits 2026 - The GTM with Clay Blog
-image: https://cdn.prod.website-files.com/61702af2e39</description><guid isPermaLink="false">https://www.clay.com/blog/data-enrichment</guid><category>Tool Stack</category><pubDate>Wed, 19 Aug 2026 11:13:34 +0000</pubDate></item><item><title>Best CRM Data Enrichment Tools &amp; Guide 2026</title><link>https://www.clay.com/blog/crm-data-enrichment</link><description>---
-description: Learn what CRM data enrichment is, why it matters, and which tools do it best. Compare Clay, Apollo, Kaspr, and FullContact to find the right fit.
-title: Best CRM Data Enrichment Tools &amp; Guide 2026 - The GTM with Clay Blog
-image: https://cdn.prod.website-files.com/61702af2e3966e09c4</description><guid isPermaLink="false">https://www.clay.com/blog/crm-data-enrichment</guid><category>Tool Stack</category><pubDate>Wed, 19 Aug 2026 11:13:34 +0000</pubDate></item><item><title>Clay Templates: Automate &amp; Customize GTM Workflows</title><link>https://www.clay.com/blog/the-power-of-clay-templates-automate-customize-replicate-any-workflow</link><description>---
-description: Clay Templates let you replicate full GTM workflows in hours, not days. Automate prospecting from data scraping to AI messaging, free and fully customizable.
-title: Clay Templates: Automate &amp; Customize GTM Workflows - The GTM with Clay Blog
-image: https://cdn.prod.website-files.com/</description><guid isPermaLink="false">https://www.clay.com/blog/the-power-of-clay-templates-automate-customize-replicate-any-workflow</guid><category>Key Practitioners</category><pubDate>Wed, 19 Aug 2026 11:13:40 +0000</pubDate></item><item><title>The Rise of the Marketing Engineer (Trevor Pyle - Bulldozer</title><link>https://www.bulldozer-collective.com/medias/the-rise-of-the-marketing-engineer</link><description>The Rise of the Marketing Engineer (Trevor Pyle - Head of Marketing @Profound) | Bulldozer podcast
-
-Trevor Pyle runs marketing at Profound, which went from 30 to 280 people in two years. He breaks down why AI search hands SEO teams more power, not less — and why his CEO tracks aura as a marketing me</description><guid isPermaLink="false">https://www.bulldozer-collective.com/medias/the-rise-of-the-marketing-engineer</guid><category>Alpha Signals</category><pubDate>Wed, 19 Aug 2026 11:13:50 +0000</pubDate></item><item><title>What Is Context Engineering? Complete Guide (2026)</title><link>https://www.buildfastwithai.com/blogs/what-is-context-engineering-complete-guide-2026</link><description>What Is Context Engineering? Complete Guide (2026)
-
-# What Is Context Engineering? Complete Guide (2026)
-
-August 20, 2026 15 min read
-
-Prompt engineering is about writing better instructions. Context engineering is about controlling the entire information environment an AI model uses to make a decis</description><guid isPermaLink="false">https://www.buildfastwithai.com/blogs/what-is-context-engineering-complete-guide-2026</guid><category>Key Practitioners</category><pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate></item><item><title>Banking &amp; Financial Services - thedealmatter.com</title><link>https://thedealmatter.com/industry_sector/banking-financial-services/</link><description>Banking &amp; Financial Services - thedealmatter.com
+Aug 20,</description><guid isPermaLink="false">https://www.the-ai-corner.com/p/context-engineering-claude-code-playbook</guid><category>Key Practitioners</category><pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate></item><item><title>Banking &amp; Financial Services - thedealmatter.com</title><link>https://thedealmatter.com/industry_sector/banking-financial-services/</link><description>Banking &amp; Financial Services - thedealmatter.com
 
 # Industry sector: Banking &amp; Financial Services
 
@@ -164,35 +21,66 @@ Prompt engineering is about writing better instructions. Context engineering is 
 
  Capital Markets – Debt 
 
-### CAM, AZB Act On Kotak’s Acquisition Of Bank</description><guid isPermaLink="false">https://thedealmatter.com/industry_sector/banking-financial-services/</guid><category>Key Practitioners</category><pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate></item><item><title>Introduction from Brendan: Managing Large-Scale Outbound Email Campaigns and Expert in Lead List Quality | Clay</title><link>https://community.clay.com/x/welcome/msg_mLbFgvQtd2u6/introduction-from-brendan-managing-large-scale-out</link><description>Introduction from Brendan: Managing Large-Scale Outbound Email Campaigns and Expert in Lead List Quality | Clay
+### CAM, AZB Act On Kotak’s Acquisition Of Bank</description><guid isPermaLink="false">https://thedealmatter.com/industry_sector/banking-financial-services/</guid><category>Key Practitioners</category><pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate></item><item><title>How Newsletter-Led Growth Works in B2B - DGM News</title><link>https://dgmnews.com/how-newsletter-led-growth-works-in-b2b/</link><description>How Newsletter-Led Growth Works in B2B - DGM News
 
-· Aug 20, 2026 07:46 AM·</description><guid isPermaLink="false">https://community.clay.com/x/welcome/msg_mLbFgvQtd2u6/introduction-from-brendan-managing-large-scale-out</guid><category>Key Practitioners</category><pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate></item><item><title>Vibe Coding: Compare 156 AI Coding Tools, Agents &amp; Apps</title><link>https://vibecoding.app/</link><description>Vibe Coding: Compare 156 AI Coding Tools, Agents &amp; Apps
+# How Newsletter-Led Growth Works in B2B
+
+- Ryan Mitchell
+- August 20, 2026
+- Blog
+
+Product-led growth and sales-led growth are well-documented B2B go-to-market models. Newsletter-led growth is less formally defined but increasingly common among com</description><guid isPermaLink="false">https://dgmnews.com/how-newsletter-led-growth-works-in-b2b/</guid><category>Key Practitioners</category><pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate></item><item><title>Founding SDR | Cargo | San Francisco, CA | Zero G Talent</title><link>https://zerogtalent.com/ai-jobs/cargo/founding-sdr-105579</link><description>Founding SDR | Cargo | San Francisco, CA | Zero G Talent
+
+# Founding SDR
+
+Cargo•
+
+San Francisco, CA
+
+Posted 1 hour ago• Sales &amp; Marketing
+
+Compensation $65,000–$100,000/year
+
+## Job Description
+
+### About Cargo
+
+At Cargo, we're redefining how teams execute GTM by making them leaner, faster, and engi</description><guid isPermaLink="false">https://zerogtalent.com/ai-jobs/cargo/founding-sdr-105579</guid><category>Tool Stack</category><pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate></item><item><title>Vibe Coding: Compare 156 AI Coding Tools, Agents &amp; Apps</title><link>https://vibecoding.app/</link><description>Vibe Coding: Compare 156 AI Coding Tools, Agents &amp; Apps
 
 # vibe codingvibe codingvibe coding
 
-vibe coding is building software by describing what you want and letting ai write the code. vibecoding.app lets you find the best vibe coding tools, agencies and events, plus publishes weekly reviews, pract</description><guid isPermaLink="false">https://vibecoding.app/</guid><category>Tool Stack</category><pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate></item><item><title>Messaging Channels | openclaw/openclaw | DeepWiki</title><link>https://deepwiki.com/openclaw/openclaw/4-messaging-channels</link><description>Messaging Channels | openclaw/openclaw | DeepWiki
+vibe coding is building software by describing what you want and letting ai write the code. vibecoding.app lets you find the best vibe coding tools, agencies and events, plus publishes weekly reviews, pract</description><guid isPermaLink="false">https://vibecoding.app/</guid><category>Tool Stack</category><pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate></item><item><title>AI Search Startup Exa Leases 40,000 SQFT Pioneer — Real Estate Trail</title><link>https://realestatetrail.com/news/ai-search-startup-exa-leases-40000-sqft-pioneer-building-in-san-francisco-follow</link><description>AI Search Startup Exa Leases 40,000 SQFT Pioneer — Real Estate Trail
 
-Loading...
+# AI Search Startup Exa Leases 40,000 SQFT Pioneer Building in San Francisco, Following OpenAI and xAI
 
-Index your code with Devin
+Via The Registry · August 20, 2026
 
-Index your code with
+Compiled by Real Estate Trail Editorial · August 20, 2026
 
-Devin
+## Why this matters
 
-Edit WikiShare
+The lease</description><guid isPermaLink="false">https://realestatetrail.com/news/ai-search-startup-exa-leases-40000-sqft-pioneer-building-in-san-francisco-follow</guid><category>Tool Stack</category><pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate></item><item><title>MCP Service | OpenTelemetry</title><link>https://opentelemetry.io/docs/demo/services/mcp/</link><description># MCP Service
 
-Loading...
+LLMS index: llms.txt
 
-Last indexed: 31 July 2026 (623a01)
+---
 
-Menu
+This service exposes the shop's operations as tools over the
+Model Context Protocol, so that the
+Agent service and other MCP-compatible clients can call them. Each
+tool is a thin wrapper that calls the frontend API over HTTP.
 
-# Messaging Channels
+MCP service source
 
-Relevant source files
+## Instrume</description><guid isPermaLink="false">https://opentelemetry.io/docs/demo/services/mcp/</guid><category>Tool Stack</category><pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate></item><item><title>codex queue and Inter-Session Messaging: What v0.149.0’s New Primitive Means for Orchestration and Automation | Codex Knowledge Base</title><link>https://codex.danielvaughan.com/2026/08/21/codex-queue-inter-session-messaging-codex-cli-v0149-orchestration-automation-agent-to-agent/</link><description>codex queue and Inter-Session Messaging: What v0.149.0’s New Primitive Means for Orchestration and Automation | Codex Knowledge Base
 
-OpenClaw's messaging channel integrations bridge external commun</description><guid isPermaLink="false">https://deepwiki.com/openclaw/openclaw/4-messaging-channels</guid><category>Tool Stack</category><pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate></item><item><title>n8n.io vs Make.com Comparison in 2026 - Stackreaction</title><link>https://stackreaction.com/compare/n8n-vs-integromat</link><description>n8n.io vs Make.com Comparison in 2026 - Stackreaction
+ August 21, 2026 
+
+ Updated August 21, 2026 
+
+Pick your price — from $14.99 with reader discount (suggested $29.99)
+
+# codex queue and Inter-Session Messaging: What v</description><guid isPermaLink="false">https://codex.danielvaughan.com/2026/08/21/codex-queue-inter-session-messaging-codex-cli-v0149-orchestration-automation-agent-to-agent/</guid><category>Tool Stack</category><pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate></item><item><title>n8n.io vs Make.com Comparison in 2026 - Stackreaction</title><link>https://stackreaction.com/compare/n8n-vs-integromat</link><description>n8n.io vs Make.com Comparison in 2026 - Stackreaction
 
 ## n8n.io
 
@@ -212,17 +100,17 @@ OpenClaw's messaging channel integrations bridge external commun</description><g
 
 Free and open-source, self hostable workflow automation system
 
-n8n is a workflow automation tool, which helps to connect d</description><guid isPermaLink="false">https://stackreaction.com/compare/n8n-vs-integromat</guid><category>Tool Stack</category><pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate></item><item><title>MCP vs A2A: the two protocols shaping agent software</title><link>https://webafterai.substack.com/p/mcp-vs-a2a-the-two-protocols-shaping</link><description>MCP vs A2A: the two protocols shaping agent software
+n8n is a workflow automation tool, which helps to connect d</description><guid isPermaLink="false">https://stackreaction.com/compare/n8n-vs-integromat</guid><category>Tool Stack</category><pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate></item><item><title>How Brands Get Cited in AI Search Results - Silktide</title><link>https://silktide.com/blog/how-brands-get-cited-by-ai-and-llms/</link><description>How Brands Get Cited in AI Search Results - Silktide
 
-# MCP vs A2A: the two protocols shaping agent software
+# How Brands Get Cited in AI Search Results
 
-### Most AI builders know MCP or A2A. The useful systems use both.
+ By Kessler West 
 
-Shilpa Mitra
+ Published August 20, 2026 
 
-Aug 20, 2026
+ By Kessler West 
 
-If you build with AI agents, you quickly run into two different problems. The agent needs acce</description><guid isPermaLink="false">https://webafterai.substack.com/p/mcp-vs-a2a-the-two-protocols-shaping</guid><category>General AI</category><pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate></item><item><title>AEO vs GEO: Key Differences for AI Search</title><link>https://technologyadvice.com/blog/marketing/aeo-vs-geo/</link><description>AEO vs GEO: Key Differences for AI Search
+SEO and content marketing specialist who started working in the field in 2011. I love all things content, search engines, web accessib</description><guid isPermaLink="false">https://silktide.com/blog/how-brands-get-cited-by-ai-and-llms/</guid><category>General AI</category><pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate></item><item><title>AEO vs GEO: Key Differences for AI Search</title><link>https://technologyadvice.com/blog/marketing/aeo-vs-geo/</link><description>AEO vs GEO: Key Differences for AI Search
 
 # AEO vs GEO: What’s the Difference and Why It Matters for AI Search
 
@@ -254,55 +142,80 @@ Share
 
 Copy link
 
-https://claude.com/blog/</description><guid isPermaLink="false">https://claude.com/blog/computer-use-skills-api-files-api</guid><category>General AI</category><pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate></item><item><title>Architecting the New Operating System: A Guide to Context Engineering - DEV Community</title><link>https://dev.to/abdullahahmad/architecting-the-new-operating-system-a-guide-to-context-engineering-1j70</link><description># Architecting the New Operating System: A Guide to Context Engineering - DEV Community
+https://claude.com/blog/</description><guid isPermaLink="false">https://claude.com/blog/computer-use-skills-api-files-api</guid><category>General AI</category><pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate></item><item><title>GTM Engineer @ Lilt | Redpoint Ventures Job Board</title><link>https://careers.redpoint.com/companies/lilt/jobs/90568553-gtm-engineer</link><description>GTM Engineer @ Lilt | Redpoint Ventures Job Board
 
-Published: 2026-08-20T00:13:44+00:00
-Source: dev.to (dev.to)
-Language: en
+## Careers
 
-## Story
+## GTM Engineer
 
-Architecting the New Operating System: A Guide to Context Engineering - DEV Community
+Lilt
 
-Prompt engineering is a conversation; c</description><guid isPermaLink="false">https://dev.to/abdullahahmad/architecting-the-new-operating-system-a-guide-to-context-engineering-1j70</guid><category>Tool Stack</category><pubDate>Thu, 20 Aug 2026 00:13:44 +0000</pubDate></item><item><title>Deliverability-first email vs sales engagement platforms</title><link>https://instantly.ai/blog/deliverability-first-email-vs-sales-engagement/</link><description># Deliverability-first email vs sales engagement platforms
+London, UK
 
-Published: 2026-08-20T10:00:37.000+00:00
-Source: instantly.ai (instantly.ai)
-Language: en
+Posted on Aug 20, 2026
 
-## Story
+# About LILT
 
-Deliverability-first email vs sales engagement platforms
+AI is changing how the world communicates — and LILT is leading that transformation.
 
-Get the same outreach system behind Instantly’s own growth, set up your business</description><guid isPermaLink="false">https://instantly.ai/blog/deliverability-first-email-vs-sales-engagement/</guid><category>Tool Stack</category><pubDate>Thu, 20 Aug 2026 10:00:37 +0000</pubDate></item><item><title>Outbound Sales Software Features That Drive Meetings</title><link>https://instantly.ai/blog/outbound-sales-software-features-that-matter/</link><description># Outbound Sales Software Features That Drive Meetings
+We're on a mission to make the world's information accessible to everyone, reg</description><guid isPermaLink="false">https://careers.redpoint.com/companies/lilt/jobs/90568553-gtm-engineer</guid><category>GTM Engineering</category><pubDate>Thu, 20 Aug 2026 11:13:36 +0000</pubDate></item><item><title>Surfe: B2B Prospecting, Enrichment &amp; CRM Sync</title><link>https://www.surfe.com/</link><description>Surfe: B2B Prospecting, Enrichment &amp; CRM Sync
 
-Published: 2026-08-20T10:05:54.000+00:00
-Source: instantly.ai (instantly.ai)
-Language: en
+# Pipeline Generation for GTM Teams
 
-## Story
+Pipeline Generation
 
-Outbound Sales Software Features That Drive Meetings
+for GTM Teams
 
-Get the same outreach system behind Instantly’s own growth, set up your business Learn mo</description><guid isPermaLink="false">https://instantly.ai/blog/outbound-sales-software-features-that-matter/</guid><category>GTM Engineering</category><pubDate>Thu, 20 Aug 2026 10:05:54 +0000</pubDate></item><item><title>What Is an AI GTM Agent? A Practical Definition</title><link>https://overloop.com/blog/ai-gtm-agent</link><description>What Is an AI GTM Agent? A Practical Definition | Overloop
+built on better data
+
+powered by AI
+
+Find, enrich, and activate accounts and contacts with real-time data and buying signals from multiple providers.
+
+or connect Surfe to Claude or</description><guid isPermaLink="false">https://www.surfe.com/</guid><category>GTM Engineering</category><pubDate>Thu, 20 Aug 2026 11:13:36 +0000</pubDate></item><item><title>What Is an AI GTM Agent? A Practical Definition</title><link>https://overloop.com/blog/ai-gtm-agent</link><description>What Is an AI GTM Agent? A Practical Definition | Overloop
 
 # What Is an AI GTM Agent?
 
 The label is broad enough to hide almost anything. A useful definition starts with the decision the system owns, the tools it may use, the evidence it returns, and the point where a person can stop it.
 
-By Nicola</description><guid isPermaLink="false">https://overloop.com/blog/ai-gtm-agent</guid><category>GTM Engineering</category><pubDate>Thu, 20 Aug 2026 11:13:32 +0000</pubDate></item><item><title>GTM glossary: the vocabulary of revenue infrastructure - Cargo</title><link>https://www.getcargo.ai/glossary</link><description>GTM glossary: the vocabulary of revenue infrastructure | Cargo
+By Nicola</description><guid isPermaLink="false">https://overloop.com/blog/ai-gtm-agent</guid><category>GTM Engineering</category><pubDate>Thu, 20 Aug 2026 11:13:38 +0000</pubDate></item><item><title>Clay</title><link>https://community.clay.com/</link><description>Clay
 
-# The vocabulary of revenue infrastructure
+Search
 
-13 terms, defined in plain language. Each one answers the question completely in its first two sentences, because that is usually all anyone reads.
+⌘K
 
-GTM engineering is the practice of building</description><guid isPermaLink="false">https://www.getcargo.ai/glossary</guid><category>Tool Stack</category><pubDate>Thu, 20 Aug 2026 11:13:39 +0000</pubDate></item><item><title>Best Outbound Buying Signal Tools Ranked August 2026</title><link>https://predictleads.com/blog/outbound-buying-signal-tools/</link><description>Top Outbound Buying Signal Tools | PredictLeads August 2026
+Newest
 
-# Best Outbound Buying Signal Tools Ranked August 2026
+Clay
+[Skip to main content](#main-content)
+Open sidebar
+[![Clay Logo](https://cdn.tightknit.ai/cdn-cgi/image/width=3840,format=auto,quality=85/https://pthsiwxwiiowghdtkwlv.supabase.co/storage/v1/object/public/slack_files/T025KRP981M/636f6131-e303-4b00-9ddf-40bf59381734/F09S</description><guid isPermaLink="false">https://community.clay.com/</guid><category>Tool Stack</category><pubDate>Thu, 20 Aug 2026 11:13:39 +0000</pubDate></item><item><title>Best Research APIs in 2026: Complete Comparison Guide</title><link>https://brightdata.com/blog/web-data/best-research-apis</link><description>---
+description: Compare the 11 best research APIs for web scraping, SERP data, and AI applications. Success rates, pricing, and features to help you choose wisely.
+title: Best Research APIs in 2026: Complete Comparison Guide
+image: https://media.brightdata.com/2026/02/Best-Research-APIs.png
+---</description><guid isPermaLink="false">https://brightdata.com/blog/web-data/best-research-apis</guid><category>Tool Stack</category><pubDate>Thu, 20 Aug 2026 11:13:43 +0000</pubDate></item><item><title>GTM Engineer Coaching with Mitchell Keller</title><link>https://www.leadgrow.ai/coaching</link><description>Limited Availability
 
-By Robert Fon / August 20, 2026 
+# Go Claude Code native. Become a *leveraged* GTM engineer.
 
-There are a lot of tools claiming to surface buying signals for outbound sales, and most of them are genuinely useful for one specific thing. The har</description><guid isPermaLink="false">https://predictleads.com/blog/outbound-buying-signal-tools/</guid><category>Alpha Signals</category><pubDate>Thu, 20 Aug 2026 11:13:47 +0000</pubDate></item><item><title>The AI-Powered GTM Organization Isn't Just a Vision Anymore  | SAP News Center</title><link>https://news.sap.com/2026/08/ai-powered-gtm-organization-not-just-a-vision/</link><description># The AI-Powered GTM Organization Isn't Just a Vision Anymore  | SAP News Center
+Build an outbound system where every campaign makes the next one smarter, faster, and harder to compete with. The exact flywheel, psychology, and AI workflows behind 2,000+ meetings a year.
+
+[See Options](https://loca</description><guid isPermaLink="false">https://www.leadgrow.ai/coaching</guid><category>Alpha Signals</category><pubDate>Thu, 20 Aug 2026 11:13:58 +0000</pubDate></item><item><title>GTM Engineer Experiments - Substack</title><link>https://thegtmengineer.substack.com/t/gtm-engineer-experiment</link><description>the gtm engineer | Substack
+
+SubscribeSign in
+
+Podcast
+
+GTM Engineer Experiments
+
+Join the gtm engineer lab
+
+About
+
+# GTM Engineer Experiment
+
+How sellers and CX at Profound use Prophet to see every deal, account, call, next step, and more in one place
+
+How Profound built its revenue intelligence pl</description><guid isPermaLink="false">https://thegtmengineer.substack.com/t/gtm-engineer-experiment</guid><category>Alpha Signals</category><pubDate>Thu, 20 Aug 2026 11:13:59 +0000</pubDate></item><item><title>The AI-Powered GTM Organization Isn't Just a Vision Anymore  | SAP News Center</title><link>https://news.sap.com/2026/08/ai-powered-gtm-organization-not-just-a-vision/</link><description># The AI-Powered GTM Organization Isn't Just a Vision Anymore  | SAP News Center
 
 Author: Jan Gilg
 Published: 2026-08-20T12:15:00+00:00
@@ -321,7 +234,15 @@ Language: en
 
 ## Story
 
-Job Postings Are the Most Underused B2B Intent Signal (And You Don't Even Need to Scrape) - DEV Community</description><guid isPermaLink="false">https://dev.to/benedictmendoza/job-postings-are-the-most-underused-b2b-intent-signal-and-you-dont-even-need-to-scrape-p3k</guid><category>Alpha Signals</category><pubDate>Thu, 20 Aug 2026 23:31:53 +0000</pubDate></item><item><title>ZoomInfo Intent: What a Signal Score Actually Measures | RevenueFlow</title><link>https://www.revenueflow.com/blog/zoominfo-intent</link><description>ZoomInfo Intent: What a Signal Score Actually Measures | RevenueFlow
+Job Postings Are the Most Underused B2B Intent Signal (And You Don't Even Need to Scrape) - DEV Community</description><guid isPermaLink="false">https://dev.to/benedictmendoza/job-postings-are-the-most-underused-b2b-intent-signal-and-you-dont-even-need-to-scrape-p3k</guid><category>Alpha Signals</category><pubDate>Thu, 20 Aug 2026 23:31:53 +0000</pubDate></item><item><title>Senior Manager, GTM Engineering | Workvista</title><link>https://workvista.synergize.co/remote-jobs/senior-manager-gtm-engineering</link><description>Senior Manager, GTM Engineering | Workvista
+
+# Senior Manager, GTM Engineering
+
+ Posted Aug 17, 2026 
+
+### About AlphaSense: 
+
+The world’s most sophisticated companies rely on AlphaSense to remove uncertainty from decision-making. With market intelligence and search built on proven AI, AlphaSense de</description><guid isPermaLink="false">https://workvista.synergize.co/remote-jobs/senior-manager-gtm-engineering</guid><category>Alpha Signals</category><pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate></item><item><title>ZoomInfo Intent: What a Signal Score Actually Measures | RevenueFlow</title><link>https://www.revenueflow.com/blog/zoominfo-intent</link><description>ZoomInfo Intent: What a Signal Score Actually Measures | RevenueFlow
 
 0%
 
@@ -331,13 +252,15 @@ Sales Tools
 
 # ZoomInfo Intent: What a Signal Score Actually Measures
 
-ZoomInfo defines a signal score as recent research compared against a company's own baseline. That one clause changes how the whole pr</description><guid isPermaLink="false">https://www.revenueflow.com/blog/zoominfo-intent</guid><category>Alpha Signals</category><pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate></item><item><title>Head of Revenue Technology &amp;amp; Architecture | Prairie</title><link>https://prairie.totalh.net/remote-jobs/head-of-revenue-technology-architecture</link><description>Head of Revenue Technology &amp; Architecture | Prairie
+ZoomInfo defines a signal score as recent research compared against a company's own baseline. That one clause changes how the whole pr</description><guid isPermaLink="false">https://www.revenueflow.com/blog/zoominfo-intent</guid><category>Alpha Signals</category><pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate></item><item><title>Job Postings Are the Most Underused B2B Intent Signal (And You Don't Even Need to Scrape) - Adil Sadqi</title><link>https://www.asadqi.com/job-postings-are-the-most-underused-b2b-intent-signal-and-you-dont-even-need-to-scrape-p3k/</link><description>Job Postings Are the Most Underused B2B Intent Signal (And You Don't Even Need to Scrape) - Adil Sadqi
 
-# Head of Revenue Technology &amp; Architecture
+ 
 
- Posted Aug 15, 2026 
+# Job Postings Are the Most Underused B2B Intent Signal (And You Don’t Even Need to Scrape)
 
-Mercury* is building a complete financial stack for ambitious businesses. Since we launched in 2019, our customer base has grown to over 200,000 startups and small businesses from</description><guid isPermaLink="false">https://prairie.totalh.net/remote-jobs/head-of-revenue-technology-architecture</guid><category>Key Practitioners</category><pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate></item><item><title>Lead Enterprise Revenue Architect | Prairie</title><link>https://prairie.totalh.net/remote-jobs/lead-enterprise-revenue-architect</link><description>Lead Enterprise Revenue Architect | Prairie
+ By Adil
+
+A funding announcement tells you a company has money. A job posting tells you exactly wher</description><guid isPermaLink="false">https://www.asadqi.com/job-postings-are-the-most-underused-b2b-intent-signal-and-you-dont-even-need-to-scrape-p3k/</guid><category>Alpha Signals</category><pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate></item><item><title>Lead Enterprise Revenue Architect | Prairie</title><link>https://prairie.totalh.net/remote-jobs/lead-enterprise-revenue-architect</link><description>Lead Enterprise Revenue Architect | Prairie
 
 # Lead Enterprise Revenue Architect
 
@@ -357,7 +280,93 @@ When inbox placement drops, companies lose revenue.
 
 We fix that.
 
-Now we’re installing a Head</description><guid isPermaLink="false">https://prairie.totalh.net/remote-jobs/head-of-gtm</guid><category>Key Practitioners</category><pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate></item><item><title>How to Convert Any Webpage to Markdown for Your LLM (One API Call) | Browserbase</title><link>https://www.browserbase.com/blog/webpage-to-markdown-for-llms</link><description># How to Convert Any Webpage to Markdown for Your LLM (One API Call) | Browserbase
+Now we’re installing a Head</description><guid isPermaLink="false">https://prairie.totalh.net/remote-jobs/head-of-gtm</guid><category>Key Practitioners</category><pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate></item><item><title>Better DocC Documentation with Kiln - Community Showcase - Swift Forums</title><link>https://forums.swift.org/t/better-docc-documentation-with-kiln/89108</link><description>Better DocC Documentation with Kiln - Community Showcase - Swift Forums
+
+# Better DocC Documentation with Kiln 
+
+ 0xTim (Tim) August 21, 2026, 11:56am 1 
+
+Hi all,
+
+I posted a while ago about Kiln, the documentation engine I’ve been working on for the couple of months. I’ve added new features like lo</description><guid isPermaLink="false">https://forums.swift.org/t/better-docc-documentation-with-kiln/89108</guid><category>Key Practitioners</category><pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate></item><item><title>Outside of a Dog: Paintings by Casebeer</title><link>http://andylinkner.blogspot.com/2010/05/paintings-by-casebeer.html</link><description>Outside of a Dog: Paintings by Casebeer
+
+## Sunday, May 23, 2010
+
+### Paintings by Casebeer 
+
+ Just thought I'd give a little exposure here to a painter based in Tempe, AZ just down the road from my home here in Scottsdale. My wife and I have five Casebeers hanging on our walls (none of which are pi</description><guid isPermaLink="false">http://andylinkner.blogspot.com/2010/05/paintings-by-casebeer.html</guid><category>Key Practitioners</category><pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate></item><item><title>GTM Engineer (Clay Specialist) | Australia - Full-Time | Workvista</title><link>https://workvista.synergize.co/remote-jobs/gtm-engineer-clay-specialist-australia-full-time</link><description>GTM Engineer (Clay Specialist) | Australia - Full-Time | Workvista
+
+# GTM Engineer (Clay Specialist) | Australia - Full-Time
+
+ Posted Aug 17, 2026 
+
+### Job Title:
+
+GTM Engineer (Clay Specialist)
+
+### Location:
+
+Remote
+
+### Role Type:
+
+Full-Time
+
+### Working Hours:
+
+9AM - 6PM Sydney Time (AEST), Mon</description><guid isPermaLink="false">https://workvista.synergize.co/remote-jobs/gtm-engineer-clay-specialist-australia-full-time</guid><category>Key Practitioners</category><pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate></item><item><title>GTM Unified API: Bring Your Own Enrichment Key</title><link>https://www.yalc.ai/blog/gtm-unified-api-bring-your-own-enrichment-key/</link><description>GTM Unified API: Bring Your Own Enrichment Key
+
+# GTM Unified API: Bring Your Own Enrichment Key and Stop Paying Twice
+
+Connect your existing Apollo, ZoomInfo, or Cognism subscription to a unified GTM API. You pay your data vendor directly, not a resale markup from your orchestration layer.
+
+ Othman</description><guid isPermaLink="false">https://www.yalc.ai/blog/gtm-unified-api-bring-your-own-enrichment-key/</guid><category>Tool Stack</category><pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate></item><item><title>40 Best Vibe Coding Tools for Developers in 2026 (Tested &amp; Compared) - HyScaler</title><link>https://hyscaler.com/insights/best-vibe-coding-tools-for-developers/</link><description>40 Best Vibe Coding Tools for Developers in 2026 (Tested &amp; Compared) - HyScaler
+
+# 40 Best Vibe Coding Tools for Developers in 2026 (Tested &amp; Compared)
+
+ Aug 21, 2026 · 27 min read · HyScaler Team 
+
+## Table of Contents
+
+“Vibe coding” is a term Andrej Karpathy coined in February 2025 and describes b</description><guid isPermaLink="false">https://hyscaler.com/insights/best-vibe-coding-tools-for-developers/</guid><category>Tool Stack</category><pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate></item><item><title>AI Startup Go-to-Market Strategy: Your Blueprint for Success | Gins AI Blog</title><link>https://gins.ai/blog/ai-startup-go-to-market-strategy-a-blueprint</link><description>AI Startup Go-to-Market Strategy: Your Blueprint for Success | Gins AI Blog
+
+13 min August 21, 2026
+
+# AI Startup Go-to-Market Strategy: A Blueprint
+
+In the fast-evolving landscape of technology, launching an Artificial Intelligence (AI) startup presents a unique set of challenges and opportunities.</description><guid isPermaLink="false">https://gins.ai/blog/ai-startup-go-to-market-strategy-a-blueprint</guid><category>GTM Engineering</category><pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate></item><item><title>Agents on Databricks: The platform is ready, your business context is not | Thoughtworks</title><link>https://www.thoughtworks.com/insights/blog/technology-strategy/agents-on-databricks-the-platform-is-ready-your-business-context-is-not</link><description>Agents on Databricks: The platform is ready, your business context is not | Thoughtworks
+
+# Agents on Databricks: The platform is ready, your business context is not
+
+Close
+
+By
+
+Published: August 21, 2026
+
+Take a seemingly simple scenario, like asking an AI agent for last quarter's revenue. Before i</description><guid isPermaLink="false">https://www.thoughtworks.com/insights/blog/technology-strategy/agents-on-databricks-the-platform-is-ready-your-business-context-is-not</guid><category>GTM Engineering</category><pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate></item><item><title>AI Sales Script Generators: What They Produce and What You Still Supply | RevenueFlow</title><link>https://www.revenueflow.com/blog/ai-sales-script-generator</link><description>AI Sales Script Generators: What They Produce and What You Still Supply | RevenueFlow
+
+0%
+
+Back to the journal
+
+Email Outreach
+
+# AI Sales Script Generators: What They Produce and What You Still Supply
+
+A generator returns a complete, category-average script in seconds. What it gets right, the four</description><guid isPermaLink="false">https://www.revenueflow.com/blog/ai-sales-script-generator</guid><category>GTM Engineering</category><pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate></item><item><title>GTM Engineer - Revenue Technology (AI &amp;amp; Automation) | Prairie</title><link>https://prairie.totalh.net/remote-jobs/gtm-engineer-revenue-technology-ai-automation</link><description>GTM Engineer - Revenue Technology (AI &amp; Automation) | Prairie
+
+# GTM Engineer - Revenue Technology (AI &amp; Automation)
+
+ Posted Aug 19, 2026 
+
+### About Wati
+
+Started as a WhatsApp team inbox in 2020, Wati has evolved into a full revenue orchestration system that goes beyond a single platform. We empo</description><guid isPermaLink="false">https://prairie.totalh.net/remote-jobs/gtm-engineer-revenue-technology-ai-automation</guid><category>GTM Engineering</category><pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate></item><item><title>The impact of vibe coding on students’ programming self-efficacy and attitudes toward artificial intelligence | Scientific Reports</title><link>https://www.nature.com/articles/s41598-026-67799-x</link><description>The impact of vibe coding on students’ programming self-efficacy and attitudes toward artificial intelligence | Scientific Reports
+
+## Abstract
+
+Vibe Coding is a generative AI–based programming approach that may support novice learners who lack confidence in their programming abilities, particularly</description><guid isPermaLink="false">https://www.nature.com/articles/s41598-026-67799-x</guid><category>General AI</category><pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate></item><item><title>How to Convert Any Webpage to Markdown for Your LLM (One API Call) | Browserbase</title><link>https://www.browserbase.com/blog/webpage-to-markdown-for-llms</link><description># How to Convert Any Webpage to Markdown for Your LLM (One API Call) | Browserbase
 
 Published: 2026-08-21T01:25:07.461Z
 Source: browserbase.com (browserbase.com)
@@ -367,7 +376,19 @@ Language: en
 
 How to Convert Any Webpage to Markdown for Your LLM (One API Call) | Browserbase
 
-TL;DR: Your agent doesn't need r</description><guid isPermaLink="false">https://www.browserbase.com/blog/webpage-to-markdown-for-llms</guid><category>General AI</category><pubDate>Fri, 21 Aug 2026 01:25:07 +0000</pubDate></item><item><title>What Is Vibe Coding? Benefits, Risks, and Best Practices for AI-Assisted Development - DEV Community</title><link>https://dev.to/yashika_vijayvargiya/what-is-vibe-coding-benefits-risks-and-best-practices-for-ai-assisted-development-36ca</link><description># What Is Vibe Coding? Benefits, Risks, and Best Practices for AI-Assisted Development - DEV Community
+TL;DR: Your agent doesn't need r</description><guid isPermaLink="false">https://www.browserbase.com/blog/webpage-to-markdown-for-llms</guid><category>General AI</category><pubDate>Fri, 21 Aug 2026 01:25:07 +0000</pubDate></item><item><title>AI agent-ready best practices for front-end applications</title><link>https://docs.prepr.io/ai-agent-ready-best-practices</link><description>AI agent-ready best practices for front-end applications – Prepr docs
+
+# AI agent-ready best practices for front-end applications
+
+This guide gives you some tips on how to build a front-end application that AI crawlers, RAG (Retrieval-Augmented Generation) agents, and LLM search engines can easily f</description><guid isPermaLink="false">https://docs.prepr.io/ai-agent-ready-best-practices</guid><category>General AI</category><pubDate>Fri, 21 Aug 2026 11:13:31 +0000</pubDate></item><item><title>7 Best Cold Outreach APIs Compared for GTM &amp; Agencies ...</title><link>https://www.salesforge.ai/blog/cold-outreach-api</link><description>7 Best Cold Outreach APIs Compared for GTM &amp; Agencies (2026)
+
+# 7 Best Cold Outreach APIs Compared for GTM &amp; Agencies (2026)
+
+By Jānis Plūme
+
+Published on: Aug 22, 2026
+
+&gt; ‍ Disclosure: OutboundPros runs client campaigns primarily on Salesforge. Five of the seven APIs below were tested in production</description><guid isPermaLink="false">https://www.salesforge.ai/blog/cold-outreach-api</guid><category>Tool Stack</category><pubDate>Fri, 21 Aug 2026 11:13:42 +0000</pubDate></item><item><title>What Is Vibe Coding? Benefits, Risks, and Best Practices for AI-Assisted Development - DEV Community</title><link>https://dev.to/yashika_vijayvargiya/what-is-vibe-coding-benefits-risks-and-best-practices-for-ai-assisted-development-36ca</link><description># What Is Vibe Coding? Benefits, Risks, and Best Practices for AI-Assisted Development - DEV Community
 
 Published: 2026-08-21T12:00:59+00:00
 Source: dev.to (dev.to)
@@ -377,7 +398,17 @@ Language: en
 
 What Is Vibe Coding? Benefits, Risks, and Best Practices for AI-Assisted Development - DEV Community
 
-## Introd</description><guid isPermaLink="false">https://dev.to/yashika_vijayvargiya/what-is-vibe-coding-benefits-risks-and-best-practices-for-ai-assisted-development-36ca</guid><category>General AI</category><pubDate>Fri, 21 Aug 2026 12:00:59 +0000</pubDate></item><item><title>AI Tinkerers Seattle: GTM Engineering Track — August – GeekWire Events Calendar</title><link>https://www.geekwire.com/calendar-event/ai-tinkerers-seattle-gtm-engineering-track-august/</link><description># AI Tinkerers Seattle: GTM Engineering Track — August – GeekWire Events Calendar
+## Introd</description><guid isPermaLink="false">https://dev.to/yashika_vijayvargiya/what-is-vibe-coding-benefits-risks-and-best-practices-for-ai-assisted-development-36ca</guid><category>General AI</category><pubDate>Fri, 21 Aug 2026 12:00:59 +0000</pubDate></item><item><title>clay-vs-apollo</title><link>https://www.clay.com/blog/clay-vs-apollo</link><description># clay-vs-apollo
+
+Published: 2026-08-21T18:14:01+00:00
+Source: clay.com (clay.com)
+Language: en
+
+## Story
+
+---
+description: Compare Clay vs Apollo on data coverage, AI research, workflow automation and pricing to see which platform fits your GTM team.
+title: Clay vs Apollo: A GTM Team’s Guide to Bot</description><guid isPermaLink="false">https://www.clay.com/blog/clay-vs-apollo</guid><category>Key Practitioners</category><pubDate>Fri, 21 Aug 2026 18:14:01 +0000</pubDate></item><item><title>AI Tinkerers Seattle: GTM Engineering Track — August – GeekWire Events Calendar</title><link>https://www.geekwire.com/calendar-event/ai-tinkerers-seattle-gtm-engineering-track-august/</link><description># AI Tinkerers Seattle: GTM Engineering Track — August – GeekWire Events Calendar
 
 Published: 2026-08-21T18:54:11+00:00
 Source: geekwire.com (geekwire.com)
@@ -389,21 +420,9 @@ AI Tinkerers Seattle: GTM Engineering Track — August – GeekWire Events Calen
 
 # GeekWire Calendar
 
-Meetups, conferenc</description><guid isPermaLink="false">https://www.geekwire.com/calendar-event/ai-tinkerers-seattle-gtm-engineering-track-august/</guid><category>Alpha Signals</category><pubDate>Fri, 21 Aug 2026 18:54:11 +0000</pubDate></item><item><title>The impact of vibe coding on students' programming self ...</title><link>https://www.nature.com/articles/s41598-026-67799-x</link><description>The impact of vibe coding on students’ programming self-efficacy and attitudes toward artificial intelligence | Scientific Reports
+Meetups, conferenc</description><guid isPermaLink="false">https://www.geekwire.com/calendar-event/ai-tinkerers-seattle-gtm-engineering-track-august/</guid><category>Alpha Signals</category><pubDate>Fri, 21 Aug 2026 18:54:11 +0000</pubDate></item><item><title>Email Deliverability for B2B Teams: A Practical Guide | destackd</title><link>https://destackd.com/posts/email-deliverability-guide-b2b-2026/</link><description>Email Deliverability for B2B Teams: A Practical Guide | destackd
 
-- Article
-- Open access
-- Published: 21 August 2026
-
-# The impact of vibe coding on students’ programming self-efficacy and attitudes toward artificial intelligence
-
--</description><guid isPermaLink="false">https://www.nature.com/articles/s41598-026-67799-x</guid><category>General AI</category><pubDate>Fri, 21 Aug 2026 21:13:27 +0000</pubDate></item><item><title>Ontopical vs Citylitics: Compare Pre-RFP Government ...</title><link>https://www.sovra.com/ontopical-vs-citylitics/</link><description>Ontopical vs Citylitics: Compare Pre-RFP Government Platforms
-
-# Ontopical vs. Citylitics:
-
-# Which Pre-RFP Intelligence Platform Wins You More Public-Sector Business?
-
-Citylitics and Ontopical both get you into government deals before the RFP drops. The real question is how much of the market each</description><guid isPermaLink="false">https://www.sovra.com/ontopical-vs-citylitics/</guid><category>Alpha Signals</category><pubDate>Fri, 21 Aug 2026 21:13:48 +0000</pubDate></item><item><title>Google’s A2A Protocol Joins AAIF, Consolidating the Agent Economy’s Protocol Layer Under One Roof – Forkast</title><link>https://forkast.news/googles-a2a-protocol-joins-aaif-consolidating-the-agent-economys-protocol-layer-under-one-roof/</link><description># Google’s A2A Protocol Joins AAIF, Consolidating the Agent Economy’s Protocol Layer Under One Roof – Forkast
+When email performance drops, the instinct is to buy something — a warmup service, an inbox-placement monitor, a new sending platform. Almost always the cause is upstream of any tool: a missing DNS record, a list containing addresses</description><guid isPermaLink="false">https://destackd.com/posts/email-deliverability-guide-b2b-2026/</guid><category>Tool Stack</category><pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate></item><item><title>Google’s A2A Protocol Joins AAIF, Consolidating the Agent Economy’s Protocol Layer Under One Roof – Forkast</title><link>https://forkast.news/googles-a2a-protocol-joins-aaif-consolidating-the-agent-economys-protocol-layer-under-one-roof/</link><description># Google’s A2A Protocol Joins AAIF, Consolidating the Agent Economy’s Protocol Layer Under One Roof – Forkast
 
 Published: 2026-08-22T02:05:54+00:00
 Source: forkast.news (forkast.news)
@@ -411,19 +430,54 @@ Language: en
 
 ## Story
 
-Google’s A2A Protocol Joins AAIF, Consolidating the Agent Economy’s Protocol Layer Under One</description><guid isPermaLink="false">https://forkast.news/googles-a2a-protocol-joins-aaif-consolidating-the-agent-economys-protocol-layer-under-one-roof/</guid><category>General AI</category><pubDate>Sat, 22 Aug 2026 02:05:54 +0000</pubDate></item><item><title>n8n - Workflow Automation</title><link>https://github.com/n8n-io</link><description># n8n - Workflow Automation
+Google’s A2A Protocol Joins AAIF, Consolidating the Agent Economy’s Protocol Layer Under One</description><guid isPermaLink="false">https://forkast.news/googles-a2a-protocol-joins-aaif-consolidating-the-agent-economys-protocol-layer-under-one-roof/</guid><category>General AI</category><pubDate>Sat, 22 Aug 2026 02:05:54 +0000</pubDate></item><item><title>7 Outbound Sales Mistakes That Kill Reply Rates</title><link>https://instantly.ai/blog/outbound-sales-mistakes/</link><description># 7 Outbound Sales Mistakes That Kill Reply Rates
 
-Free and open fair-code licensed node based Workflow Automation Tool.
+Published: 2026-08-22T08:00:13.000+00:00
+Source: instantly.ai (instantly.ai)
+Language: en
 
-- Login: n8n-io
-- Location: Germany
-- Blog: https://n8n.io
-- Email: hello@n8n.io
-- Public repos: 45
-- Followers: 14602
-- Verified: yes
-- Created: 2018-11-30T12:19:59Z
+## Story
 
-## Top Repositories
+7 Outbound Sales Mistakes That Kill Reply Rates
 
-- n8n-io/n8</description><guid isPermaLink="false">https://github.com/n8n-io</guid><category>Tool Stack</category><pubDate>Sat, 22 Aug 2026 04:13:35 +0000</pubDate></item></channel></rss>
+Get the same outreach system behind Instantly’s own growth, set up your business Learn moreLearn mo</description><guid isPermaLink="false">https://instantly.ai/blog/outbound-sales-mistakes/</guid><category>GTM Engineering</category><pubDate>Sat, 22 Aug 2026 08:00:13 +0000</pubDate></item><item><title>The Agent Economy: When AIs Pay Each Other</title><link>https://www.splunk.com/en_us/blog/artificial-intelligence/the-agent-economy-when-ais-pay-each-other.html</link><description>The Agent Economy: When AIs Pay Each Other | Splunk
+
+# The Agent Economy: When AIs Pay Each Other
+
+Artificial Intelligence August 21, 2026 Romain Valentin
+
+#### Key Takeaways
+
+1. Payment is becoming an architectural layer in its own right. After tools (MCP) and agent-to-agent communication (A2A), a</description><guid isPermaLink="false">https://www.splunk.com/en_us/blog/artificial-intelligence/the-agent-economy-when-ais-pay-each-other.html</guid><category>General AI</category><pubDate>Sat, 22 Aug 2026 11:13:33 +0000</pubDate></item><item><title>Context Engineering: The New Standard for AI Development - DEV Community</title><link>https://dev.to/nainikmehta/context-engineering-the-new-standard-for-ai-development-47a2</link><description># Context Engineering: The New Standard for AI Development - DEV Community
+
+Published: 2026-08-22T13:00:51+00:00
+Source: dev.to (dev.to)
+Language: en
+
+## Story
+
+Context Engineering: The New Standard for AI Development - DEV Community
+
+## The Shift from Prompts to Pipelines
+
+In 2023, the industry was</description><guid isPermaLink="false">https://dev.to/nainikmehta/context-engineering-the-new-standard-for-ai-development-47a2</guid><category>Key Practitioners</category><pubDate>Sat, 22 Aug 2026 13:00:51 +0000</pubDate></item><item><title>SuperAnalyst</title><link>https://www.alpha-sense.com/platform/superanalyst/</link><description>SuperAnalyst
+
+Coming Soon
+
+# SuperAnalyst: the always-on AI agent for financial and strategic work.
+
+Scale and codify your team’s methodology once. SuperAnalyst continuously monitors signals, executes workflows, and delivers cited, auditable outputs across AlphaSense’s premium content and your own w</description><guid isPermaLink="false">https://www.alpha-sense.com/platform/superanalyst/</guid><category>Alpha Signals</category><pubDate>Sat, 22 Aug 2026 21:13:57 +0000</pubDate></item><item><title>Revenue Operations: What the Function Actually Owns | RevenueFlow</title><link>https://www.revenueflow.com/blog/revenue-operations</link><description>Revenue Operations: What the Function Actually Owns | RevenueFlow
+
+0%
+
+Back to the journal
+
+Sales Automation
+
+# Revenue Operations: What the Function Actually Owns
+
+RevOps owns definitions, systems, data quality and routing. Which decisions belong to it, why tooling comes last, and the question that</description><guid isPermaLink="false">https://www.revenueflow.com/blog/revenue-operations</guid><category>GTM Engineering</category><pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate></item><item><title>Signal-Based Outbound: Decay Windows, Shared Feeds, and the Volume Problem | RevenueFlow</title><link>https://www.revenueflow.com/blog/signal-based-outbound</link><description>Signal-Based Outbound: Decay Windows, Shared Feeds, and the Volume Problem | RevenueFlow
+
+# Signal-Based Outbound: Decay Windows, Shared Feeds, and the Volume Problem
+
+Every subscriber to a feed gets the same signal on the same day. What that leaves you is timing, and timing is the constraint most t</description><guid isPermaLink="false">https://www.revenueflow.com/blog/signal-based-outbound</guid><category>Key Practitioners</category><pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate></item></channel></rss>
