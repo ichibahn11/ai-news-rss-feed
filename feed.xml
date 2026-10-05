@@ -1,259 +1,74 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>GTM Intelligence Feed</title><link>https://ichibahn11.github.io/ai-news-rss-feed/</link><description>Daily AI and GTM engineering signals curated for the team</description><atom:link href="https://ichibahn11.github.io/ai-news-rss-feed/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://ichibahn11.github.io/ai-news-rss-feed/favicon.png</url><title>GTM Intelligence Feed</title><link>https://ichibahn11.github.io/ai-news-rss-feed/</link></image><language>en</language><lastBuildDate>Sun, 04 Oct 2026 15:36:33 +0000</lastBuildDate><item><title>Salesforce to acquire AI customer research startup Listen Labs in reported $2B deal - SiliconANGLE</title><link>https://siliconangle.com/2026/10/01/salesforce-to-acquire-ai-customer-research-startup-listen-labs-in-reported-2b-deal/</link><description>Salesforce to acquire AI customer research startup Listen Labs in reported $2B deal - SiliconANGLE
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>GTM Intelligence Feed</title><link>https://ichibahn11.github.io/ai-news-rss-feed/</link><description>Daily AI and GTM engineering signals curated for the team</description><atom:link href="https://ichibahn11.github.io/ai-news-rss-feed/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://ichibahn11.github.io/ai-news-rss-feed/favicon.png</url><title>GTM Intelligence Feed</title><link>https://ichibahn11.github.io/ai-news-rss-feed/</link></image><language>en</language><lastBuildDate>Mon, 05 Oct 2026 19:27:44 +0000</lastBuildDate><item><title>Archive - The Signal</title><link>https://www.thesignal.club/archive</link><description>Archive - The Signal
 
- UPDATED 18:56 EDT / OCTOBER 01 2026 
+Sculpt (Clay's conference) plus I'm co-hosting an event with Sumble in SF next week
 
-### Salesforce to acquire AI customer research startup Listen Labs in reported $2B deal
+[Weekly GTM round-up] Jev for TAM mapping, Meta goes into Enterprise, a cold email framework, and more.
 
- by Duncan Riley 
-
-Salesforce Inc. has signed a definitive agreement to</description><guid isPermaLink="false">https://siliconangle.com/2026/10/01/salesforce-to-acquire-ai-customer-research-startup-listen-labs-in-reported-2b-deal/</guid><category>Key Practitioners</category><pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Archive - The GTM Engineering Newsletter</title><link>https://newsletter.gtmengineering.ai/archive</link><description>Archive - The GTM Engineering Newsletter
-
-AMA Recap: How to start a $1M AI GTM Agency
-
-Plus: Org chart generator skill (to steal), the AI Run Club, &amp; Clay Marketplace
-
-20 hrs ago • Alex Lindahl | GTM Engineering
+Oct 2 • Brendan J Short
 
 ### September 2026
 
-Jev: Decision AI for GTM (what you need to know)
-
-Simply explained</description><guid isPermaLink="false">https://newsletter.gtmengineering.ai/archive</guid><category>Key Practitioners</category><pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate></item><item><title>How B2B Marketers Can Rewire for AI Go-To-Market Success</title><link>https://leadtail.com/marketing-leaders/how-b2b-marketers-can-rewire-for-ai-go-to-market-success/</link><description># How B2B Marketers Can Rewire for AI Go-To-Market Success
-
- by Leadtail Team 
-
- 
-
-In the rapidly evolving landscape of B2B marketing, professionals are currently standing at a crossroads. As generative AI reshapes the way we work, B2B marketers must decide exactly how deep down the AI rabbit hole t</description><guid isPermaLink="false">https://leadtail.com/marketing-leaders/how-b2b-marketers-can-rewire-for-ai-go-to-market-success/</guid><category>GTM Engineering</category><pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate></item><item><title>A2A vs MCP: Which AI Agent Protocol Do You Actually Need?</title><link>https://www.matthewswong.com/en/blog/a2a-vs-mcp-agent-protocols/</link><description>A2A vs MCP: Which AI Agent Protocol Do You Actually Need?
-
-Software Engineer &amp; ERP Developer. Open to freelance work and full-time roles — let's build something that ships.
-
-matthewswong2610@gmail.com
-
-Written by
-
-Matthews Wong
-
-Software Engineer &amp; ERP Developer · Indonesia
-
-I work across ERP system</description><guid isPermaLink="false">https://www.matthewswong.com/en/blog/a2a-vs-mcp-agent-protocols/</guid><category>General AI</category><pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Store and Search Meeting Transcripts: A Practical Guide</title><link>https://meetstream.ai/blog/store-and-search-meeting-transcripts/</link><description>Store and Search Meeting Transcripts: A Practical Guide
-
-# How to Store and Search Meeting Transcripts
-
-Learn how to store and search meeting transcripts using structured segments, word timestamps, vector search, and retention controls in your application.
-
- Sidhdharth (Sid) Sivasubramanian 
-
-Octobe</description><guid isPermaLink="false">https://meetstream.ai/blog/store-and-search-meeting-transcripts/</guid><category>Alpha Signals</category><pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate></item><item><title>[Remote] IX Enterprise Revenue Architect - Financial Services</title><link>https://remoterush.mysmartpros.com/job/2592952</link><description>[Remote] IX Enterprise Revenue Architect - Financial Services
-
-# [Remote] IX Enterprise Revenue Architect - Financial Services
-
-Posted 2026-10-02
-
- Remote, USA Full-time Immediate Start 
-
-Note: The job is a remote job and is open to candidates in USA. reputed company is a company that harnesses the</description><guid isPermaLink="false">https://remoterush.mysmartpros.com/job/2592952</guid><category>Key Practitioners</category><pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Enterprise Revenue Architect at Gong.io · the United…</title><link>https://remoshift.com/job/enterprise-revenue-architect-9993826b</link><description>Enterprise Revenue Architect at Gong.io · the United…
-
-# Enterprise Revenue Architect
-
-📍 Remote (US)
-
-📅 Posted Oct 2, 2026 · via WeWorkRemotely
-
-Headquarters: Remote (US)
-
-Gong harnesses the power of AI to transform how revenue teams win. The Gong Revenue AI Operating System unifies data, insights</description><guid isPermaLink="false">https://remoshift.com/job/enterprise-revenue-architect-9993826b</guid><category>Key Practitioners</category><pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Patrick Smith on agentic AI and GTM engineering | RevGenius</title><link>https://community.revgenius.com/x/intros/msg_YWzxG9Mx51UV/patrick-smith-on-agentic-ai-and-gtm-engineering</link><description>Patrick Smith on agentic AI and GTM engineering | RevGenius
-
-# Patrick Smith on agentic AI and GTM engineering
-
-Patrick S.
-
-· Oct 02, 2026 06:55 PM·
-
-Hey Rev Genius 👋 Patrick here. I'm a GTM Engineer by title, but what I actually do is build with AI: agents, automation, and data systems that do the</description><guid isPermaLink="false">https://community.revgenius.com/x/intros/msg_YWzxG9Mx51UV/patrick-smith-on-agentic-ai-and-gtm-engineering</guid><category>Key Practitioners</category><pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Past Issues — 5 AI Tools for B2B SaaS PMs, Daily | Signal Brief</title><link>https://signal-brief13.acoco.ai/archive</link><description>Past Issues — 5 AI Tools for B2B SaaS PMs, Daily | Signal Brief
-
-# The Signal Brief archive
-
-Real past issues, exactly as subscribers got them: 5 AI tools per weekday morning, each with what it does, why it matters for PMs, and a link. Read the first 3 tools of any issue free.
-
-## Every tool from ev</description><guid isPermaLink="false">https://signal-brief13.acoco.ai/archive</guid><category>Key Practitioners</category><pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Introducing Pranali: Building GTM Skills in ICP Research and Outbound Orchestration with Clay | Clay</title><link>https://community.clay.com/x/welcome/msg_FgpWlbbXHTcp/introducing-pranali-building-gtm-skills-in-icp-res</link><description>Introducing Pranali: Building GTM Skills in ICP Research and Outbound Orchestration with Clay | Clay
-
-# Introducing Pranali: Building GTM Skills in ICP Research and Outbound Orchestration with Clay
-
-· Oct 02, 2026 02:20 AM(edited)·
-
-Hi everyone! I’m Pranali from India, with a B2B SaaS background acr</description><guid isPermaLink="false">https://community.clay.com/x/welcome/msg_FgpWlbbXHTcp/introducing-pranali-building-gtm-skills-in-icp-res</guid><category>Key Practitioners</category><pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Software Engineer, GTM Ops at Clay Labs · New York, NY | Feeny</title><link>https://feeny.ai/job/software-engineer-gtm-ops-clay-labs-new-york-p6h0kwg7bryx</link><description>Software Engineer, GTM Ops at Clay Labs · New York, NY | Feeny
-
-# Software Engineer, GTM Ops at Clay Labs (New York, NY) Software Engineer, GTM Ops
-
-Clay Labs· New York, NY· $160k–$230k· 12h ago
-
-Role details
-
-Salary
-
-$160k–$230k
-
-Work type
-
-Hybrid
-
-Employment
-
-Full-Time
-
-Equity
-
-Yes
-
-## Clay Labs a</description><guid isPermaLink="false">https://feeny.ai/job/software-engineer-gtm-ops-clay-labs-new-york-p6h0kwg7bryx</guid><category>Key Practitioners</category><pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Data Enrichment Services: File, Feed, or Function (2026)</title><link>https://www.supered.io/blog/data-enrichment-services/</link><description>Data Enrichment Services: File, Feed, or Function (2026)
-
-# Data Enrichment Services: A File, a Feed, or a Function, and the Day the Accuracy Number Is Taken
-
-Data enrichment services sorted by what they deliver: a file from an outsourced research shop, a feed from a data company, or a function you</description><guid isPermaLink="false">https://www.supered.io/blog/data-enrichment-services/</guid><category>Tool Stack</category><pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Lovable vs Cursor vs GitHub: how to structure AI‑generated code so you clearly own it | Faisal Karkoh</title><link>https://www.faisalkarkoh.com/blog/lovable-vs-cursor-vs-github-code-ownership</link><description>Lovable vs Cursor vs GitHub: how to structure AI‑generated code so you clearly own it | Faisal Karkoh
+If you’re in tech in 2026, you’re either at</description><guid isPermaLink="false">https://www.thesignal.club/archive</guid><category>Key Practitioners</category><pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Lovable vs Cursor vs GitHub: how to structure AI‑generated code so you clearly own it | Faisal Karkoh</title><link>https://www.faisalkarkoh.com/blog/lovable-vs-cursor-vs-github-code-ownership</link><description>Lovable vs Cursor vs GitHub: how to structure AI‑generated code so you clearly own it | Faisal Karkoh
 
 # Lovable vs Cursor vs GitHub: how to structure AI‑generated code so you clearly own it
 
-Compare Lovable vs Cursor vs GitHub code ownership, training and exports. See which should be home for your</description><guid isPermaLink="false">https://www.faisalkarkoh.com/blog/lovable-vs-cursor-vs-github-code-ownership</guid><category>Tool Stack</category><pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Vibe Coding Platforms Compared 2026: Lovable, Bolt, Replit</title><link>https://canadacreate.com/vibe-coding-platforms-compared/</link><description>Vibe Coding Platforms Compared 2026: Lovable, Bolt, Replit
-
- (416) 273-9030 (+14162739030) 
-
-# Vibe coding platforms compared for 2026: Lovable, Bolt, Replit, v0 and Cursor
-
-October 2, 2026· 6 min read
-
- 
-
- What vibe coding is and which platforms to use in 2026: Lovable, Bolt, Replit, v0, Base44, Cu</description><guid isPermaLink="false">https://canadacreate.com/vibe-coding-platforms-compared/</guid><category>Tool Stack</category><pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate></item><item><title>10 Best Email Warmup Tools for Agencies (2026) | CloseFast</title><link>https://closefa.st/blog/best-email-warmup-tools-for-agencies</link><description>10 Best Email Warmup Tools for Agencies (2026) | CloseFast
-
-Roundups By Laszlo Nemeth · Founder, CloseFast 2 October 2026 · 10 min read
-
-# 10 Best Email Warmup Tools for Agencies (2026)
-
-The best email warmup tools for agencies are Instantly and Smartlead for built-in warmup with sending, Mailivery</description><guid isPermaLink="false">https://closefa.st/blog/best-email-warmup-tools-for-agencies</guid><category>Tool Stack</category><pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate></item><item><title>How a Context Engine Works — Web Pulse</title><link>https://wpnews.pro/news/how-a-context-engine-works</link><description>How a Context Engine Works — Web Pulse
+Compare Lovable vs Cursor vs GitHub code ownership, training and exports. See which should be home for your</description><guid isPermaLink="false">https://www.faisalkarkoh.com/blog/lovable-vs-cursor-vs-github-code-ownership</guid><category>Tool Stack</category><pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate></item><item><title>How a Context Engine Works — Web Pulse</title><link>https://wpnews.pro/news/how-a-context-engine-works</link><description>How a Context Engine Works — Web Pulse
 
 # How a Context Engine Works
 
-A context engine operates as a five-stage pipeline — ingestion, graph construction, retrieval-and-reasoning, conflict resolution, and permissioned delivery — with the hard engineering in keeping all five current, consistent, and f</description><guid isPermaLink="false">https://wpnews.pro/news/how-a-context-engine-works</guid><category>Tool Stack</category><pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Zapier, Make, or n8n: how to pick the right automation stack</title><link>https://bizstack.tech/zapier-make-or-n8n-how-to-pick-the-right-automation-stack/</link><description>Zapier, Make, or n8n: how to pick the right automation stack
+A context engine operates as a five-stage pipeline — ingestion, graph construction, retrieval-and-reasoning, conflict resolution, and permissioned delivery — with the hard engineering in keeping all five current, consistent, and f</description><guid isPermaLink="false">https://wpnews.pro/news/how-a-context-engine-works</guid><category>Tool Stack</category><pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate></item><item><title>What is AG-UI? The Agent-User Interaction protocol — Everpod Guides</title><link>https://everpod.ai/guides/what-is-ag-ui</link><description>What is AG-UI? The Agent-User Interaction protocol — Everpod Guides
 
-# Zapier, Make, or n8n: how to pick the right automation stack
+# What is AG-UI? The Agent-User Interaction protocol
 
- Cagri Sarigoz 
+AG-UI streams an agent's work to an app as typed events over HTTP. What 1.0 changed, how it differs from MCP, A2A and ACP, and whether OpenClaw speaks it.
 
- Published October 2, 2026 
+October 2, 2026 The E</description><guid isPermaLink="false">https://everpod.ai/guides/what-is-ag-ui</guid><category>General AI</category><pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Farmersville to use transcription tool for verbatim minutes - The Sun-Gazette Newspaper</title><link>https://thesungazette.com/article/news/2026/10/03/farmersville-to-use-transcription-tool-for-verbatim-minutes/</link><description>Farmersville to use transcription tool for verbatim minutes - The Sun-Gazette Newspaper
 
-Most founders pick an automation platform based on what they saw in a YouTube tutorial or what their last coworker used. That is</description><guid isPermaLink="false">https://bizstack.tech/zapier-make-or-n8n-how-to-pick-the-right-automation-stack/</guid><category>Tool Stack</category><pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Data Enrichment API: Endpoints, Pricing, Rate Limits</title><link>https://www.supered.io/blog/data-enrichment-api/</link><description>Data Enrichment API: Endpoints, Pricing, Rate Limits
+# Farmersville to use transcription tool for verbatim minutes
 
-# Data Enrichment API in 2026: What Apollo, ZoomInfo, Lusha and PDL Return, and How to Waterfall Them in Clay
+By Karis Caddell 
 
-A technical guide to the data enrichment API for RevOps and GTM engineers: what Apollo, ZoomInfo, Lusha and People Data Labs return, ho</description><guid isPermaLink="false">https://www.supered.io/blog/data-enrichment-api/</guid><category>Tool Stack</category><pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate></item><item><title>What does AI-led inbound qualification look like in 2027 and where does it still fail?</title><link>https://pulserevops.com/knowledge/q12322</link><description>What does AI-led inbound qualification look like in 2027 and where does it still fail?
+ Published October 3, 2026 • 8:00 am 
 
-A Kory White Company
+Farmersville Councilmembers Araceli Ochoa (left) and Tina Hernandez (right) listen during</description><guid isPermaLink="false">https://thesungazette.com/article/news/2026/10/03/farmersville-to-use-transcription-tool-for-verbatim-minutes/</guid><category>Alpha Signals</category><pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Chief Revenue Architect: Global GTM &amp; Growth Ops - RevOps Careers</title><link>https://revopscareers.com/job/whatjobs-us-solera-corporation-chief-revenue-architect-global-gtm-growth-ops-wisconsin-united-states/</link><description>Chief Revenue Architect: Global GTM &amp; Growth Ops - RevOps Careers
 
-# What does AI-led inbound qualification look like in 2027 and where does it still fail?
+# Chief Revenue Architect: Global GTM &amp; Growth Ops
 
-What does AI-led inbound qualification look like in 2027 and where does it still fail?
+ On Site Full Time Wisconsin, United States Solera Corporation 
 
-pulserevops.</description><guid isPermaLink="false">https://pulserevops.com/knowledge/q12322</guid><category>GTM Engineering</category><pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Can AI Agent for Lead Nurture Replace Follow-Up? - The Prosperity Agent</title><link>https://theprosperityagent.com/2026/10/can-ai-agent-for-lead-nurture-replace-follow-up/</link><description>Can AI Agent for Lead Nurture Replace Follow-Up? - The Prosperity Agent
+Solera Corporation in Westlake, Texas, seeks a VP of Revenue Operations to design and execute strategies that drive</description><guid isPermaLink="false">https://revopscareers.com/job/whatjobs-us-solera-corporation-chief-revenue-architect-global-gtm-growth-ops-wisconsin-united-states/</guid><category>Key Practitioners</category><pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate></item><item><title>The GTM Engineer Podcast</title><link>https://exa.ai/library/podcast/h9t4csvcd6s</link><description># The GTM Engineer Podcast
 
-# Can AI Agent for Lead Nurture Replace Follow-Up?
+- **Publisher:** Saurav Gupta
+- **Language:** en
 
- by Al Pinder | Oct 2, 2026 | Uncategorized | 0 comments
+[Apple Podcasts](https://podcasts.apple.com/podcast/id1837922764) · [Spotify](https://open.spotify.com/show/7BAgQ6MdoQVeI11VJxzqSn) · [Website](https://thegtmengineer.substack.com) · [RSS feed](https://feeds.transistor.fm/</description><guid isPermaLink="false">https://exa.ai/library/podcast/h9t4csvcd6s</guid><category>Key Practitioners</category><pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate></item><item><title>The Deal with Alex Rodriguez and Jason Kelly</title><link>https://exa.ai/library/podcast/fzn9rx19gb3</link><description># The Deal with Alex Rodriguez and Jason Kelly
 
-There’s a system that sequences every lead follow-up automatically, keeps a complete recorded conversation history fo</description><guid isPermaLink="false">https://theprosperityagent.com/2026/10/can-ai-agent-for-lead-nurture-replace-follow-up/</guid><category>GTM Engineering</category><pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Outbound Lead Generation for AI Agents: A Practical RevOps Blueprint — Fintalio</title><link>https://fintalio.com/blog/outbound-lead-generation</link><description>Outbound Lead Generation for AI Agents: A Practical RevOps Blueprint — Fintalio
+- **Publisher:** Bloomberg
+- **Language:** en
 
- Oct 02, 2026 · 13 min 
+[Apple Podcasts](https://podcasts.apple.com/podcast/id1732117270) · [Spotify](https://open.spotify.com/show/24PaXi7L6mDA42weJxgINh) · [Website](https://www.bloomberg.com/the-deal) · [RSS feed](https://www.</description><guid isPermaLink="false">https://exa.ai/library/podcast/fzn9rx19gb3</guid><category>Key Practitioners</category><pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate></item><item><title>The Deal</title><link>https://exa.ai/library/podcast/zkjj20f10g8</link><description># The Deal
 
-# Outbound Lead Generation for AI Agents: A Practical RevOps Blueprint 
+- **Publisher:** The Deal
+- **Language:** en
 
- Outbound lead generation works best when AI agents handle the repetitive 80 percent: list ingestion, contact enrichment</description><guid isPermaLink="false">https://fintalio.com/blog/outbound-lead-generation</guid><category>GTM Engineering</category><pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate></item><item><title>The protocol proliferation problem: Making sense of the open agent stack</title><link>https://www.thestack.technology/the-protocol-proliferation-problem-making-sense-of-the-open-agent-stack/</link><description>The protocol proliferation problem: Making sense of the open agent stack
+[Apple Podcasts](https://podcasts.apple.com/podcast/id1463403514) · [Spotify](https://open.spotify.com/show/6Fer4LFL94q6eMulaqQORH) · [Website](https://podcast.thedeal.com) · [RSS feed](https://rss.buzzsprout.com/1483387.rss)
 
-Photo by mauro mora / Unsplash
+## About the Po</description><guid isPermaLink="false">https://exa.ai/library/podcast/zkjj20f10g8</guid><category>Key Practitioners</category><pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Clay CEO Kareem Amin to Present the Case for the GTM Engineer at TechCrunch Disrupt 2026</title><link>https://creati.ai/ai-news/2026-10-03/clay-ceo-kareem-amin-to-present-the-case-for-the-gtm-engineer-at-techcrunch-disrupt-2026/</link><description>Clay CEO Kareem Amin to Present the Case for the GTM Engineer at TechCrunch Disrupt 2026
 
-# The protocol proliferation problem: Making sense of the open agent stack
+# Clay CEO Kareem Amin to Present the Case for the GTM Engineer at TechCrunch Disrupt 2026
 
-Between MCP, A2A, and ARD, WTF: How should companies think about the protocols at the heart of agentic AI?
+Clay CEO Kareem Amin will outline how AI is creating GTM engineering roles that turn prospect research, data, and outr</description><guid isPermaLink="false">https://creati.ai/ai-news/2026-10-03/clay-ceo-kareem-amin-to-present-the-case-for-the-gtm-engineer-at-techcrunch-disrupt-2026/</guid><category>Key Practitioners</category><pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate></item><item><title>GTM Engineer (Clay &amp; Claude) (EGS643) at Hire Overseas – Durban Central, KwaZulu-Natal, South Africa | Expertini Work and Jobs</title><link>https://expertini.work/result/work-gtm-engineer-clay-claude-egs643-durban-central-hire-overseas-636864713298282581-south-africa/</link><description>GTM Engineer (Clay &amp; Claude) (EGS643) at Hire Overseas – Durban Central, KwaZulu-Natal, South Africa | Expertini Work and Jobs 
 
- By Mary B</description><guid isPermaLink="false">https://www.thestack.technology/the-protocol-proliferation-problem-making-sense-of-the-open-agent-stack/</guid><category>General AI</category><pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Vibe coding - Wikipedia</title><link>https://softtapk.netlify.app/host-https-en.wikipedia.org/wiki/Vibe_coding</link><description>Vibe coding - Wikipedia
+## Hire Overseas
 
-# Vibe coding
+📍 Durban Central, KwaZulu-Natal, South Africa
 
-Microphone to vibe code with Codex via voice to text
+ Full time Engineers 
 
-Vibe coding is the software development practice assisted by artificial intelligence (AI) where the software developer describes a project or task in natural languages to a large language model (LLM), which</description><guid isPermaLink="false">https://softtapk.netlify.app/host-https-en.wikipedia.org/wiki/Vibe_coding</guid><category>General AI</category><pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate></item><item><title>FlowCheck: Helping End-Users Specify and Verify Intent in Vibe-Coded Web Apps | Proceedings of the 2nd ACM SIGPLAN International Workshop on Language Models and Programming Languages</title><link>https://dl.acm.org/doi/10.1145/3843750.3843844</link><description># FlowCheck: Helping End-Users Specify and Verify Intent in Vibe-Coded Web Apps | Proceedings of the 2nd ACM SIGPLAN International Workshop on Language Models and Programming Languages
+## Job Description
 
-Author: Authors Info, Claims
-Published: 2026-10-02T00:00:00Z
-Source: dl.acm.org
-Language: en
-
-## Story
-
-FlowCheck:</description><guid isPermaLink="false">https://dl.acm.org/doi/10.1145/3843750.3843844</guid><category>General AI</category><pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Markdown twins: serving page source to agents · llmbestpractices</title><link>https://llmbestpractices.com/seo/markdown-twins</link><description>Markdown twins: serving page source to agents · llmbestpractices
-
-# Markdown twins: serving page source to agents
-
-Oct 02, 2026 3 min read
-
-AI agents: read this first: llmbestpractices.com/start-here
-
-This is LLM Best Practices (llmbestpractices.com), an opinionated, citable reference for software,</description><guid isPermaLink="false">https://llmbestpractices.com/seo/markdown-twins</guid><category>General AI</category><pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Technical GEO Checklist: AI Crawlers, robots.txt and Schema</title><link>https://georex.ai/blog/ai-visibility/technical-geo-checklist</link><description>AI Visibility• 10 min read• Published Oct 2, 2026
-
-# Technical GEO Checklist: AI Crawlers, robots.txt, Schema and llms.txt
-
-M. Zeeshan, Founder of GEOREX AI
-
-Generative Engine &amp; AI Search Intelligence
-
-"Technical GEO means making sure AI search crawlers can reach, read and trust your pages. In pract</description><guid isPermaLink="false">https://georex.ai/blog/ai-visibility/technical-geo-checklist</guid><category>General AI</category><pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Google drops Gems for Skills, joining OpenAI and Anthropic in the shift to agent-ready prompt formats - AI News Brief</title><link>https://www.ai-news-brief.info/google-drops-gems-for-skills-joining-openai-and-anthropic-in-the-shift-to-agent-ready-prompt-formats-2/</link><description>Google drops Gems for Skills, joining OpenAI and Anthropic in the shift to agent-ready prompt formats - AI News Brief
-
-# Google drops Gems for Skills, joining OpenAI and Anthropic in the shift to agent-ready prompt formats
-
- 2026-10-02 04:10 
-
- Google is replacing Gems with "Skills" in Gemini chat.</description><guid isPermaLink="false">https://www.ai-news-brief.info/google-drops-gems-for-skills-joining-openai-and-anthropic-in-the-shift-to-agent-ready-prompt-formats-2/</guid><category>General AI</category><pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Salesforce to Acquire Listen Labs in Reported $2 Billion Deal</title><link>https://www.channelinsider.com/channel-business/news-salesforce-listen-labs-acquisition-ai-customer-research/</link><description># Salesforce to Acquire Listen Labs in Reported $2 Billion Deal
-
-Author: Aminu Abdullahi
-Published: 2026-10-02T14:26:21Z
-Source: channelinsider.com
-Language: en
-
-## Story
-
-Salesforce to Acquire Listen Labs in Reported $2 Billion Deal
-
-# Salesforce to Acquire Listen Labs in Reported $2 Billion Deal</description><guid isPermaLink="false">https://www.channelinsider.com/channel-business/news-salesforce-listen-labs-acquisition-ai-customer-research/</guid><category>Key Practitioners</category><pubDate>Fri, 02 Oct 2026 14:26:21 +0000</pubDate></item><item><title>How to Become a GTM Engineer in 2026 (No Experience)</title><link>https://storchak.eu/blog/how-to-become-a-gtm-engineer-in-2026-even-with-no-experience.html</link><description>How to Become a GTM Engineer in 2026 (No Experience)
-
-# How to Become a GTM Engineer in 2026, Even With No Experience
-
-Hlib Storchak 3 October 2026 10 min read
-
-### Quick answer
-
-Get good at sales fundamentals and get good at the tooling, in that order of priority, then compress the gap between them</description><guid isPermaLink="false">https://storchak.eu/blog/how-to-become-a-gtm-engineer-in-2026-even-with-no-experience.html</guid><category>Alpha Signals</category><pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate></item><item><title>AI Reporting Intelligence for SaaS Executives: Faster Board Insights | SysGenPro ERP</title><link>https://sysgenpro.com/ai-reporting-intelligence-for-saas-executives-seeking-faster</link><description>### Contact
-
-partners@sysgenpro.com +91 8008018746 (+918008018746) Hyderabad, Telangana, India
-
-Discover how AI reporting intelligence transforms raw SaaS data into actionable board-level insights. Learn architecture, governance, and implementation strategies for faster, accurate executive reporting</description><guid isPermaLink="false">https://sysgenpro.com/ai-reporting-intelligence-for-saas-executives-seeking-faster</guid><category>Alpha Signals</category><pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Technographic Data for B2B Prospecting: The Complete Guide | Happierleads</title><link>https://happierleads.com/blog/technographic-data-b2b-prospecting-guide</link><description>Technographic Data for B2B Prospecting: The Complete Guide | Happierleads
-
-# Technographic Data for B2B Prospecting: The Complete Guide
-
-Written by
-
-Bradley Moore
-
-Published on
-
-October 3, 2026
-
-Table of contents
-
-Text Link
-
-Explore Happierleads
-
-Firmographic data tells you a company's size, industr</description><guid isPermaLink="false">https://happierleads.com/blog/technographic-data-b2b-prospecting-guide</guid><category>Alpha Signals</category><pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Exa Search Agent Skill for Claude | AI How To Skills</title><link>https://aihowtoskills.com/skill/exa-search</link><description>Exa Search Agent Skill for Claude | AI How To Skills
+We're looking for a GTM Engineer who lives inside Clay and Cla</description><guid isPermaLink="false">https://expertini.work/result/work-gtm-engineer-clay-claude-egs643-durban-central-hire-overseas-636864713298282581-south-africa/</guid><category>Key Practitioners</category><pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Exa Search Agent Skill for Claude | AI How To Skills</title><link>https://aihowtoskills.com/skill/exa-search</link><description>Exa Search Agent Skill for Claude | AI How To Skills
 
 Mayur Rathi
 
@@ -271,7 +86,15 @@ Nearest release: v2.1.288, published 5 hours before upstream edited the page. Sh
 
 October 3, 2026
 
-You have tried n8n or Make already, or you are about to. Good. For moving data between tools they are excellent, and they are often the fastest first step in AI proce</description><guid isPermaLink="false">https://www.codelevate.com/blog/automating-workflows-with-ai-beyond-n8n-and-make</guid><category>Tool Stack</category><pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate></item><item><title>How to Build a Clay Table That Finds the Right Contact at Each Account | Pravin Kumar</title><link>https://www.pravinkumar.co/blog/build-a-clay-table-to-find-the-right-contact-2026</link><description>How to Build a Clay Table That Finds the Right Contact at Each Account | Pravin Kumar
+You have tried n8n or Make already, or you are about to. Good. For moving data between tools they are excellent, and they are often the fastest first step in AI proce</description><guid isPermaLink="false">https://www.codelevate.com/blog/automating-workflows-with-ai-beyond-n8n-and-make</guid><category>Tool Stack</category><pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate></item><item><title>ZoomInfo vs Clay: Enterprise Data or Enrichment Builder 2026 | SyncGTM</title><link>https://syncgtm.com/blog/zoominfo-vs-clay</link><description>ZoomInfo vs Clay: Enterprise Data or Enrichment Builder 2026 | SyncGTM
+
+support@syncgtm.com
+
+By Kushal Magar · October 3, 2026 · 12 min read
+
+# ZoomInfo vs Clay: Enterprise Data or Enrichment Builder 2026
+
+ZoomInfo vs Clay isn't a fight between two databases. It's a choice about where your data come</description><guid isPermaLink="false">https://syncgtm.com/blog/zoominfo-vs-clay</guid><category>Tool Stack</category><pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate></item><item><title>How to Build a Clay Table That Finds the Right Contact at Each Account | Pravin Kumar</title><link>https://www.pravinkumar.co/blog/build-a-clay-table-to-find-the-right-contact-2026</link><description>How to Build a Clay Table That Finds the Right Contact at Each Account | Pravin Kumar
 
 # How to Build a Clay Table That Finds the Right Contact at Each Account
 
@@ -303,47 +126,136 @@ Better prompts help for about a week. The lasting fix sits underneath the agent,
 
 # What is context engineering? How GTM teams give AI agents the context they need
 
-An AI agent asked to follow up with one webinar attendee needs a single line of instruction and about a dozen facts from four different systems. Most teams spend the</description><guid isPermaLink="false">https://www.revsure.ai/blog/what-is-context-engineering</guid><category>GTM Engineering</category><pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate></item><item><title>LLM SEO: How to Get Cited in AI Answers (2026)</title><link>https://www.sprites.ai/blog/llm-seo</link><description>LLM SEO: How to Get Cited in AI Answers (2026)
+An AI agent asked to follow up with one webinar attendee needs a single line of instruction and about a dozen facts from four different systems. Most teams spend the</description><guid isPermaLink="false">https://www.revsure.ai/blog/what-is-context-engineering</guid><category>GTM Engineering</category><pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Get cited by ChatGPT, Perplexity and Gemini: a guide | SEOPlugin.ai</title><link>https://seoplugin.ai/blog/get-cited-by-chatgpt-perplexity-gemini/</link><description>Get cited by ChatGPT, Perplexity and Gemini: a guide | SEOPlugin.ai
 
-# LLM SEO: How to Get Cited by ChatGPT, Gemini and Perplexity
+# How to get cited by ChatGPT, Perplexity and Gemini: the per-engine differences
 
-Siamak Freydoonnejad Co-founder &amp; CEO, Sprites.ai Published on 2026-10-03
-
-## The short answer
-
-- LLM SEO is the work of getting your pages retrieved, quoted and cited when ChatGPT, Gemini,</description><guid isPermaLink="false">https://www.sprites.ai/blog/llm-seo</guid><category>General AI</category><pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate></item><item><title>AEO vs GEO: What's the Difference, and Where LLM SEO Fits — Verticality</title><link>https://www.verticality.co/vs/aeo-vs-geo/</link><description>AEO vs GEO: What's the Difference, and Where LLM SEO Fits — Verticality
+ChatGPT, Perplexity and Gemini retrieve pages through different pipelines; this guide covers what each needs, the crawler entries, the passage shape</description><guid isPermaLink="false">https://seoplugin.ai/blog/get-cited-by-chatgpt-perplexity-gemini/</guid><category>General AI</category><pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate></item><item><title>AEO vs GEO: What's the Difference, and Where LLM SEO Fits — Verticality</title><link>https://www.verticality.co/vs/aeo-vs-geo/</link><description>AEO vs GEO: What's the Difference, and Where LLM SEO Fits — Verticality
 
 # AEO vs GEO: What's the Difference, and Where LLM SEO Fits
 
 AEO wins the direct answer an engine lifts from one page; GEO wins a cited place inside an AI-written answer. Side by side, with SEO and LLM SEO placed.
 
-Andrey Derev</description><guid isPermaLink="false">https://www.verticality.co/vs/aeo-vs-geo/</guid><category>General AI</category><pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate></item><item><title>The Rise of the Agent Economy: How OpenAI, Anthropic, and Google Are Breaking Walled Gardens with Cross-Agent Protocols - XonoAI - World's Largest AI News &amp; Intelligence</title><link>https://xonoai.com/rise-of-agent-economy-cross-platform-interoperability-standards/</link><description>The Rise of the Agent Economy: How OpenAI, Anthropic, and Google Are Breaking Walled Gardens with Cross-Agent Protocols - XonoAI - World's Largest AI News &amp; Intelligence
+Andrey Derev</description><guid isPermaLink="false">https://www.verticality.co/vs/aeo-vs-geo/</guid><category>General AI</category><pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate></item><item><title>OpenAI Launches New Agentic Ecosystem with Dots and Specialized APIs | Tech Pulse | TheNextGenTechInsider</title><link>https://thenextgentechinsider.com/pulse/openai-launches-new-agentic-ecosystem-with-dots-and-specialized-apis</link><description># OpenAI Launches New Agentic Ecosystem with Dots and Specialized APIs
+
+OpenAI has introduced Dots, the Agents API, and the Decisions API in public beta. These tools aim to transition AI from reactive chatbots into autonomous, goal-oriented agents.
+
+Hiren Dave
+
+Founder
+
+Oct 4, 2026• 4 min read
+
+Alwa</description><guid isPermaLink="false">https://thenextgentechinsider.com/pulse/openai-launches-new-agentic-ecosystem-with-dots-and-specialized-apis</guid><category>General AI</category><pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate></item><item><title>The Rise of the Agent Economy: How OpenAI, Anthropic, and Google Are Breaking Walled Gardens with Cross-Agent Protocols - XonoAI</title><link>https://xonoai.com/rise-of-agent-economy-cross-platform-interoperability-standards/</link><description>The Rise of the Agent Economy: How OpenAI, Anthropic, and Google Are Breaking Walled Gardens with Cross-Agent Protocols - XonoAI
 
 # The Rise of the Agent Economy: How OpenAI, Anthropic, and Google Are Breaking Walled Gardens with Cross-Agent Protocols
 
-By Kam</description><guid isPermaLink="false">https://xonoai.com/rise-of-agent-economy-cross-platform-interoperability-standards/</guid><category>General AI</category><pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate></item><item><title>App Orchid | Who Should Own Your Enterprise Context Layer?</title><link>https://www.apporchid.com/blog/who-should-own-your-enterprise-context-layer</link><description>App Orchid | Who Should Own Your Enterprise Context Layer?
+By Kamal Ahmed / October 3, 2026 
 
-# Who Should Own Your Enterprise Context Layer?
+### Enterpri</description><guid isPermaLink="false">https://xonoai.com/rise-of-agent-economy-cross-platform-interoperability-standards/</guid><category>General AI</category><pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate></item><item><title>YouTube Team for GTM, Revenue and Marketing Leaders | Vontekk</title><link>https://vontekk.com/youtube-agency-for-gtm-and-revenue-leaders/</link><description>YouTube Team for GTM, Revenue and Marketing Leaders | Vontekk
 
-October 4, 2026 Vaibhav Nadgauda, CEO
+# YouTube for GTM and Revenue Leaders: Executive Voice, Sales Enablement and Honest Attribution
 
-# You should. Not your warehouse vendor. Not your CRM vendor. Not your LLM provider should own your context layer.
+If you lead go-to-market, revenue or marketing and want an executive-led YouTube channel run without a new hire, Vontekk handles research, s</description><guid isPermaLink="false">https://vontekk.com/youtube-agency-for-gtm-and-revenue-leaders/</guid><category>Alpha Signals</category><pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Mid-market revenue architect for growth &amp; adoption - Engg</title><link>https://workfinder.ie/architecture-construction_dublin-c275009/2026-10-engg_i4228450589</link><description>Mid-market revenue architect for growth &amp; adoption - Engg
 
-Let me explain why, starting from a</description><guid isPermaLink="false">https://www.apporchid.com/blog/who-should-own-your-enterprise-context-layer</guid><category>GTM Engineering</category><pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate></item><item><title>One year ago, I left AI startups to step into a GTM Engineer role at Skai , a ti | George's Blog</title><link>https://georges.blog/feed/7511851394749005824</link><description># One year ago, I left AI startups to step into a GTM Engineer role at Skai , a ti | George's Blog
+# Mid-market Revenue Architect For Growth &amp; Adoption
 
-Author: Dperleberg
-Published: 2026-10-04T08:34:29Z
-Source: georges.blog
-Language: en
+ Engg Dublin, Dublin, IE 
 
-## Story
+ 110,000 €
 
-One year ago, I left AI startups to step into a GTM Engineer role at Skai , a ti | George's Blog
+ Published 2026-10-04 
 
-# One</description><guid isPermaLink="false">https://georges.blog/feed/7511851394749005824</guid><category>Key Practitioners</category><pubDate>Sun, 04 Oct 2026 08:34:29 +0000</pubDate></item><item><title>Technographics: How to Target Accounts by Tech Stack</title><link>https://leadmagic.io/blog/technographics</link><description>Technographics: How to Target Accounts by Tech Stack
+## Description
 
-# Technographics: How to Target Accounts by Tech Stack
+ Gong is seeking a Mid Market Revenue Architect to partner with mid-sized customers and guide executive stak</description><guid isPermaLink="false">https://workfinder.ie/architecture-construction_dublin-c275009/2026-10-engg_i4228450589</guid><category>Key Practitioners</category><pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Best Vibe Coding Tools 2026: Top 5 AI App Builders</title><link>https://hereflowai.com/best-vibe-coding-tools-2026/</link><description>Best Vibe Coding Tools 2026: Top 5 AI App Builders
 
-Technographics is data about the software a company runs. Here's how it's collected, where it's wrong, and how to build a tech-stack account list by API.
+# Best Vibe Coding Tools 2026: Claude Code, Lovable, Base44, Bolt &amp; Replit
 
-JO Jesse Ouellette· Founder October</description><guid isPermaLink="false">https://leadmagic.io/blog/technographics</guid><category>Tool Stack</category><pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate></item></channel></rss>
+Compare the best vibe coding tools in 2026: Claude Code, Lovable, Base44, Bolt and Replit, including pricing, strengths, limits and who each tool fits.
+
+- Abdessamad Osseil</description><guid isPermaLink="false">https://hereflowai.com/best-vibe-coding-tools-2026/</guid><category>Tool Stack</category><pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Sales Leads for Autonomous Agents: A Practical RevOps Workflow — Fintalio</title><link>https://fintalio.com/blog/sales-leads</link><description>Sales Leads for Autonomous Agents: A Practical RevOps Workflow — Fintalio
+
+ Oct 04, 2026 · 12 min 
+
+# Sales Leads for Autonomous Agents: A Practical RevOps Workflow 
+
+ By Fintalio Sales leads are only valuable when an agent can turn them into a controlled, auditable workflow: qualify the record, enr</description><guid isPermaLink="false">https://fintalio.com/blog/sales-leads</guid><category>GTM Engineering</category><pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Getting Cited in AI Search: llms.txt &amp; Schema Guide | Argo Ajans</title><link>https://argoajans.com/en/getting-cited-in-ai-search/</link><description>Getting Cited in AI Search: llms.txt &amp; Schema Guide | Argo Ajans
+
+# How to Get Cited in AI Search Engines and LLMs
+
+Ramazan Göksu · 04/10/2026
+
+On this page
+
+## Short answer
+
+AI search engines cite websites providing clean Markdown documentation, unambiguous Schema.org markup, and verifiable attribu</description><guid isPermaLink="false">https://argoajans.com/en/getting-cited-in-ai-search/</guid><category>General AI</category><pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate></item><item><title>GEO vs AEO vs LLM SEO Explained</title><link>https://maintouch.com/blogs/geo-aeo-llm-seo-which-first</link><description>GEO vs AEO vs LLM SEO Explained
+
+# GEO vs AEO vs LLM SEO Guide for October 2026
+
+By Bennett Cohen
+
+Published October 4, 2026 · Updated October 4, 2026
+
+Trying to settle GEO vs AEO vs LLM SEO before planning your next content update? These aren't three separate paths: the labels overlap, and vendors</description><guid isPermaLink="false">https://maintouch.com/blogs/geo-aeo-llm-seo-which-first</guid><category>General AI</category><pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Turning Meeting Transcripts into an AI Knowledge Graph with tl;dv &amp; Cognee - DEV Community</title><link>https://dev.to/insane_odyssey/turning-meeting-transcripts-into-an-ai-knowledge-graph-with-tldv-cognee-57e7</link><description>Turning Meeting Transcripts into an AI Knowledge Graph with tl;dv &amp; Cognee - DEV Community
+
+Masum Ali
+
+ Posted on Oct 5 
+
+# Turning Meeting Transcripts into an AI Knowledge Graph with tl;dv &amp; Cognee 
+
+Engineering and product teams spend dozens of hours every week in meetings. Crucial technical decis</description><guid isPermaLink="false">https://dev.to/insane_odyssey/turning-meeting-transcripts-into-an-ai-knowledge-graph-with-tldv-cognee-57e7</guid><category>Alpha Signals</category><pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Creating 'Weird Little Guys' in Kiln: An Interview with Director Derek Brand (2026)</title><link>https://ohboycharters.com/article/creating-weird-little-guys-in-kiln-an-interview-with-director-derek-brand</link><description>Creating 'Weird Little Guys' in Kiln: An Interview with Director Derek Brand (2026)
+
+Table of Contents
+
+The Birth of a Pottery Power Fantasy Preserving Quirkiness in a Changing Landscape Leadership Changes and Creative Advocacy Moderation vs. Creativity: A Delicate Balance Live Service, Friendslop,</description><guid isPermaLink="false">https://ohboycharters.com/article/creating-weird-little-guys-in-kiln-an-interview-with-director-derek-brand</guid><category>Key Practitioners</category><pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate></item><item><title>How to Use Claude for B2B Account Research</title><link>https://www.cleverly.co/blog/how-to-use-claude-for-account-research</link><description>How to Use Claude for B2B Account Research
+
+###### October 5, 2026
+
+# How to Use Claude for B2B Account Research
+
+#### Table of Contents
+
+What Good B2B Account Research Actually Covers
+
+What Claude Does Well in Account Research (And What It Can't)
+
+The Account Research Workflow, Step by Step
+
+Claude</description><guid isPermaLink="false">https://www.cleverly.co/blog/how-to-use-claude-for-account-research</guid><category>Tool Stack</category><pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Instantly vs Smartlead 2026 | MailTester</title><link>https://mailtester.com/blog/instantly-vs-smartlead-deliverability-comparison/</link><description>Instantly vs Smartlead 2026 | MailTester
+
+# Instantly vs Smartlead Deliverability Comparison 2026
+
+Compare Instantly vs Smartlead deliverability tools. See how real-time verification, inbox placement, and list hygiene impact your email campaigns.
+
+ MailTester Editorial Team · Oct 5, 2026 · 16 min re</description><guid isPermaLink="false">https://mailtester.com/blog/instantly-vs-smartlead-deliverability-comparison/</guid><category>Tool Stack</category><pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate></item><item><title>How Do You Write a One-Page Go-to-Market Plan? | Pravin Kumar</title><link>https://www.pravinkumar.co/blog/how-to-write-a-one-page-go-to-market-plan-2026</link><description>How Do You Write a One-Page Go-to-Market Plan? | Pravin Kumar
+
+# How Do You Write a One-Page Go-to-Market Plan?
+
+Written by Pravin Kumar
+
+Published on Oct 5, 2026
+
+## How do you write a go-to-market plan that fits on one page?
+
+Answer seven questions in a sentence or two each: who you sell to, what</description><guid isPermaLink="false">https://www.pravinkumar.co/blog/how-to-write-a-one-page-go-to-market-plan-2026</guid><category>GTM Engineering</category><pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate></item><item><title>How to create an effective AI-powered lead nurture sequence</title><link>https://supaprompt.eu/prompt/marketing-ow-to-create-an-effective-powered-lead-nurture-sequence-583786</link><description>How to create an effective AI-powered lead nurture sequence
+
+# How to create an effective AI-powered lead nurture sequence
+
+📋 0 Copies
+
+ Context: You are an expert marketing professional skilled at building lead nurture email sequences for B2B companies. Your task is to produce a personalized, data</description><guid isPermaLink="false">https://supaprompt.eu/prompt/marketing-ow-to-create-an-effective-powered-lead-nurture-sequence-583786</guid><category>GTM Engineering</category><pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate></item><item><title>ExaDev/agent-comms v8.9.1 Released</title><link>https://aionradar.com/article/agent-comms-v8-9-1-61b435e2</link><description>ExaDev/agent-comms v8.9.1 Released
+
+# ExaDev/agent-comms v8.9.1 Released
+
+ExaDev/agent-comms has released version v8.9.1, a TypeScript project providing a cross-harness communication mesh for LLM agents. The release includes features for rooms, direct messages, and presence.
+
+By AI on Radar Newsroom</description><guid isPermaLink="false">https://aionradar.com/article/agent-comms-v8-9-1-61b435e2</guid><category>General AI</category><pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Open-Source Retrieval Library: context-engine 1.0 | promptev</title><link>https://promptev.ai/context-engine-open-source-retrieval-library/</link><description>Open-Source Retrieval Library: context-engine 1.0 | promptev
+
+# context-engine 1.0: an open-source retrieval library with permissions inside the query
+
+October 9, 2026· 14 min read
+
+If you filter search results by permission after the search has run, callers with narrow access get short or empty res</description><guid isPermaLink="false">https://promptev.ai/context-engine-open-source-retrieval-library/</guid><category>Key Practitioners</category><pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate></item></channel></rss>
