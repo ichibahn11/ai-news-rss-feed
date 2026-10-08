@@ -1,22 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>GTM Intelligence Feed</title><link>https://ichibahn11.github.io/ai-news-rss-feed/</link><description>Daily AI and GTM engineering signals curated for the team</description><atom:link href="https://ichibahn11.github.io/ai-news-rss-feed/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://ichibahn11.github.io/ai-news-rss-feed/favicon.png</url><title>GTM Intelligence Feed</title><link>https://ichibahn11.github.io/ai-news-rss-feed/</link></image><language>en</language><lastBuildDate>Wed, 07 Oct 2026 17:37:52 +0000</lastBuildDate><item><title>Operator-Memory: Self-Improving Context Engine for AI Coding Agents | AISignal</title><link>https://www.aisignal.dev/analysis/aerovato-operator-memory</link><description>Operator-Memory: Self-Improving Context Engine for AI Coding Agents | AISignal
-
-# Operator-Memory: Self-Improving Context Engine for AI Coding Agents 
-
- aerovato/operator-memory · Updated 2026-10-05T04:00:15.174Z 
-
- Trend 65 Stars 372 Weekly +4 
-
-## Summary
-
-Operator-Memory is a TypeScript-built con</description><guid isPermaLink="false">https://www.aisignal.dev/analysis/aerovato-operator-memory</guid><category>Key Practitioners</category><pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Recommended by AI: The New Rules of Lead Generation Review | James Dooley Interviews Paul Truscott</title><link>https://exa.ai/library/podcast/grjbckj6nrb/episode/tdrzxf30k23</link><description># Recommended by AI: The New Rules of Lead Generation Review | James Dooley Interviews Paul Truscott
-
-- **Podcast:** [James Dooley Podcast](https://exa.ai/library/podcast/grjbckj6nrb)
-- **Published:** 2026-10-05T05:35:59+00:00
-- **Duration:** 07:11.256
-- **Language:** en
-- **Episode:** 659
-- **Hosts</description><guid isPermaLink="false">https://exa.ai/library/podcast/grjbckj6nrb/episode/tdrzxf30k23</guid><category>Tool Stack</category><pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate></item><item><title>ICP Research with AI: Tavily, Exa and MVP Test Markets</title><link>https://headcore.digital/en/icp-research-with-ai</link><description>ICP Research with AI: Tavily, Exa and MVP Test Markets
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>GTM Intelligence Feed</title><link>https://ichibahn11.github.io/ai-news-rss-feed/</link><description>Daily AI and GTM engineering signals curated for the team</description><atom:link href="https://ichibahn11.github.io/ai-news-rss-feed/feed.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://ichibahn11.github.io/ai-news-rss-feed/favicon.png</url><title>GTM Intelligence Feed</title><link>https://ichibahn11.github.io/ai-news-rss-feed/</link></image><language>en</language><lastBuildDate>Thu, 08 Oct 2026 17:40:26 +0000</lastBuildDate><item><title>ICP Research with AI: Tavily, Exa and MVP Test Markets</title><link>https://headcore.digital/en/icp-research-with-ai</link><description>ICP Research with AI: Tavily, Exa and MVP Test Markets
 
 # ICP Research with AI: How We Find the Ideal Customer and the MVP Test Market
 
@@ -28,115 +11,11 @@ Author
 
  17 articles published Website 
 
-ICP research with AI means using automated search tools to find out, with sources, who</description><guid isPermaLink="false">https://headcore.digital/en/icp-research-with-ai</guid><category>Tool Stack</category><pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Instantly vs Smartlead 2026 | MailTester</title><link>https://mailtester.com/blog/instantly-vs-smartlead-deliverability-comparison/</link><description>Instantly vs Smartlead 2026 | MailTester
+ICP research with AI means using automated search tools to find out, with sources, who</description><guid isPermaLink="false">https://headcore.digital/en/icp-research-with-ai</guid><category>Tool Stack</category><pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Smartlead vs Instantly vs Lemlist: Which Cold Email Sending Platform Fits Your Outbound Motion | Vendisys</title><link>https://vendisys.com/blog/smartlead-vs-instantly-vs-lemlist-cold-email-platform-comparison/</link><description>Smartlead vs Instantly vs Lemlist Compared | Vendisys
 
-# Instantly vs Smartlead Deliverability Comparison 2026
+# Smartlead vs Instantly vs Lemlist: Which Cold Email Sending Platform Fits Your Outbound Motion
 
-Compare Instantly vs Smartlead deliverability tools. See how real-time verification, inbox placement, and list hygiene impact your email campaigns.
-
- MailTester Editorial Team · Oct 5, 2026 · 16 min re</description><guid isPermaLink="false">https://mailtester.com/blog/instantly-vs-smartlead-deliverability-comparison/</guid><category>Tool Stack</category><pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Model Context Protocol (MCP): AI Agents Guide | Wasim Arshad</title><link>https://imwasim.com/blog/model-context-protocol-mcp-introduction/</link><description>Model Context Protocol (MCP): AI Agents Guide | Wasim Arshad
-
-# Model Context Protocol (MCP): The Missing Link for AI Agents
-
-A visual and technical guide to Model Context Protocol, AI agents, MCP clients and servers, tool calling, context engineering, and secure AI automation.
-
-By Muhammad Wasim Ar</description><guid isPermaLink="false">https://imwasim.com/blog/model-context-protocol-mcp-introduction/</guid><category>Tool Stack</category><pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate></item><item><title>n8n vs Make (2026): Pricing, Features, Which to Choose</title><link>https://www.waqarsyar.com/blog/n8n-vs-make/</link><description>n8n vs Make (2026): Pricing, Features, Which to Choose
-
-# n8n vs Make: Which Automation Tool Should You Choose?
-
-A fair n8n vs Make comparison for small businesses: how each one bills (executions vs credits), ease of use, branching, error handling, AI agents, hosting, and which fits your workflows.</description><guid isPermaLink="false">https://www.waqarsyar.com/blog/n8n-vs-make/</guid><category>Tool Stack</category><pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Why Coding Agents Work and Go-to-Market Agents Don’t (Yet)</title><link>https://tech.yahoo.com/ai/claude/articles/why-coding-agents-market-agents-170000269.html</link><description>Why Coding Agents Work and Go-to-Market Agents Don’t (Yet)
-
-# Why Coding Agents Work and Go-to-Market Agents Don’t (Yet)
-
-Entrepreneur
-
-Henry Schuck
-
-Mon, October 5, 2026 at 1:00 PM UTC
-
-View larger image
-
-Andriy Onufriyenko | Getty Images
-
-Entrepreneur Media LLC and Yahoo Finance LLC may earn commi</description><guid isPermaLink="false">https://tech.yahoo.com/ai/claude/articles/why-coding-agents-market-agents-170000269.html</guid><category>GTM Engineering</category><pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Enrichment Waterfall Architecture: A Provider-Agnostic Layer</title><link>https://vandfort.com/enrichment-waterfall-architecture-provider-agnostic-data-layer-vendor-changes/</link><description>Enrichment Waterfall Architecture: A Provider-Agnostic Layer
-
-5 October 2026 Mauricio Varela 12 min read
-
-# Only 17% of Teams Contract-Test Their APIs: Enrichment Waterfalls and the Provider-Agnostic Data Layer That Doesn't Break When Vendors Change
-
-In short
-
-An enrichment waterfall calls providers</description><guid isPermaLink="false">https://vandfort.com/enrichment-waterfall-architecture-provider-agnostic-data-layer-vendor-changes/</guid><category>GTM Engineering</category><pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate></item><item><title>The Technology Leader’s Primer For Context Engineering And ContextOps | Forrester</title><link>https://www.forrester.com/report/the-technology-leaders-primer-for-context-engineering-and-contextops/RES202779</link><description>The Technology Leader’s Primer For Context Engineering And ContextOps | Forrester
-
-## Build And Operate Trusted Context For Agentic AI
-
-Charlie Dai,
-
-Leslie Joseph,
-
-Indranil Bandyopadhyay,
-
-and 
-
- Oct 5, 2026 
-
-### Summary
-
-Agentic AI is shifting enterprise AI from static question-and-answer intera</description><guid isPermaLink="false">https://www.forrester.com/report/the-technology-leaders-primer-for-context-engineering-and-contextops/RES202779</guid><category>GTM Engineering</category><pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate></item><item><title>A2A protocol: how to design an agent API other agents can call · Adamarant</title><link>https://adamarant.com/en/blog/a2a-protocol-how-to-design-an-agent-api-other-agents-can-call</link><description>A2A protocol: how to design an agent API other agents can call · Adamarant
-
-# A2A protocol: how to design an agent API other agents can call
-
-A2A v1.0 shipped in March 2026. Six design steps for an A2A server: Agent Card, outcome skills, eight task states, bindings, per-call auth, versions.
-
-October</description><guid isPermaLink="false">https://adamarant.com/en/blog/a2a-protocol-how-to-design-an-agent-api-other-agents-can-call</guid><category>General AI</category><pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Agent to Agent Protocol (A2A) Explained | Farasat Ali</title><link>https://www.farasat.me/blog/agent-to-agent-protocol</link><description>Agent to Agent Protocol (A2A) Explained | Farasat Ali
-
-# Agent to Agent Protocol (A2A): What It Is, How It Differs from MCP and Whether You Need It
-
-The agent to agent protocol (A2A) lets one agent hand a task to another over a standard interface: agent cards, tasks and messages. How it differs from</description><guid isPermaLink="false">https://www.farasat.me/blog/agent-to-agent-protocol</guid><category>General AI</category><pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Vibe Coding Guide: From AI Prototype to Production Code</title><link>https://www.rlogical.com/blog/vibe-coding-ai-prototype-to-production/</link><description>Vibe Coding Guide: From AI Prototype to Production Code
-
-# Vibe Coding: From AI Prototype to Production-Ready Software
-
-#### Jatin Panchal
-
-Managing Director
-
-Published on 05 October, 2026
-
- | Last Updated on 05 October, 2026 
-
-Published on 05 October, 2026
-
- | Last Updated on 05 October, 2026 
-
-Sof</description><guid isPermaLink="false">https://www.rlogical.com/blog/vibe-coding-ai-prototype-to-production/</guid><category>General AI</category><pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate></item><item><title>AI 101 — What is vibe coding?</title><link>https://aimidday.com/ai-101-what-is-vibe-coding/</link><description>AI 101 — What is vibe coding?
-
-# AI 101 — What is vibe coding?
-
-#### Editorial
-
-05 Oct 2026— 3 min read
-
-Vibe coding is writing software by describing what you want in plain language and letting an AI write the code — while you judge the result by whether it works, not by reading every line. Andrej</description><guid isPermaLink="false">https://aimidday.com/ai-101-what-is-vibe-coding/</guid><category>General AI</category><pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate></item><item><title>AI Search Optimization: The Complete 2026 Guide | GeoAura</title><link>https://geoaura.world/blog/ai-search-optimization</link><description>AI Search Optimization: The Complete 2026 Guide | GeoAura
-
-# AI Search Optimization: The Complete 2026 Guide
-
-Updated October 2026: AI search optimization is the practice of structuring content so ChatGPT Search, Perplexity, Google AI Overviews, Gemini, and Claude cite it. New this month: the domain</description><guid isPermaLink="false">https://geoaura.world/blog/ai-search-optimization</guid><category>General AI</category><pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Gemini 3.8 Live is GA on Agent Platform. The tool-call contract changed more than the voice did. — Anthony Wang</title><link>https://anthonywang.cc/writing/gemini-3-8-live-ga-async-tool-call-contract/</link><description>Gemini 3.8 Live is GA on Agent Platform. The tool-call contract changed more than the voice did. — Anthony Wang
-
-Deep Dive· 5 October 2026· 7 min read
-
-# Gemini 3.8 Live is GA on Agent Platform. The tool-call contract changed more than the voice did.
-
-Gemini 3.8 Live went GA on September 24 with asy</description><guid isPermaLink="false">https://anthonywang.cc/writing/gemini-3-8-live-ga-async-tool-call-contract/</guid><category>General AI</category><pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate></item><item><title>The GTM Plays AI Can’t Replace with David Politis, Host of Not Another CEO Podcast - Ep 86</title><link>https://thetransaction.substack.com/p/the-gtm-plays-ai-cant-replace-with</link><description>The GTM Plays AI Can’t Replace with David Politis, Host of Not Another CEO Podcast - Ep 86
-
-# The GTM Plays AI Can’t Replace with David Politis, Host of Not Another CEO Podcast - Ep 86
-
-### Plus, Why you need to hire a GTM Engineer ASAP
-
-The Transaction
-
-Oct 06, 2026
-
-Welcome to the latest weekly ed</description><guid isPermaLink="false">https://thetransaction.substack.com/p/the-gtm-plays-ai-cant-replace-with</guid><category>Alpha Signals</category><pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Cracking the GTM Engineer Interview 2026</title><link>https://aiengineeringinsider.substack.com/p/cracking-the-gtm-engineer-interview</link><description>Cracking the GTM Engineer Interview 2026
+Smartlead, Instantly, and Lemlist all send cold email, but they are built for different operators and different volumes. This is an honest comparis</description><guid isPermaLink="false">https://vendisys.com/blog/smartlead-vs-instantly-vs-lemlist-cold-email-platform-comparison/</guid><category>Tool Stack</category><pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Cracking the GTM Engineer Interview 2026</title><link>https://aiengineeringinsider.substack.com/p/cracking-the-gtm-engineer-interview</link><description>Cracking the GTM Engineer Interview 2026
 
 ### Architecting Signals, Data, Workflows, and AI Agents for Production Revenue Systems
 
@@ -170,15 +49,11 @@ Anthropic’s mission is to create reliable, interpretable, and steerable AI sys
 
 level-ai · Remote, United States
 
-Corporate Finance / Investment Remote Imported listing full-time 1 day ago
+Corporate Finance / Investment Remote Imported listing full-time 2 days ago
 
 ## About The Role
 
-Level AI · Remote (US) · Reports to the CRO About Lev</description><guid isPermaLink="false">https://jobspring.pro/job/j12876005/revenue-operations-architect-gtm-systems-builder-level-ai/</guid><category>Key Practitioners</category><pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate></item><item><title>TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer - Jingletree</title><link>https://jingletree.com/techcrunch-disrupt-2026-clay-s-kareem-amin-on-the-rise-of-the-gtm-engineer-280749.html</link><description>TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer - Jingletree
-
- 5 days ago 171 
-
-Two years ago, most companies didn’t have a GTM engineer. Now the role is showing up across tech, with practitioners using AI and automation to build revenue systems that once required multipl</description><guid isPermaLink="false">https://jingletree.com/techcrunch-disrupt-2026-clay-s-kareem-amin-on-the-rise-of-the-gtm-engineer-280749.html</guid><category>Key Practitioners</category><pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Legora's CRO: $3.5M to $200M ARR Direct Sales Motion</title><link>https://thegtmnewsletter.substack.com/p/gtm-208-direct-sales-motion-scaling-legora-patrick-forquer</link><description>Legora's CRO: $3.5M to $200M ARR Direct Sales Motion
+Level AI · Remote (US) · Reports to the CRO About Le</description><guid isPermaLink="false">https://jobspring.pro/job/j12876005/revenue-operations-architect-gtm-systems-builder-level-ai/</guid><category>Key Practitioners</category><pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Legora's CRO: $3.5M to $200M ARR Direct Sales Motion</title><link>https://thegtmnewsletter.substack.com/p/gtm-208-direct-sales-motion-scaling-legora-patrick-forquer</link><description>Legora's CRO: $3.5M to $200M ARR Direct Sales Motion
 
 ## How Legora Went From $3.5M to $200M+ ARR in Just 2 Years
 
@@ -202,15 +77,20 @@ Outbound sales today is still built around manual work: writing emails</descript
 - **Host:** David Marcus
 - **Language:** en
 
-[Apple Podcasts](https://podcasts.apple.com/podcast/id1463403514) · [Spotify](https://open.spotify.com/show/6Fer4LFL94q6eMulaqQORH) · [Website](https://podcast.thedeal.com) · [RSS feed](https://rss.buzzsprout.com/1483</description><guid isPermaLink="false">https://exa.ai/library/podcast/zkjj20f10g8</guid><category>Key Practitioners</category><pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate></item><item><title>How Signal-Based Selling Works: The 4-Stage Model</title><link>https://www.unifygtm.com/explore/how-signal-based-selling-works</link><description>How Signal-Based Selling Works: The 4-Stage Model
+[Apple Podcasts](https://podcasts.apple.com/podcast/id1463403514) · [Spotify](https://open.spotify.com/show/6Fer4LFL94q6eMulaqQORH) · [Website](https://podcast.thedeal.com) · [RSS feed](https://rss.buzzsprout.com/1483</description><guid isPermaLink="false">https://exa.ai/library/podcast/zkjj20f10g8</guid><category>Key Practitioners</category><pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate></item><item><title>How to build a GTM Engineering brand (do these 5 things)</title><link>https://newsletter.gtmengineering.ai/p/5-strategic-ways-to-build-your-gtme</link><description>How to build a GTM Engineering brand (do these 5 things)
 
-# How Signal-Based Selling Works: The 4-Stage Model
+### Growth strategies I’m deploying. How Lovable uses Lovable. Plus the next AMA.
 
-Austin Hughes
+Alex Lindahl | GTM Engineering
 
-Updated on: October 6, 2026
+Oct 06, 2026
 
-&gt; TL;DR: Signal-based selling helps B2B Growth and Sales teams prioritize accounts using recent, relevant events instead of static lists alone. The oper</description><guid isPermaLink="false">https://www.unifygtm.com/explore/how-signal-based-selling-works</guid><category>Key Practitioners</category><pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Data Enrichment Platform Guide: Build Trusted GTM Stacks</title><link>https://richapi.ai/blog/data-enrichment-platform</link><description>Data Enrichment Platform Guide: Build Trusted GTM Stacks
+New here? Hi, I’m Alex Lindahl, Creator in Residence at Clay.
+
+In today’s post:
+
+- Imposter syndrome &amp; growth
+- 5</description><guid isPermaLink="false">https://newsletter.gtmengineering.ai/p/5-strategic-ways-to-build-your-gtme</guid><category>Key Practitioners</category><pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Data Enrichment Platform Guide: Build Trusted GTM Stacks</title><link>https://richapi.ai/blog/data-enrichment-platform</link><description>Data Enrichment Platform Guide: Build Trusted GTM Stacks
 
 Blog / October 6, 2026
 
@@ -224,31 +104,31 @@ On this page</description><guid isPermaLink="false">https://richapi.ai/blog/data
 
 By Mike McDonnell• 6 October 2026• 6 min read•✓ Verified 6 Oct 2026
 
-Short answer: Lovable builds the app for you in a browser and hosts it. Claude Code works inside your own</description><guid isPermaLink="false">https://mikemcdonnell.co.uk/lovable-vs-claude-code</guid><category>Tool Stack</category><pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Lemlist vs Smartlead vs Instantly: Cold Email (2026)</title><link>https://www.purist.online/pages/blog/instantly-vs-smartlead-vs-lemlist-2026</link><description>Lemlist vs Smartlead vs Instantly: Cold Email (2026)
+Short answer: Lovable builds the app for you in a browser and hosts it. Claude Code works inside your own</description><guid isPermaLink="false">https://mikemcdonnell.co.uk/lovable-vs-claude-code</guid><category>Tool Stack</category><pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate></item><item><title>The Easiest Way to Create Content That Gets You Leads</title><link>https://exa.ai/library/podcast/ghzlcjthbng/episode/2vgzn1jslpx</link><description># The Easiest Way to Create Content That Gets You Leads
+
+- **Podcast:** [Profit Your Knowledge](https://exa.ai/library/podcast/ghzlcjthbng)
+- **Published:** 2026-10-06T14:00:00+00:00
+- **Duration:** 18:15.340
+- **Language:** en
+- **Hosts:** James Allen
+
+## Transcript
+
+**James Allen · 00:00.100–18:15</description><guid isPermaLink="false">https://exa.ai/library/podcast/ghzlcjthbng/episode/2vgzn1jslpx</guid><category>Tool Stack</category><pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Lemlist vs Smartlead vs Instantly: Cold Email (2026)</title><link>https://www.purist.online/pages/blog/instantly-vs-smartlead-vs-lemlist-2026</link><description>Lemlist vs Smartlead vs Instantly: Cold Email (2026)
 
 # Instantly vs Smartlead vs Lemlist: Cold Email Outreach Automation Compared (2026) 
 
- Deliverability, not features, is what actually separates these three cold email platforms. What real inbox placement, warmup quality, and mailbox rotation look</description><guid isPermaLink="false">https://www.purist.online/pages/blog/instantly-vs-smartlead-vs-lemlist-2026</guid><category>Tool Stack</category><pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate></item><item><title>MCP explained: what the Model Context Protocol is, and a tiny server you can run</title><link>https://www.systemdesign.academy/explained/mcp</link><description>MCP explained: what the Model Context Protocol is, and a tiny server you can run
+ Deliverability, not features, is what actually separates these three cold email platforms. What real inbox placement, warmup quality, and mailbox rotation look</description><guid isPermaLink="false">https://www.purist.online/pages/blog/instantly-vs-smartlead-vs-lemlist-2026</guid><category>Tool Stack</category><pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Principal customer innovation lead - Octave (Roma, Italy)</title><link>https://lavori.co.it/innovation-lead_roma-c294918/2026-10-octave_i4231664917</link><description>Principal customer innovation lead - Octave (Roma, Italy)
 
-# MCP explained: what the Model Context Protocol is, and a tiny server you can run
+# Principal Customer Innovation Lead
 
-MCP, the Model Context Protocol, is a free, public set of rules (a protocol) that lets an AI app use outside tools and data in one com</description><guid isPermaLink="false">https://www.systemdesign.academy/explained/mcp</guid><category>Tool Stack</category><pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Uncaptured ‘Intelligence Capital’ is your autonomy ceiling. Here’s how to raise it</title><link>https://www.otera.ai/blog/uncaptured-intelligence-capital</link><description>Uncaptured ‘Intelligence Capital’ is your autonomy ceiling. Here’s how to raise it
+ Octave Roma, Roma, IT 
 
-# Uncaptured ‘Intelligence Capital’ is your autonomy ceiling. Here’s how to raise it
+ Pubblicato 2026-10-06 
 
-Your Intelligence Capital (IC) sets your operations apart. Learn to capture your team’s unwritten knowledge.
+ About The Role 
 
-Samir Aziz CMO
-
-​ Oc</description><guid isPermaLink="false">https://www.otera.ai/blog/uncaptured-intelligence-capital</guid><category>GTM Engineering</category><pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate></item><item><title>AI for SDRs: a practical guide | type.com</title><link>https://type.com/blog/ai-for-sdrs</link><description>AI for SDRs: a practical guide | type.com
-
-# AI for SDRs: a practical guide
-
-Set up one Sales Space that researches, routes, checks, and preps every morning, while reps write and send every message.
-
-## What does this guide set up for an SDR team?
-
-This guide sets up AI in sales development as one s</description><guid isPermaLink="false">https://type.com/blog/ai-for-sdrs</guid><category>GTM Engineering</category><pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate></item><item><title>How to Build a Data Enrichment Pipeline for Outbound</title><link>https://storchak.eu/blog/how-to-build-a-data-enrichment-pipeline-for-outbound.html</link><description>How to Build a Data Enrichment Pipeline for Outbound
+Octave partners with the world's leading industrial and engineering, procurement &amp; construction (EPC) organizations to turn ambiguous,</description><guid isPermaLink="false">https://lavori.co.it/innovation-lead_roma-c294918/2026-10-octave_i4231664917</guid><category>Tool Stack</category><pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate></item><item><title>How to Build a Data Enrichment Pipeline for Outbound</title><link>https://storchak.eu/blog/how-to-build-a-data-enrichment-pipeline-for-outbound.html</link><description>How to Build a Data Enrichment Pipeline for Outbound
 
 # How to Build a Data Enrichment Pipeline for Outbound Sales
 
@@ -256,53 +136,156 @@ Hlib Storchak 6 October 2026 11 min read
 
 ### Quick answer
 
-A data enrichment pipeline is a waterfall of two or three data sources queried in priority order, a verification step that c</description><guid isPermaLink="false">https://storchak.eu/blog/how-to-build-a-data-enrichment-pipeline-for-outbound.html</guid><category>GTM Engineering</category><pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate></item><item><title>GTM Context Graphs: Decision Infrastructure for Revenue Teams</title><link>https://www.elixirdata.co/blog/gtm-context-graphs</link><description>GTM Context Graphs: Decision Infrastructure for Revenue Teams
+A data enrichment pipeline is a waterfall of two or three data sources queried in priority order, a verification step that c</description><guid isPermaLink="false">https://storchak.eu/blog/how-to-build-a-data-enrichment-pipeline-for-outbound.html</guid><category>Tool Stack</category><pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Inside Vercel's agent-run go-to-market, from the COO's chair | Dealroom News</title><link>https://dealroom.co/news/talk-CPp_XKM7fcc-inside-vercels-agent-run-go-to-market-from-the-coos-chair/</link><description>Inside Vercel's agent-run go-to-market, from the COO's chair | Dealroom News
+
+Grit Oct 6, 2026, 00:00 UTC
+
+## Key points
+
+Key takeaways from the Grit interview by Kleiner Perkins with Vercel COO Jeanne DeWitt Grosser, published October 2026:
+
+Support on agents. Vercel resolves 91% of its support vol</description><guid isPermaLink="false">https://dealroom.co/news/talk-CPp_XKM7fcc-inside-vercels-agent-run-go-to-market-from-the-coos-chair/</guid><category>GTM Engineering</category><pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate></item><item><title>The context factor for AI agents | TechTarget</title><link>https://www.techtarget.com/ai/news/366651628/The-context-factor-for-AI-agents</link><description>The context factor for AI agents | TechTarget
+
+Getty Images/iStockphoto
+
+## Process Intelligence helps organizations provide AI agents with the right context and data needed to know how their businesses run.
+
+By
+
+- Shaun Sutner, Senior News Director
+- Esther Shittu, News Writer
+
+ Published: 06 Oct 2</description><guid isPermaLink="false">https://www.techtarget.com/ai/news/366651628/The-context-factor-for-AI-agents</guid><category>GTM Engineering</category><pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate></item><item><title>GTM Context Graphs: Decision Infrastructure for Revenue Teams</title><link>https://www.elixirdata.co/blog/gtm-context-graphs</link><description>GTM Context Graphs: Decision Infrastructure for Revenue Teams
 
 # GTM Context Graphs: Decision Infrastructure for Revenue Teams
 
 Navdeep Singh Gill | 06 October 2026
 
-Revenue teams do not have a shortage of dashboards. They have CRM dashboards, pipeline reports, marketing attribution dashboards, cust</description><guid isPermaLink="false">https://www.elixirdata.co/blog/gtm-context-graphs</guid><category>GTM Engineering</category><pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Developer Documentation SEO: A 5-Layer Framework for Getting Docs Sites to Rank | MV3 Marketing</title><link>https://www.mv3marketing.com/blog/developer-documentation-seo-framework/</link><description>Developer Documentation SEO: A 5-Layer Framework for Getting Docs Sites to Rank | MV3 Marketing
+Revenue teams do not have a shortage of dashboards. They have CRM dashboards, pipeline reports, marketing attribution dashboards, cust</description><guid isPermaLink="false">https://www.elixirdata.co/blog/gtm-context-graphs</guid><category>GTM Engineering</category><pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate></item><item><title>draft-fane-opena2a-aip-04</title><link>https://datatracker.ietf.org/doc/html/draft-fane-opena2a-aip-04</link><description>draft-fane-opena2a-aip-04 
 
-# Developer Documentation SEO: A 5-Layer Framework for Getting Docs Sites to Rank
+Workgroup:
+: Individual Submission
+Internet-Draft:
+: draft-fane-opena2a-aip-04
+Published:
+: 6 October 2026
+Intended Status:
+: Standards Track
+Expires:
+: 9 April 2027
+Author:
+: A. Fane OpenA2A
 
-Why API references and help docs underperform in Google even with great content, and the 5-layer framework (architecture</description><guid isPermaLink="false">https://www.mv3marketing.com/blog/developer-documentation-seo-framework/</guid><category>General AI</category><pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Site Architecture Guide: Improve Bot Traversal &amp; Indexing | Digiverse</title><link>https://digiversepakistan.com/site-architecture-guide-improve-bot-traversal-indexing</link><description>Site Architecture Guide: Improve Bot Traversal &amp; Indexing | Digiverse
+## Abstract
+
+This document defines the OpenA2A Agent Identity Protocol (OpenA2A</description><guid isPermaLink="false">https://datatracker.ietf.org/doc/html/draft-fane-opena2a-aip-04</guid><category>General AI</category><pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Site Architecture Guide: Improve Bot Traversal &amp; Indexing | Digiverse</title><link>https://digiversepakistan.com/site-architecture-guide-improve-bot-traversal-indexing</link><description>Site Architecture Guide: Improve Bot Traversal &amp; Indexing | Digiverse
 
 # Site Architecture Guide: Improve Bot Traversal &amp; Indexing
 
  by Niall Sterling October 6, 2026 October 6, 2026
 
-Boost indexing speed by 4x with optimized site architecture. Learn how to minimize click depth, manage crawl budgets</description><guid isPermaLink="false">https://digiversepakistan.com/site-architecture-guide-improve-bot-traversal-indexing</guid><category>General AI</category><pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Lead Enterprise Revenue Architect (Customer Success) - RevOps Careers</title><link>https://revopscareers.com/job/gong-lead-enterprise-revenue-architect-customer-success-united-states/</link><description>Lead Enterprise Revenue Architect (Customer Success) - RevOps Careers
+Boost indexing speed by 4x with optimized site architecture. Learn how to minimize click depth, manage crawl budgets</description><guid isPermaLink="false">https://digiversepakistan.com/site-architecture-guide-improve-bot-traversal-indexing</guid><category>General AI</category><pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate></item><item><title>AI Search Optimisation Guide: GEO and AEO | Sudeshna Thapa</title><link>https://sudeshnathapa.com/resources/ai-search-optimisation-guide/</link><description>AI Search Optimisation Guide: GEO and AEO | Sudeshna Thapa
 
-# Lead Enterprise Revenue Architect (Customer Success)
+# AI search optimisation guide: GEO, AEO and how AI chooses its sources
 
- Remote Full Time United States (Remote) Gong 
+A plain-English guide to GEO, AEO and AI search for UK business owners and marketers: what the terms mean, how Google's AI Overviews, ChatGPT and Perplexity choose the</description><guid isPermaLink="false">https://sudeshnathapa.com/resources/ai-search-optimisation-guide/</guid><category>General AI</category><pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate></item><item><title>The Revenue Engine Newsletter</title><link>https://revenueenginenews.beehiiv.com/p/the-revenue-engine-newsletter-6624</link><description># The Revenue Engine Newsletter
 
-## Role Overview
+Author: Alex Gluz
+Published: 2026-10-06T12:00:00Z
+Source: revenueenginenews.beehiiv.com
+Language: en
 
-As a Lead Enterprise Revenue Architect at Gong, you will be a strategic partner to our largest customers, d</description><guid isPermaLink="false">https://revopscareers.com/job/gong-lead-enterprise-revenue-architect-customer-success-united-states/</guid><category>Key Practitioners</category><pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Multi-threading is a lagging indicator, not a… | Skyp GTM</title><link>https://skyp.ai/gtm-newsletter/multi-threading-is-a-lagging-indicator-not-a-strategy</link><description>Multi-threading is a lagging indicator, not a… | Skyp GTM
+## Story
 
-# The Skyp Newsletter The Skyp Newsletter
+The Revenue Engine Newsletter
+0
+* [The Revenue Engine Newsletter](../)
+* Posts
+* The Revenue Engine Newsletter
+# The Revenue Engine Newsletter
+## 10 years</description><guid isPermaLink="false">https://revenueenginenews.beehiiv.com/p/the-revenue-engine-newsletter-6624</guid><category>Key Practitioners</category><pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate></item><item><title>Context Engineering for AI Agents: What to Feed &amp; Leave Out</title><link>https://komodor.com/blog/context-engineering-for-ai-agents/</link><description>Context Engineering for AI Agents: What to Feed &amp; Leave Out
 
-Insights, tips, and strategies for modern AI-powered outreach and sales automation
+# Context Engineering for AI Agents: What to Feed an Agent and What to Leave Out
 
-Insights October 7, 2026· 3 min read
+ 
 
-# Multi-threading is a lagging indicator, not a strategy
+Komodor 6 min read October 7th, 2026
 
-More stakeholders</description><guid isPermaLink="false">https://skyp.ai/gtm-newsletter/multi-threading-is-a-lagging-indicator-not-a-strategy</guid><category>Key Practitioners</category><pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Best Vibe Coding Tools for Startup Prototyping (2026)</title><link>https://saascity.io/blog/best-vibe-coding-tools-startup-prototyping-2026</link><description>Best Vibe Coding Tools for Startup Prototyping (2026)
+By Komodor
 
-# The Best Vibe Coding Tools for Rapid Startup Prototyping (2026): Pick by Job, Not by Ranking
+Picture a Monday at 03:10 UTC. An agent investigating an out-of-memory alert on payment-service works ou</description><guid isPermaLink="false">https://komodor.com/blog/context-engineering-for-ai-agents/</guid><category>Key Practitioners</category><pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Lead Enterprise Revenue Architect [Remote Job] @Gong.io</title><link>https://www.remote-work.app/job/gong-io-lead-enterprise-revenue-architect-remote</link><description>Lead Enterprise Revenue Architect [Remote Job] @Gong.io
 
-There is no single best vibe coding tool. There is a best tool for the next 48 hours of your startup. Lovable, Bolt.new, Replit, v0, Base44, Cursor a</description><guid isPermaLink="false">https://saascity.io/blog/best-vibe-coding-tools-startup-prototyping-2026</guid><category>Tool Stack</category><pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Getting started with Clay for data enrichment and personalised outreach | Clay</title><link>https://community.clay.com/x/welcome/msg_KMnWYXmCuavm/getting-started-with-clay-for-data-enrichment-and</link><description>Getting started with Clay for data enrichment and personalised outreach | Clay
+# Lead Enterprise Revenue Architect
 
-# Getting started with Clay for data enrichment and personalised outreach
+Gong.io United States Posted 7 Oct
 
-Louise H.
+Remote · USA Posted 22h ago
 
-· Oct 07, 2026 09:36 AM(edited)·
+Work mode
 
-Hey everyone 👋 I'm Louise. I'm based in London and am Senior RevOps Manager at zeroheight. We have</description><guid isPermaLink="false">https://community.clay.com/x/welcome/msg_KMnWYXmCuavm/getting-started-with-clay-for-data-enrichment-and</guid><category>Tool Stack</category><pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate></item><item><title>A ChatGPT Prospecting Workflow: 10 Prompts That Work | Happierleads</title><link>https://happierleads.com/blog/chatgpt-prompts-b2b-prospecting-workflow</link><description>A ChatGPT Prospecting Workflow: 10 Prompts That Work | Happierleads
+Remote
+
+Region
+
+USA
+
+United States
+
+Category
+
+Software Engineer
+
+Posted
+
+7 Oct 2026
+
+## Skills
+
+- EXCEL
+
+## About the role
+
+Gong h</description><guid isPermaLink="false">https://www.remote-work.app/job/gong-io-lead-enterprise-revenue-architect-remote</guid><category>Key Practitioners</category><pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate></item><item><title>What is the B2B GTM engineering stack in 2026 and how should revenue teams build it? | getfrontier.co</title><link>https://getfrontier.co/knowledge/what_is_the_b2b_gtm_engineering_stack_in_2026_and_how_should_revenue_teams_build_it.php</link><description>What is the B2B GTM engineering stack in 2026 and how should revenue teams build it? | getfrontier.co
+
+# What is the B2B GTM engineering stack in 2026 and how should revenue teams build it?
+
+Knowledge Base 9 min read October 7, 2026
+
+Key Facts
+
+ Timeline: 60–90 days to first working stack; 6 months</description><guid isPermaLink="false">https://getfrontier.co/knowledge/what_is_the_b2b_gtm_engineering_stack_in_2026_and_how_should_revenue_teams_build_it.php</guid><category>Key Practitioners</category><pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Cargo | Airframe</title><link>https://www.airframe.ai/product/getcargo-ai/co-diligence</link><description>Cargo | Airframe
+
+# Cargo
+
+AI Native
+
+Build AI workflows that drive revenue
+
+Est 2023| Raised $500K| 35 Ref Customers
+
+LinkedIn 6K| Website| Web traffic 5K| FTEs 65| HQ San Francisco, California, US
+
+Markets Inbound Lead Scoring &amp; Routing RevOps Planning &amp; Orchestration
+
+Published Oct 8, 2026
+
+## 01</description><guid isPermaLink="false">https://www.airframe.ai/product/getcargo-ai/co-diligence</guid><category>Tool Stack</category><pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate></item><item><title>AI Agents in Zapier vs Make vs n8n: Which Is Best? | AI Compare</title><link>https://www.yukabase.com/en/articles/ai-agents-zapier-make-n8n/</link><description>AI Agents in Zapier vs Make vs n8n: Which Is Best? | AI Compare
+
+# AI Agents in Zapier vs Make vs n8n: Which Is Best?
+
+October 7, 2026 · By AI Compare
+
+How Zapier Agents, Make AI Agents and n8n's AI Agent node differ, and which to choose.
+
+## What is an AI agent in automation?
+
+A normal automation f</description><guid isPermaLink="false">https://www.yukabase.com/en/articles/ai-agents-zapier-make-n8n/</guid><category>Tool Stack</category><pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Context is not knowledge — Codee3</title><link>https://www.codee3.dev/learn/context-is-not-knowledge</link><description>Context is not knowledge — Codee3
+
+# Context is not knowledge
+
+Feeding an agent more text is not the same as giving it knowledge. Knowledge has identity, warrant, an owner and declared authority; context is bytes in a window.
+
+There is a comfortable assumption underneath most repository-context tool</description><guid isPermaLink="false">https://www.codee3.dev/learn/context-is-not-knowledge</guid><category>GTM Engineering</category><pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate></item><item><title>A ChatGPT Prospecting Workflow: 10 Prompts That Work | Happierleads</title><link>https://happierleads.com/blog/chatgpt-prompts-b2b-prospecting-workflow</link><description>A ChatGPT Prospecting Workflow: 10 Prompts That Work | Happierleads
 
 # A ChatGPT Prospecting Workflow: 10 Prompts That Work
 
@@ -312,7 +295,7 @@ Bradley Moore
 
 Published on
 
-October 7, 2026
+October 8, 2026
 
 Table of contents
 
@@ -320,21 +303,97 @@ Text Link
 
 Explore Happierleads
 
-ChatGPT is useful for prospecting when you treat it as a fast res</description><guid isPermaLink="false">https://happierleads.com/blog/chatgpt-prompts-b2b-prospecting-workflow</guid><category>GTM Engineering</category><pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate></item><item><title>openai-python v3.25.0 — agents and tools update · On AI Radar</title><link>https://onairadar.com/en/updates/openai-python-v3-25-0-released-with-agent-and-tool-features</link><description>openai-python v3.25.0 — agents and tools update · On AI Radar
+ChatGPT is useful for prospecting when you treat it as a fast res</description><guid isPermaLink="false">https://happierleads.com/blog/chatgpt-prompts-b2b-prospecting-workflow</guid><category>GTM Engineering</category><pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Context Engineering for Product Managers: Decide What Your AI Agents See · Prodstack</title><link>https://www.prod-stack.ai/blog/context-engineering-for-product-managers</link><description>Context Engineering for Product Managers: Decide What Your AI Agents See · Prodstack
 
-# openai-python v3.25.0 released with agent and tool features
+# Context Engineering for Product Managers: Decide What Your AI Agents See
 
-openai-python v3.25.0 (2026-10-06) adds agent and tooling changes: agents observe local tool failures and can run local tools during streamed session creation; API, lib, and</description><guid isPermaLink="false">https://onairadar.com/en/updates/openai-python-v3-25-0-released-with-agent-and-tool-features</guid><category>General AI</category><pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Strategic reasoning in marketing practice: a qualitative study of computational thinking operations | Qualitative Market Research | Emerald Publishing</title><link>https://www.emerald.com/qmr/article/doi/10.1108/QMR-04-2026-0092/1400729/Strategic-reasoning-in-marketing-practice-a</link><description>Strategic reasoning in marketing practice: a qualitative study of computational thinking operations | Qualitative Market Research | Emerald Publishing
+Context engineering for product managers: decide what your AI agents see, from discovery findings to acceptance criteria, with write, sele</description><guid isPermaLink="false">https://www.prod-stack.ai/blog/context-engineering-for-product-managers</guid><category>GTM Engineering</category><pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate></item><item><title>What Is Vibe Coding? Meaning, Examples, Tools &amp; Risks</title><link>https://comparecrest.com/blog/what-is-vibe-coding/</link><description>What Is Vibe Coding? Meaning, Examples, Tools &amp; Risks
+
+# What Is Vibe Coding? Meaning, Examples, Tools and Risks (2026)
+
+ Ajay Kumar Updated 7 Oct 2026 11 min read 
+
+On this page
+
+Vibe coding is a way of building software where you describe what you want in plain language, an AI model writes the cod</description><guid isPermaLink="false">https://comparecrest.com/blog/what-is-vibe-coding/</guid><category>General AI</category><pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Four Rules of Vibe Coding (Without the Chaos) - argil.io</title><link>https://www.argil.io/playbooks/vibe-coding/four-rules-of-vibe-coding</link><description>Four Rules of Vibe Coding (Without the Chaos) - argil.io
+
+# Four Rules of Vibe Coding (Without the Chaos)
+
+Written by Julien Berthomier 20 min read Last updated October 7, 2026
+
+### Ask questions about this article
+
+Since this article is quite long and comprehensive, I've generated an LLM-optimized</description><guid isPermaLink="false">https://www.argil.io/playbooks/vibe-coding/four-rules-of-vibe-coding</guid><category>General AI</category><pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate></item><item><title>The cost of retrieval: what a page really costs Googlebot - EdgeComet</title><link>https://edgecomet.com/blog/the-cost-of-retrieval-what-a-page-really-costs-googlebot/</link><description>The cost of retrieval: what a page really costs Googlebot - EdgeComet
+
+# The cost of retrieval: what a page really costs Googlebot
+
+ Serge Bezborodov Published: October 7, 2026 14 min read 
+
+ 
+
+I started digging into crawl budget around 2016, and in 2018 I gave my first talk built on crawl data at s</description><guid isPermaLink="false">https://edgecomet.com/blog/the-cost-of-retrieval-what-a-page-really-costs-googlebot/</guid><category>General AI</category><pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate></item><item><title>How the Clay ecosystem team builds with AI for 50,000+ people</title><link>https://www.clay.com/blog/ecosystem-build</link><description># How the Clay ecosystem team builds with AI for 50,000+ people
+
+Published: 2026-10-07T19:47:01Z
+Source: clay.com
+Language: en
+
+## Story
+
+Search
+
+Thank you! Your submission has been received!
+
+Oops! Something went wrong while submitting the form.
+
+How to Use Grok Bot and Clay for Go-to-Market PlaysE</description><guid isPermaLink="false">https://www.clay.com/blog/ecosystem-build</guid><category>Key Practitioners</category><pubDate>Wed, 07 Oct 2026 19:47:01 +0000</pubDate></item><item><title>Best Vibe Coding Tools in 2026: 14 Picks by Skill Level</title><link>https://comparecrest.com/best-vibe-coding-tools/</link><description>Best Vibe Coding Tools in 2026: 14 Picks by Skill Level
+
+# Best Vibe Coding Tools in 2026: 14 Picks for Non-Coders and Developers
+
+ Written by Shubham Updated 7 Oct 2026 13 min read 
+
+On this page
+
+The best vibe coding tool depends on one question: how much code do you want to see? If the answer is</description><guid isPermaLink="false">https://comparecrest.com/best-vibe-coding-tools/</guid><category>Tool Stack</category><pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Strategic reasoning in marketing practice: a qualitative study of computational thinking operations | Qualitative Market Research | Emerald Publishing</title><link>https://www.emerald.com/qmr/article/doi/10.1108/QMR-04-2026-0092/1400729/Strategic-reasoning-in-marketing-practice-a</link><description>Strategic reasoning in marketing practice: a qualitative study of computational thinking operations | Qualitative Market Research | Emerald Publishing
 
 Article Contents
 
 - 1. Introduction 
 - 2. Theoretical framework and literature review 
 - 2.1 Marketing strategy as cognitive decision-making 
-- 2.2</description><guid isPermaLink="false">https://www.emerald.com/qmr/article/doi/10.1108/QMR-04-2026-0092/1400729/Strategic-reasoning-in-marketing-practice-a</guid><category>GTM Engineering</category><pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Open-Source Retrieval Library: context-engine 1.0 | promptev</title><link>https://promptev.ai/context-engine-open-source-retrieval-library/</link><description>Open-Source Retrieval Library: context-engine 1.0 | promptev
+- 2.2</description><guid isPermaLink="false">https://www.emerald.com/qmr/article/doi/10.1108/QMR-04-2026-0092/1400729/Strategic-reasoning-in-marketing-practice-a</guid><category>GTM Engineering</category><pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Okki-Go Outbound Research: Permissions, API Data Enrichment, and Waterfall Enrichment in Agent-Native Prospecting</title><link>https://www.zoominfous.com/blog/okkigo-outbound-research-permissions-api-data-enrichment-and-waterfall-enrichment-in-agentnative-137.html</link><description>Okki-Go Outbound Research: Permissions, API Data Enrichment, and Waterfall Enrichment in Agent-Native Prospecting
+
+# Okki-Go Outbound Research: Permissions, API Data Enrichment, and Waterfall Enrichment in Agent-Native Prospecting
+
+2026-10-08 · Neha Banerjee
+
+ Table of Contents 
+
+- The 4:47 PM probl</description><guid isPermaLink="false">https://www.zoominfous.com/blog/okkigo-outbound-research-permissions-api-data-enrichment-and-waterfall-enrichment-in-agentnative-137.html</guid><category>GTM Engineering</category><pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate></item><item><title>The RevOps Checklist: Wiring Waterfall Enrichment Into an Agent-Native Prospecting Workflow</title><link>https://www.artisanaius.com/blog/the-revops-checklist-wiring-waterfall-enrichment-into-an-agentnative-prospecting-workflow-137.html</link><description>The RevOps Checklist: Wiring Waterfall Enrichment Into an Agent-Native Prospecting Workflow
+
+# The RevOps Checklist: Wiring Waterfall Enrichment Into an Agent-Native Prospecting Workflow
+
+2026-10-08 · Neha Banerjee
+
+ Table of Contents 
+
+- Who This Checklist Is For
+- Step 1. Audit What You Already Ha</description><guid isPermaLink="false">https://www.artisanaius.com/blog/the-revops-checklist-wiring-waterfall-enrichment-into-an-agentnative-prospecting-workflow-137.html</guid><category>GTM Engineering</category><pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Agent Framework 1.24: The Anthropic Agent Package Is Stable, Except for Beta Services - Start Debugging</title><link>https://startdebugging.net/2026/10/agent-framework-1-24-anthropic-agent-package-goes-stable/</link><description>Agent Framework 1.24: The Anthropic Agent Package Is Stable, Except for Beta Services - Start Debugging
+
+# Agent Framework 1.24: The Anthropic Agent Package Is Stable, Except for Beta Services
+
+Microsoft.Agents.AI.Anthropic 1.24.0 drops the preview suffix and depends on Anthropic 12.53.0. Agents bui</description><guid isPermaLink="false">https://startdebugging.net/2026/10/agent-framework-1-24-anthropic-agent-package-goes-stable/</guid><category>General AI</category><pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Open-Source Retrieval Library: context-engine 1.0 | promptev</title><link>https://promptev.ai/context-engine-open-source-retrieval-library/</link><description>Open-Source Retrieval Library: context-engine 1.0 | promptev
 
 # context-engine 1.0: an open-source retrieval library with permissions inside the query
 
 October 9, 2026· 14 min read
 
-If you filter search results by permission after the search has run, callers with narrow access get short or empty res</description><guid isPermaLink="false">https://promptev.ai/context-engine-open-source-retrieval-library/</guid><category>Key Practitioners</category><pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate></item></channel></rss>
+If you filter search results by permission after the search has run, callers with narrow access get short or empty res</description><guid isPermaLink="false">https://promptev.ai/context-engine-open-source-retrieval-library/</guid><category>Key Practitioners</category><pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate></item><item><title>Poster: Agent Transfer Protocol: Server-Mediated Authentication and Messaging for Agent-to-Agent Communication | Proceedings of the 2026 ACM Internet Measurement Conference</title><link>https://dl.acm.org/doi/10.1145/3777912.3847607</link><description># Poster: Agent Transfer Protocol: Server-Mediated Authentication and Messaging for Agent-to-Agent Communication | Proceedings of the 2026 ACM Internet Measurement Conference
+
+Author: Authors Info, Claims
+Published: 2026-10-12T00:00:00Z
+Source: dl.acm.org
+Language: en
+
+## Story
+
+Poster: Agent Transf</description><guid isPermaLink="false">https://dl.acm.org/doi/10.1145/3777912.3847607</guid><category>General AI</category><pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate></item></channel></rss>
